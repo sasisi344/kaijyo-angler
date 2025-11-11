@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>リリース可能 - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E5%8F%AF%E8%83%BD/</link>
+        <description>リリース可能 - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:33:42 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E5%8F%AF%E8%83%BD/" rel="self" type="application/rss+xml" /><item>
+    <title>【長崎県】ジャンボフィッシング村｜リリース可能な珍しい海上釣り堀・料金完全ガイド</title>
+    <link>https://example.org/posts/kyusyu/jumbfishvill-kyusyu/</link>
+    <pubDate>Mon, 21 Jul 2025 01:33:42 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kyusyu/jumbfishvill-kyusyu/</guid>
+    <description><![CDATA[長崎県佐世保市のジャンボフィッシング村は、全国でも珍しいリリース可能な海上釣り堀です。予約不要で気軽に利用でき、A・B・Cの3コース制で2,000円から選択可能。マダイ・ヒラマサなど8種類の魚種が狙え、環境保護を重視した新しいスタイルの釣り体験を提供する革新的施設です。]]></description>
+</item>
+<item>
+    <title>【長崎県】新上五島町海上釣り堀｜五島列島観光と釣り体験・手ぶらOK完全ガイド</title>
+    <link>https://example.org/posts/kyusyu/gotoukaijyoturi-kyusyu/</link>
+    <pubDate>Mon, 21 Jul 2025 01:30:31 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kyusyu/gotoukaijyoturi-kyusyu/</guid>
+    <description><![CDATA[長崎県五島列島の新上五島町海上釣り堀は、1時間4,500円で完全手ぶら釣り体験ができる観光型釣り施設です。ヒラマサ・クエ・マダイなど9種類の高級魚が狙え、リリース方式で環境配慮。五島観光の人気アクティビティとして夏季限定営業しています。]]></description>
+</item>
+</channel>
+</rss>

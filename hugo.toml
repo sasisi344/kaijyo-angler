@@ -1,0 +1,361 @@
+baseURL = "https://example.org/"
+
+# theme
+theme = "LoveIt"
+
+# website title
+title = "Kaijyo Fishing"
+
+# determines default content language ["en", "zh-cn", "fr", "pl", "ja", ...]
+defaultContentLanguage = "ja"
+# language code ["en", "zh-CN", "fr", "pl", "ja", ...]
+languageCode = "ja"
+# language name ["English", "简体中文", "Français", "Polski", "日本語", ...]
+languageName = "日本語"
+# whether to include Chinese/Japanese/Korean
+hasCJKLanguage = true
+
+# copyright description used only for seo schema
+copyright = ""
+
+# whether to use robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = true
+# whether to use emoji code
+enableEmoji = true
+
+# ignore some build errors
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
+# Pagination config
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = "page"
+
+# Multilingual
+[languages]
+  [languages.ja]
+    weight = 1
+    languageCode = "ja"
+    languageName = "日本語"
+    hasCJKLanguage = true
+    title = "Kaijyo Fishing"
+    description = "海釣り施設と海上釣り堀の情報サイト"
+    [languages.ja.menu]
+      [[languages.ja.menu.main]]
+        weight = 1
+        identifier = "posts"
+        name = "記事"
+        url = "/posts/"
+        title = ""
+      [[languages.ja.menu.main]]
+        weight = 2
+        identifier = "categories"
+        name = "カテゴリー"
+        url = "/categories/"
+        title = ""
+      [[languages.ja.menu.main]]
+        weight = 3
+        identifier = "category-eastjapan"
+        name = "東日本"
+        url = "/categories/東日本/"
+        title = "東日本地方の海上釣り堀・海釣り施設"
+        parent = "categories"
+      [[languages.ja.menu.main]]
+        weight = 4
+        identifier = "category-chubu"
+        name = "中部"
+        url = "/categories/中部/"
+        title = "中部地方の海上釣り堀・海釣り施設"
+        parent = "categories"
+      [[languages.ja.menu.main]]
+        weight = 5
+        identifier = "category-westjapan"
+        name = "西日本"
+        url = "/categories/西日本/"
+        title = "西日本地方の海上釣り堀・海釣り施設"
+        parent = "categories"
+      [[languages.ja.menu.main]]
+        weight = 6
+        identifier = "category-kyushu-okinawa"
+        name = "九州・沖縄"
+        url = "/categories/九州・沖縄/"
+        title = "九州・沖縄地方の海上釣り堀・海釣り施設"
+        parent = "categories"
+      [[languages.ja.menu.main]]
+        weight = 7
+        identifier = "tags"
+        name = "タグ"
+        url = "/tags/"
+        title = ""
+    [languages.ja.params]
+      defaultTheme = "light"
+      gitRepo = "https://github.com/sasisi344/kaijyo-fishing"
+      fingerprint = ""
+      dateFormat = "2006-01-02"
+      title = "Kaijyo Fishing"
+      description = "海釣り施設と海上釣り堀の情報サイト"
+      images = ["/logo.png"]
+      [languages.ja.params.author]
+        name = "Kaijyo Fishing"
+        email = ""
+        link = ""
+      [languages.ja.params.header]
+        desktopMode = "fixed"
+        mobileMode = "auto"
+        [languages.ja.params.header.title]
+          logo = ""
+          name = "Kaijyo Fishing"
+          pre = ""
+          post = ""
+          typeit = false
+      [languages.ja.params.footer]
+        enable = true
+        custom = ""
+        hugo = true
+        copyright = true
+        author = true
+        since = 2025
+        icp = ""
+        license = ""
+      [languages.ja.params.section]
+        paginate = 20
+        dateFormat = "01-02"
+        rss = 10
+      [languages.ja.params.list]
+        paginate = 20
+        dateFormat = "01-02"
+        rss = 10
+      [languages.ja.params.app]
+        enable = true
+        light = true
+        dark = true
+        icon = "/logo.png"
+      [languages.ja.params.search]
+        enable = true
+        type = "lunr"
+        contentLength = 4000
+        placeholder = ""
+        maxResultLength = 10
+        icon = "search"
+      [languages.ja.params.code]
+        copy = true
+        maxShownLines = 50
+
+  [languages.en]
+    weight = 2
+    languageCode = "en"
+    languageName = "English"
+    hasCJKLanguage = false
+    title = "Kaijyo Fishing"
+    description = "Marine fishing facilities and sea fishing pond information site"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        weight = 1
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+      [[languages.en.menu.main]]
+        weight = 2
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+      [[languages.en.menu.main]]
+        weight = 3
+        identifier = "category-eastjapan"
+        name = "East Japan"
+        url = "/categories/東日本/"
+        title = "Marine fishing facilities in East Japan"
+        parent = "categories"
+      [[languages.en.menu.main]]
+        weight = 4
+        identifier = "category-chubu"
+        name = "Chubu"
+        url = "/categories/中部/"
+        title = "Marine fishing facilities in Chubu region"
+        parent = "categories"
+      [[languages.en.menu.main]]
+        weight = 5
+        identifier = "category-westjapan"
+        name = "West Japan"
+        url = "/categories/西日本/"
+        title = "Marine fishing facilities in West Japan"
+        parent = "categories"
+      [[languages.en.menu.main]]
+        weight = 6
+        identifier = "category-kyushu-okinawa"
+        name = "Kyushu & Okinawa"
+        url = "/categories/九州・沖縄/"
+        title = "Marine fishing facilities in Kyushu & Okinawa"
+        parent = "categories"
+      [[languages.en.menu.main]]
+        weight = 7
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+    [languages.en.params]
+      defaultTheme = "light"
+      gitRepo = "https://github.com/sasisi344/kaijyo-fishing"
+      fingerprint = ""
+      dateFormat = "2006-01-02"
+      title = "Kaijyo Fishing"
+      description = "Marine fishing facilities and sea fishing pond information site"
+      images = ["/logo.png"]
+      [languages.en.params.author]
+        name = "Kaijyo Fishing"
+        email = ""
+        link = ""
+      [languages.en.params.header]
+        desktopMode = "fixed"
+        mobileMode = "auto"
+        [languages.en.params.header.title]
+          logo = ""
+          name = "Kaijyo Fishing"
+          pre = ""
+          post = ""
+          typeit = false
+      [languages.en.params.footer]
+        enable = true
+        custom = ""
+        hugo = true
+        copyright = true
+        author = true
+        since = 2025
+        icp = ""
+        license = ""
+      [languages.en.params.section]
+        paginate = 20
+        dateFormat = "01-02"
+        rss = 10
+      [languages.en.params.list]
+        paginate = 20
+        dateFormat = "01-02"
+        rss = 10
+      [languages.en.params.app]
+        enable = true
+        light = true
+        dark = true
+        icon = "/logo.png"
+      [languages.en.params.search]
+        enable = true
+        type = "lunr"
+        contentLength = 4000
+        placeholder = ""
+        maxResultLength = 10
+        icon = "search"
+      [languages.en.params.code]
+        copy = true
+        maxShownLines = 50
+
+  [languages.zh-cn]
+    weight = 3
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    hasCJKLanguage = true
+    title = "Kaijyo Fishing"
+    description = "海钓设施和海上钓鱼池信息网站"
+    [languages.zh-cn.menu]
+      [[languages.zh-cn.menu.main]]
+        weight = 1
+        identifier = "posts"
+        name = "文章"
+        url = "/posts/"
+        title = ""
+      [[languages.zh-cn.menu.main]]
+        weight = 2
+        identifier = "categories"
+        name = "分类"
+        url = "/categories/"
+        title = ""
+      [[languages.zh-cn.menu.main]]
+        weight = 3
+        identifier = "category-eastjapan"
+        name = "东日本"
+        url = "/categories/東日本/"
+        title = "东日本地区的海上钓鱼池和海钓设施"
+        parent = "categories"
+      [[languages.zh-cn.menu.main]]
+        weight = 4
+        identifier = "category-chubu"
+        name = "中部"
+        url = "/categories/中部/"
+        title = "中部地区的海上钓鱼池和海钓设施"
+        parent = "categories"
+      [[languages.zh-cn.menu.main]]
+        weight = 5
+        identifier = "category-westjapan"
+        name = "西日本"
+        url = "/categories/西日本/"
+        title = "西日本地区的海上钓鱼池和海钓设施"
+        parent = "categories"
+      [[languages.zh-cn.menu.main]]
+        weight = 6
+        identifier = "category-kyushu-okinawa"
+        name = "九州・冲绳"
+        url = "/categories/九州・沖縄/"
+        title = "九州・冲绳地区的海上钓鱼池和海钓设施"
+        parent = "categories"
+      [[languages.zh-cn.menu.main]]
+        weight = 7
+        identifier = "tags"
+        name = "标签"
+        url = "/tags/"
+        title = ""
+    [languages.zh-cn.params]
+      defaultTheme = "light"
+      gitRepo = "https://github.com/sasisi344/kaijyo-fishing"
+      fingerprint = ""
+      dateFormat = "2006-01-02"
+      title = "Kaijyo Fishing"
+      description = "海钓设施和海上钓鱼池信息网站"
+      images = ["/logo.png"]
+      [languages.zh-cn.params.author]
+        name = "Kaijyo Fishing"
+        email = ""
+        link = ""
+      [languages.zh-cn.params.header]
+        desktopMode = "fixed"
+        mobileMode = "auto"
+        [languages.zh-cn.params.header.title]
+          logo = ""
+          name = "Kaijyo Fishing"
+          pre = ""
+          post = ""
+          typeit = false
+      [languages.zh-cn.params.footer]
+        enable = true
+        custom = ""
+        hugo = true
+        copyright = true
+        author = true
+        since = 2025
+        icp = ""
+        license = ""
+      [languages.zh-cn.params.section]
+        paginate = 20
+        dateFormat = "01-02"
+        rss = 10
+      [languages.zh-cn.params.list]
+        paginate = 20
+        dateFormat = "01-02"
+        rss = 10
+      [languages.zh-cn.params.app]
+        enable = true
+        light = true
+        dark = true
+        icon = "/logo.png"
+      [languages.zh-cn.params.search]
+        enable = true
+        type = "lunr"
+        contentLength = 4000
+        placeholder = ""
+        maxResultLength = 10
+        icon = "search"
+      [languages.zh-cn.params.code]
+        copy = true
+        maxShownLines = 50

@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>神奈川県 - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C/</link>
+        <description>神奈川県 - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 04:34:12 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
+    <title>【神奈川県】みうら海王｜本格海上釣り堀・大物狙い完全ガイド</title>
+    <link>https://example.org/posts/kanto/miura-kanagawa/</link>
+    <pubDate>Mon, 14 Jul 2025 04:34:12 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kanto/miura-kanagawa/</guid>
+    <description><![CDATA[神奈川県三浦市のみうら海王は関東屈指の本格海上釣り堀。マダイ・ブリ・ヒラマサ・カンパチなど大物狙いで1日3回放流システム。完全予約制で男性16,500円、京急三崎口からアクセス良好。渡船で海上生簀へ、確実な釣果と本格的な大物釣り体験を提供。]]></description>
+</item>
+<item>
+    <title>【神奈川県】城ヶ島J&#39;sFishing｜時間制・家族連れ向け完全ガイド</title>
+    <link>https://example.org/posts/kanto/jyougashima-js/</link>
+    <pubDate>Mon, 14 Jul 2025 04:33:10 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kanto/jyougashima-js/</guid>
+    <description><![CDATA[神奈川県城ヶ島のJ&rsquo;sFishingは革新的な時間制海上釣り堀。1～3時間選択可能、家族連れ向け料金体系で小学生以下無料。マダイ・カンパチ・ブリが釣れ、お土産保証付き。堤防から徒歩アクセス、竿レンタル無料で初心者安心。城ヶ島観光と合わせて最適。]]></description>
+</item>
+</channel>
+</rss>

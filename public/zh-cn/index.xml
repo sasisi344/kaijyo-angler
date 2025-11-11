@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kaijyo Fishing</title>
+        <link>https://example.org/zh-cn/</link>
+        <description>海钓设施和海上钓鱼池信息网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+            <atom:link href="https://example.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>山形県 - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E5%B1%B1%E5%BD%A2%E7%9C%8C/</link>
+        <description>山形県 - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 16 Jul 2025 10:17:03 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%B1%B1%E5%BD%A2%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
+    <title>【山形県】由良海洋釣堀｜東北唯一の海上釣り堀・手ぶらOK・おすすめ釣り情報</title>
+    <link>https://example.org/posts/tohoku/yura-kaiyo/</link>
+    <pubDate>Wed, 16 Jul 2025 10:17:03 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/tohoku/yura-kaiyo/</guid>
+    <description><![CDATA[東北地方で唯一の海上釣り堀として知られる「由良海洋釣堀」は、山形県鶴岡市の白山島遊魚センター内に位置しています。地元の定置網で捕れた旬の魚が放流される管理釣り場で、初心者から家族連れまで幅広い層に人気のスポットです。]]></description>
+</item>
+</channel>
+</rss>

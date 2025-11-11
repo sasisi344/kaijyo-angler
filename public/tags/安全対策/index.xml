@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>安全対策 - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E5%AE%89%E5%85%A8%E5%AF%BE%E7%AD%96/</link>
+        <description>安全対策 - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 25 Oct 2025 05:01:41 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%AE%89%E5%85%A8%E5%AF%BE%E7%AD%96/" rel="self" type="application/rss+xml" /><item>
+    <title>釣りの救急セットは必須！怪我の実例と必要な応急処置グッズ完全ガイド</title>
+    <link>https://example.org/posts/fishing-aid-checkguide/</link>
+    <pubDate>Sat, 25 Oct 2025 05:01:41 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/fishing-aid-checkguide/</guid>
+    <description><![CDATA[釣りは針刺傷やヒレの切創、転倒、熱中症・低体温症など事故リスクが高いレジャー。本記事は、釣り場別の危険度、必携の救急セットと選び方、症状別の応急手当と受診判断、やってはいけない処置、天候確認や装備・同行体制、緊急連絡先（#7119等）まで網羅。準備・予防・迅速判断で安全に楽しもう。]]></description>
+</item>
+<item>
+    <title>海上釣り堀のはじめかた完全ガイド（初心者向け）</title>
+    <link>https://example.org/posts/kaijyo-first/</link>
+    <pubDate>Thu, 11 Sep 2025 02:42:02 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kaijyo-first/</guid>
+    <description><![CDATA[<p>海上釣り堀の基本・準備・当日の流れ・安全対策・マナーまでを一つにまとめた解説です。はじめての人でも迷わないよう、用語をかみ砕き、チェックリストや手順で整理しています。</p>]]></description>
+</item>
+</channel>
+</rss>

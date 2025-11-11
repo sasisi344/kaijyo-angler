@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>極意 - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E6%A5%B5%E6%84%8F/</link>
+        <description>極意 - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 06 Sep 2025 16:13:45 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%A5%B5%E6%84%8F/" rel="self" type="application/rss+xml" /><item>
+    <title>なぜあの人だけシマアジが釣れる？海上釣り堀の隠れた攻略ポイント大公開</title>
+    <link>https://example.org/posts/simaaji-nazetureru/</link>
+    <pubDate>Sat, 06 Sep 2025 16:13:45 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/simaaji-nazetureru/</guid>
+    <description><![CDATA[<p>海上釣り堀で隣の釣り人だけがシマアジを連発している光景を見たことはありませんか？同じ場所、同じ時間なのに、なぜこんなにも差が生まれるのでしょうか。</p>]]></description>
+</item>
+</channel>
+</rss>

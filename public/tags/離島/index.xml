@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>離島 - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E9%9B%A2%E5%B3%B6/</link>
+        <description>離島 - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:55:05 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%9B%A2%E5%B3%B6/" rel="self" type="application/rss+xml" /><item>
+    <title>【長崎県】高島飛島磯釣り公園｜離島の絶景釣り場・フェリー釣りパック完全ガイド</title>
+    <link>https://example.org/posts/kyusyu/takasitobisikma-kyusyu/</link>
+    <pubDate>Mon, 21 Jul 2025 01:55:05 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kyusyu/takasitobisikma-kyusyu/</guid>
+    <description><![CDATA[長崎県高島にある高島飛島磯釣り公園は、大人520円の格安料金で本格磯釣りが楽しめる離島の海釣り施設です。フェリー釣りパックでお得にアクセス、クロダイ・メジナ・マダイなど豊富な魚種が狙えます。長崎観光と合わせて離島釣り体験を満喫できる人気スポットです。]]></description>
+</item>
+<item>
+    <title>【福岡県】うみんぐ大島｜離島の海上釣り堀・堤防釣りが同時に楽しめる海洋体験施設</title>
+    <link>https://example.org/posts/kyusyu/uminguoosima-kyusyu/</link>
+    <pubDate>Mon, 21 Jul 2025 01:42:14 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/kyusyu/uminguoosima-kyusyu/</guid>
+    <description><![CDATA[うみんぐ大島は福岡県宗像市の離島にある海洋体験施設。海上釣り堀（マダイ・ブリ・シマアジ）と堤防釣り（クロダイ・アジ・アオリイカ）が同時に楽しめる。フェリー25分の特別な釣り体験。料金・アクセス・釣果情報を詳しく解説。]]></description>
+</item>
+</channel>
+</rss>

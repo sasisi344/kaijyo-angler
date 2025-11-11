@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>釣果アップ - tag - Kaijyo Fishing</title>
+        <link>https://example.org/tags/%E9%87%A3%E6%9E%9C%E3%82%A2%E3%83%83%E3%83%97/</link>
+        <description>釣果アップ - tag - Kaijyo Fishing</description>
+        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 15 Sep 2025 02:29:10 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%87%A3%E6%9E%9C%E3%82%A2%E3%83%83%E3%83%97/" rel="self" type="application/rss+xml" /><item>
+    <title>海上釣り堀で季節によって釣れる魚は変わるのか？養殖魚の活性と放流の秘密を解説</title>
+    <link>https://example.org/posts/season-fishselect/</link>
+    <pubDate>Mon, 15 Sep 2025 02:29:10 &#43;0900</pubDate>
+    <author>Kaijyo Fishing</author>
+    <guid>https://example.org/posts/season-fishselect/</guid>
+    <description><![CDATA[海上釣り堀は養殖魚を使用するため季節による魚種変化は少ないが、魚の活性は大きく変わります。春・秋は活性が高く初心者におすすめ、夏は早朝・夕方が狙い目、冬は低活性ながら大物チャンス。施設側も季節に応じて放流戦略を調整しており、通年でマダイ・ブリ・カンパチなどが楽しめます。季節の特性を理解した釣り方で安定した釣果を。]]></description>
+</item>
+</channel>
+</rss>
