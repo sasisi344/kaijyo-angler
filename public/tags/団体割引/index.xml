@@ -1,23 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>団体割引 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%9B%A3%E4%BD%93%E5%89%B2%E5%BC%95/</link>
-        <description>団体割引 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:40:45 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%9B%A3%E4%BD%93%E5%89%B2%E5%BC%95/" rel="self" type="application/rss+xml" /><item>
-    <title>【熊本県】海上釣堀・釣りイカダ 釣り一｜3時間制・マダイ2匹保証・団体割引でお得な天草の海上釣り堀</title>
-    <link>https://example.org/posts/kyusyu/turiichi-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:40:45 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/turiichi-kyusyu/</guid>
-    <description><![CDATA[熊本県天草市「海上釣堀・釣りイカダ 釣り一」は熊本市内から最も近い海上釣り堀。3時間制で効率的、1人6,000円から団体割引で6名以上なら1人5,000円とお得。マダイ・シーバス・キジハタなど多彩な魚種が釣れ、釣れなくてもマダイ2匹保証で安心。レンタル一式1,000円で手ぶらOK。前日16時までの完全予約制。営業時間7:30-17:00、熊本市内から1時間20分の好アクセスで日帰り利用に最適。]]></description>
-</item>
-<item>
-    <title>【兵庫県】姫路市立遊漁センター|格安830円・夜釣り対応・団体割引充実の海釣り施設完全ガイド</title>
-    <link>https://example.org/posts/kansai/himejiyuugi-hyogo/</link>
-    <pubDate>Sun, 20 Jul 2025 11:29:02 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/himejiyuugi-hyogo/</guid>
-    <description><![CDATA[姫路市立遊漁センターは播磨灘に面した公営海釣り施設で、基本料金830円という格安設定が魅力です。夏場は6:00～21:00の15時間営業で夜釣りも対応。クロダイ・シーバス・メバルなど5魚種が狙え、回数券・団体割引・姫路市共済割引など充実した割引制度あり。姫路城から車で30分の好立地で観光と釣りを同時に楽しめる。桟橋構造で安全、関西圏屈指のコスパ抜群海釣りスポット。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>団体割引 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%9B%A3%E4%BD%93%E5%89%B2%E5%BC%95/</link>
+    <description>Recent content in 団体割引 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%9B%A3%E4%BD%93%E5%89%B2%E5%BC%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【熊本県】海上釣堀・釣りイカダ 釣り一｜3時間制・マダイ2匹保証・団体割引でお得な天草の海上釣り堀</title>
+      <link>http://localhost:1313/posts/kyusyu/turiichi-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:40:45 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/turiichi-kyusyu/</guid>
+      <description>熊本県天草市「海上釣堀・釣りイカダ 釣り一」は熊本市内から最も近い海上釣り堀。3時間制で効率的、1人6,000円から団体割引で6名以上なら1人5,000円とお得。マダイ・シーバス・キジハタなど多彩な魚種が釣れ、釣れなくてもマダイ2匹保証で安心。レンタル一式1,000円で手ぶらOK。前日16時までの完全予約制。営業時間7:30-17:00、熊本市内から1時間20分の好アクセスで日帰り利用に最適。</description>
+    </item>
+    <item>
+      <title>【兵庫県】姫路市立遊漁センター|格安830円・夜釣り対応・団体割引充実の海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/himejiyuugi-hyogo/</link>
+      <pubDate>Sun, 20 Jul 2025 11:29:02 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/himejiyuugi-hyogo/</guid>
+      <description>姫路市立遊漁センターは播磨灘に面した公営海釣り施設で、基本料金830円という格安設定が魅力です。夏場は6:00～21:00の15時間営業で夜釣りも対応。クロダイ・シーバス・メバルなど5魚種が狙え、回数券・団体割引・姫路市共済割引など充実した割引制度あり。姫路城から車で30分の好立地で観光と釣りを同時に楽しめる。桟橋構造で安全、関西圏屈指のコスパ抜群海釣りスポット。</description>
+    </item>
+  </channel>
 </rss>

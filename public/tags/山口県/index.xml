@@ -1,31 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>山口県 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%B1%B1%E5%8F%A3%E7%9C%8C/</link>
-        <description>山口県 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:03:43 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%B1%B1%E5%8F%A3%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>【山口県】須佐湾フィッシングパーク | 天然の入り江で高級魚釣り体験・季節限定の貴重な海釣りスポット</title>
-    <link>https://example.org/posts/chugoku/susawan-fising/</link>
-    <pubDate>Mon, 14 Jul 2025 05:03:43 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/susawan-fising/</guid>
-    <description><![CDATA[山口県萩市の「須佐湾フィッシングパーク」は、天然の入り江を活かした季節限定の釣り施設です。営業はGW、夏季の土日祝、お盆期間のみと限定的ですが、入場料は大人1日520円と非常にリーズナブル。釣り竿やエサもそれぞれ200円、100円でレンタル可能です。マダイやブリなどの高級魚が釣れますが、釣った魚は買取方式（マダイ1kg2,100円、ブリ1kg1,600円）でリリース禁止。美しい須佐湾の景観を楽しみ]]></description>
-</item>
-<item>
-    <title>【山口県】フィッシングパーク光 | リーズナブル＆手ぶらOK・ファミリーにやさしい安全な海釣り公園</title>
-    <link>https://example.org/posts/chugoku/fishingpark-hikari/</link>
-    <pubDate>Mon, 14 Jul 2025 05:02:20 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/fishingpark-hikari/</guid>
-    <description><![CDATA[山口県光市の「フィッシングパーク光」は、金網で覆われた安全な桟橋で気軽に海釣りが楽しめる公営施設です。料金は大人4時間690円と手頃で、貸竿も600円でレンタル可能。クロダイ、シーバス、アジ、メバルなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。季節により営業時間が変わり、夏季は朝5時から夜9時まで営業しているため、早朝や夕マズメ時の釣りも楽しめます。バリアフリー対応もされており]]></description>
-</item>
-<item>
-    <title>【山口県】下関フィッシングパーク | 初心者からファミリーまで楽しめる安全・手軽な海釣り施設</title>
-    <link>https://example.org/posts/chugoku/shimonoseki-park/</link>
-    <pubDate>Mon, 14 Jul 2025 05:01:02 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/shimonoseki-park/</guid>
-    <description><![CDATA[山口県下関市の「下関フィッシングパーク」は、金網で覆われた安全な桟橋で釣りが楽しめる海釣り施設です。料金は一般1日1,250円と手頃で、サビキ仕掛け付きのレンタル竿も1,000円で利用可能。アジやクロダイ、メバル、シーバスなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。投げ釣りやルアー釣りは禁止されていますが、サビキ釣りや胴付き仕掛けで十分に釣果が期待できます。季節によって営業時]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>山口県 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%B1%B1%E5%8F%A3%E7%9C%8C/</link>
+    <description>Recent content in 山口県 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%B1%B1%E5%8F%A3%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【山口県】須佐湾フィッシングパーク | 天然の入り江で高級魚釣り体験・季節限定の貴重な海釣りスポット</title>
+      <link>http://localhost:1313/posts/chugoku/susawan-fising/</link>
+      <pubDate>Mon, 14 Jul 2025 05:03:43 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/susawan-fising/</guid>
+      <description>山口県萩市の「須佐湾フィッシングパーク」は、天然の入り江を活かした季節限定の釣り施設です。営業はGW、夏季の土日祝、お盆期間のみと限定的ですが、入場料は大人1日520円と非常にリーズナブル。釣り竿やエサもそれぞれ200円、100円でレンタル可能です。マダイやブリなどの高級魚が釣れますが、釣った魚は買取方式（マダイ1kg2,100円、ブリ1kg1,600円）でリリース禁止。美しい須佐湾の景観を楽しみ</description>
+    </item>
+    <item>
+      <title>【山口県】フィッシングパーク光 | リーズナブル＆手ぶらOK・ファミリーにやさしい安全な海釣り公園</title>
+      <link>http://localhost:1313/posts/chugoku/fishingpark-hikari/</link>
+      <pubDate>Mon, 14 Jul 2025 05:02:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/fishingpark-hikari/</guid>
+      <description>山口県光市の「フィッシングパーク光」は、金網で覆われた安全な桟橋で気軽に海釣りが楽しめる公営施設です。料金は大人4時間690円と手頃で、貸竿も600円でレンタル可能。クロダイ、シーバス、アジ、メバルなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。季節により営業時間が変わり、夏季は朝5時から夜9時まで営業しているため、早朝や夕マズメ時の釣りも楽しめます。バリアフリー対応もされており</description>
+    </item>
+    <item>
+      <title>【山口県】下関フィッシングパーク | 初心者からファミリーまで楽しめる安全・手軽な海釣り施設</title>
+      <link>http://localhost:1313/posts/chugoku/shimonoseki-park/</link>
+      <pubDate>Mon, 14 Jul 2025 05:01:02 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/shimonoseki-park/</guid>
+      <description>山口県下関市の「下関フィッシングパーク」は、金網で覆われた安全な桟橋で釣りが楽しめる海釣り施設です。料金は一般1日1,250円と手頃で、サビキ仕掛け付きのレンタル竿も1,000円で利用可能。アジやクロダイ、メバル、シーバスなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。投げ釣りやルアー釣りは禁止されていますが、サビキ釣りや胴付き仕掛けで十分に釣果が期待できます。季節によって営業時</description>
+    </item>
+  </channel>
 </rss>

@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>防波堤 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/</link>
-        <description>防波堤 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 17 Jul 2025 09:10:59 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/" rel="self" type="application/rss+xml" /><item>
-    <title>【新潟県】直江津港第3東防波堤管理釣り場|大型魚も狙える人気の防波堤釣りスポット</title>
-    <link>https://example.org/posts/chubu-taiheiyou/naoetu-bouhatei/</link>
-    <pubDate>Thu, 17 Jul 2025 09:10:59 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/naoetu-bouhatei/</guid>
-    <description><![CDATA[【新潟県上越市】直江津港第3東防波堤管理釣り場はNPO法人ハッピーフィッシングが運営する人気の海釣り施設。入場料1,500円、3～10月の日の出から日の入りまで営業。マダイ・クロダイ・シーバス・ヒラメなど大型魚の釣果報告が多く、人気スポット。週末・祝日は混雑するため入場予約サービスあり。ライフジャケット着用義務(500円でレンタル可)。年間パス48,000円も提供。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>防波堤 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/</link>
+    <description>Recent content in 防波堤 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【新潟県】直江津港第3東防波堤管理釣り場|大型魚も狙える人気の防波堤釣りスポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/naoetu-bouhatei/</link>
+      <pubDate>Thu, 17 Jul 2025 09:10:59 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/naoetu-bouhatei/</guid>
+      <description>【新潟県上越市】直江津港第3東防波堤管理釣り場はNPO法人ハッピーフィッシングが運営する人気の海釣り施設。入場料1,500円、3～10月の日の出から日の入りまで営業。マダイ・クロダイ・シーバス・ヒラメなど大型魚の釣果報告が多く、人気スポット。週末・祝日は混雑するため入場予約サービスあり。ライフジャケット着用義務(500円でレンタル可)。年間パス48,000円も提供。</description>
+    </item>
+  </channel>
 </rss>

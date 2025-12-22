@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>レンタル無し - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%84%A1%E3%81%97/</link>
-        <description>レンタル無し - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 17 Jul 2025 09:07:19 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%84%A1%E3%81%97/" rel="self" type="application/rss+xml" /><item>
-    <title>【石川県】フィッシングブリッジ赤崎|能登半島24時間無料の釣り桟橋・磯釣り絶好ポイント</title>
-    <link>https://example.org/posts/chubu-taiheiyou/fishbridge-akasaki/</link>
-    <pubDate>Thu, 17 Jul 2025 09:07:19 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/fishbridge-akasaki/</guid>
-    <description><![CDATA[フィッシングブリッジ赤崎は石川県能登町にある24時間無料で利用できる釣り桟橋です。比那漁港の南側に位置し、沖合の平島へと伸びる桟橋は岩礁帯が豊富で磯釣りに最適。クロダイ、メバル、カサゴなどの魚種に加え、春から夏はタコやイカの好ポイントとしても知られています。施設はないため釣具やエサは持参必須です。地元の釣り愛好家から観光客まで幅広く楽しめる隠れた名所です。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>レンタル無し on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%84%A1%E3%81%97/</link>
+    <description>Recent content in レンタル無し on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E7%84%A1%E3%81%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【石川県】フィッシングブリッジ赤崎|能登半島24時間無料の釣り桟橋・磯釣り絶好ポイント</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/fishbridge-akasaki/</link>
+      <pubDate>Thu, 17 Jul 2025 09:07:19 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/fishbridge-akasaki/</guid>
+      <description>フィッシングブリッジ赤崎は石川県能登町にある24時間無料で利用できる釣り桟橋です。比那漁港の南側に位置し、沖合の平島へと伸びる桟橋は岩礁帯が豊富で磯釣りに最適。クロダイ、メバル、カサゴなどの魚種に加え、春から夏はタコやイカの好ポイントとしても知られています。施設はないため釣具やエサは持参必須です。地元の釣り愛好家から観光客まで幅広く楽しめる隠れた名所です。</description>
+    </item>
+  </channel>
 </rss>

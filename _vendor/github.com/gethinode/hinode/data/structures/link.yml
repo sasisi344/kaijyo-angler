@@ -1,0 +1,55 @@
+comment: >-
+  Generates a link for a given named link or url. The shortcode supports a
+  single unnamed parameter, or various named parameters. The unnamed parameter
+  is recognized as a url if it starts with `http`, else it is treated as either
+  a named link or internal reference (in that order). Any inner text is rendered
+  as the link title, otherwise it uses the host name (for external links), link
+  title (for internal links), or anchor name (for any local references
+  containing a `#`).
+arguments:
+  page:
+  href: 
+    position: 0
+  cue:
+  tab:
+  case:
+  external:
+  force:
+    release: v0.27.20
+  class:
+  text:
+    optional: true
+    group: partial
+  title:
+    release: v0.26.0
+  position:
+    group: partial
+    optional: true
+    release: v1.0.0
+  exact:
+    release: v1.20.0
+  # deprecated arguments  
+  destination: 
+    type: string
+    optional: true
+    group: partial
+    comment: Target destination.
+    deprecated: v1.0.0
+    alternative: href
+  name:
+    type: string
+    optional: true
+    comment: Alias of href.
+    deprecated: v1.0.0
+    alternative: href
+  url:
+    type: string
+    optional: true
+    comment: Alias of href.
+    deprecated: v1.0.0
+    alternative: href
+body:
+  type: string
+  optional: true
+  group: shortcode
+  comment: Link description.

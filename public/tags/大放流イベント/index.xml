@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>大放流イベント - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%A4%A7%E6%94%BE%E6%B5%81%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
-        <description>大放流イベント - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 14:13:13 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%A4%A7%E6%94%BE%E6%B5%81%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】つりぼりマルヨ | 陸続きでアクセス抜群・毎月4日のマルヨの日大放流が自慢の南伊勢海上釣り堀</title>
-    <link>https://example.org/posts/chubu-taiheiyou/turiborimaruyo-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 14:13:13 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/turiborimaruyo-mie/</guid>
-    <description><![CDATA[三重県南伊勢町の「つりぼりマルヨ」は、陸続きでアクセスできる珍しい海上釣り堀です。大人13,000円、女性10,000円、子供5,000円の料金でブリ、シマアジ、クエマスなど9種類の魚種を狙えます。毎月4日の「マルヨの日」に大放流イベント開催。渡船不要で高齢者や身体不自由な方も利用しやすく、バリアフリー対応の可能性あり。魚締めサービス付きで新鮮な状態で持ち帰り可能。エサ販売なしのため事前準備必須。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大放流イベント on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%A4%A7%E6%94%BE%E6%B5%81%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+    <description>Recent content in 大放流イベント on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%A4%A7%E6%94%BE%E6%B5%81%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】つりぼりマルヨ | 陸続きでアクセス抜群・毎月4日のマルヨの日大放流が自慢の南伊勢海上釣り堀</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/turiborimaruyo-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 14:13:13 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/turiborimaruyo-mie/</guid>
+      <description>三重県南伊勢町の「つりぼりマルヨ」は、陸続きでアクセスできる珍しい海上釣り堀です。大人13,000円、女性10,000円、子供5,000円の料金でブリ、シマアジ、クエマスなど9種類の魚種を狙えます。毎月4日の「マルヨの日」に大放流イベント開催。渡船不要で高齢者や身体不自由な方も利用しやすく、バリアフリー対応の可能性あり。魚締めサービス付きで新鮮な状態で持ち帰り可能。エサ販売なしのため事前準備必須。</description>
+    </item>
+  </channel>
 </rss>

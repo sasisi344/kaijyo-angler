@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>チヌ釣り - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%81%E3%83%8C%E9%87%A3%E3%82%8A/</link>
-        <description>チヌ釣り - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 15:05:20 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%81%E3%83%8C%E9%87%A3%E3%82%8A/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】マルスイ海産 | 尾鷲の豊かな海域で楽しむ本格チヌ筏釣り・熟練者向けの天然魚勝負</title>
-    <link>https://example.org/posts/chubu-taiheiyou/marusuikaisan-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 15:05:20 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/marusuikaisan-mie/</guid>
-    <description><![CDATA[三重県尾鷲市の「マルスイ海産」は、大人4,500円、子供2,250円の格安料金でチヌ筏釣りを楽しめる熟練者向け渡船です。尾鷲の豊かな海域に設置された複数の筏で、水深や魚種に応じた戦略的な釣りが可能。チヌ、マダイ、カワハギなど天然魚を狙えます。営業時間は日の出から日の入りまでで季節変動あり。荒天時休業。海上釣り堀ではない本格筏釣りのため、ある程度の経験と技術が必要。熊野古道観光と組み合わせ可能な、コ]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>チヌ釣り on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%81%E3%83%8C%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in チヌ釣り on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%81%E3%83%8C%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】マルスイ海産 | 尾鷲の豊かな海域で楽しむ本格チヌ筏釣り・熟練者向けの天然魚勝負</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/marusuikaisan-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 15:05:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/marusuikaisan-mie/</guid>
+      <description>三重県尾鷲市の「マルスイ海産」は、大人4,500円、子供2,250円の格安料金でチヌ筏釣りを楽しめる熟練者向け渡船です。尾鷲の豊かな海域に設置された複数の筏で、水深や魚種に応じた戦略的な釣りが可能。チヌ、マダイ、カワハギなど天然魚を狙えます。営業時間は日の出から日の入りまでで季節変動あり。荒天時休業。海上釣り堀ではない本格筏釣りのため、ある程度の経験と技術が必要。熊野古道観光と組み合わせ可能な、コ</description>
+    </item>
+  </channel>
 </rss>

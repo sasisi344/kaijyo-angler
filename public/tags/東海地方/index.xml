@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>東海地方 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9/</link>
-        <description>東海地方 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 15 Sep 2025 17:07:25 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9/" rel="self" type="application/rss+xml" /><item>
-    <title>東海地方（愛知県・静岡県）の海上釣り堀まとめ｜魚下処理サービス完全ガイド</title>
-    <link>https://example.org/posts/chubu-taiheiyou/aichisizu-syasyori/</link>
-    <pubDate>Mon, 15 Sep 2025 17:07:25 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/aichisizu-syasyori/</guid>
-    <description><![CDATA[東海地方（愛知県・静岡県）の海上釣り堀10施設の魚下処理サービスを徹底調査。確認できた調理サービス併設施設は「海上つり堀まるや」「太公望」の2箇所。その他施設は詳細不明のため事前確認必須。料金は2,500円～13,700円と幅広く、観光地との組み合わせが魅力。初心者には調理サービス併設施設がおすすめ。クーラーボックス持参と事前の電話確認が重要。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>東海地方 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9/</link>
+    <description>Recent content in 東海地方 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>東海地方（愛知県・静岡県）の海上釣り堀まとめ｜魚下処理サービス完全ガイド</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/aichisizu-syasyori/</link>
+      <pubDate>Mon, 15 Sep 2025 17:07:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/aichisizu-syasyori/</guid>
+      <description>東海地方（愛知県・静岡県）の海上釣り堀10施設の魚下処理サービスを徹底調査。確認できた調理サービス併設施設は「海上つり堀まるや」「太公望」の2箇所。その他施設は詳細不明のため事前確認必須。料金は2,500円～13,700円と幅広く、観光地との組み合わせが魅力。初心者には調理サービス併設施設がおすすめ。クーラーボックス持参と事前の電話確認が重要。</description>
+    </item>
+  </channel>
 </rss>

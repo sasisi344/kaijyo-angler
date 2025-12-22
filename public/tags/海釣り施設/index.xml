@@ -1,88 +1,398 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>海釣り施設 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/</link>
-        <description>海釣り施設 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 14:44:25 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/" rel="self" type="application/rss+xml" /><item>
-    <title>【福井県】あかぐり海釣公園｜直径55m円形桟橋で多彩な魚種狙い・料金・アクセス完全ガイド</title>
-    <link>https://example.org/posts/chubu-taiheiyou/akaguri-fukui/</link>
-    <pubDate>Mon, 21 Jul 2025 14:44:25 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/akaguri-fukui/</guid>
-    <description><![CDATA[<p>福井県大飯郡おおい町にある「あかぐり海釣公園」は、全国でも珍しい直径55mの円形海上桟橋を持つ海釣り施設です。</p>
-<p>岩礁帯と砂地が混在する絶好のロケーションで、投げ釣りから足元狙いまで多彩な釣り方を楽しめ、ヒラメやクロダイなど人気魚種が狙えます。入場料1,000円という手頃な料金で1日中釣りを満喫でき、初心者から上級者まで幅広く楽しめる魅力的な施設です。</p>]]></description>
-</item>
-<item>
-    <title>【熊本県】湯の児フィッシングパーク｜格安料金600円・レンタル充実・家族連れに優しい海釣り施設</title>
-    <link>https://example.org/posts/kyusyu/yunojifispark-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 02:01:26 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/yunojifispark-kyusyu/</guid>
-    <description><![CDATA[熊本県水俣市「湯の児フィッシングパーク」は大人600円の格安海釣り施設。海上桟橋から多彩な釣法でクロダイ・アジ・シーバス・タチウオなど狙える。レンタル釣具1,500円で手ぶらOK、1人2本まで竿使用可。営業時間は季節変動制、月曜定休。サビキ・フカセ・投げ釣り・ルアー対応。湯の児温泉と組み合わせ最適、熊本市内から1時間30分。家族連れ・初心者に優しい全国最安クラスの海釣り体験。]]></description>
-</item>
-<item>
-    <title>【福岡県】脇田海釣り桟橋｜北九州市の手ぶらOK・料金格安・初心者安心の海釣り施設</title>
-    <link>https://example.org/posts/kyusyu/wakitaturisanbashi-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:59:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/wakitaturisanbashi-kyusyu/</guid>
-    <description><![CDATA[脇田海釣り桟橋は北九州市若松区の格安海釣り施設。大人1,000円、釣具一式800円の破格料金で手ぶらOK。クロダイ・ヒラメ・シーバス・アジなど多彩な魚種。小倉駅から40分の好アクセス。料金・釣果・アクセス情報を詳しく解説。]]></description>
-</item>
-<item>
-    <title>【熊本県】海釣りランド｜格安700円・手ぶらセット2,000円・橋型桟橋で本格波止釣り体験</title>
-    <link>https://example.org/posts/kyusyu/umiduriland-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:58:18 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/umiduriland-kyusyu/</guid>
-    <description><![CDATA[熊本県芦北町「海釣りランド」は大人700円の格安海釣り施設。橋型桟橋から本格波止釣り、クロダイ・アジ・シーバス・アオリイカなど多彩な魚種狙える。手ぶらセット2,000円で道具・エサ込み、初心者も安心。営業時間8:00-17:00、水・木曜定休。サビキ・フカセ・投げ釣り・ルアー全対応。八代市から40分、熊本市内から1時間30分の好アクセス。全国最安クラスで本格海釣り体験。]]></description>
-</item>
-<item>
-    <title>【福岡県】福岡市海づり公園｜都市部からアクセス便利・手ぶらOK・初心者向け完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/umiduripark-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:56:46 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/umiduripark-kyusyu/</guid>
-    <description><![CDATA[福岡市海づり公園は都市部から30分の好立地で、釣具レンタル充実の初心者向け海釣り施設。4時間1,000円の手頃な料金でアジ・クロダイ・シーバスなど多彩な魚種が狙える。真鯛釣堀併設で確実な釣果も期待可能。アクセス・料金・設備を詳しく解説。]]></description>
-</item>
-<item>
-    <title>【長崎県】高島飛島磯釣り公園｜離島の絶景釣り場・フェリー釣りパック完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/takasitobisikma-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:55:05 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/takasitobisikma-kyusyu/</guid>
-    <description><![CDATA[長崎県高島にある高島飛島磯釣り公園は、大人520円の格安料金で本格磯釣りが楽しめる離島の海釣り施設です。フェリー釣りパックでお得にアクセス、クロダイ・メジナ・マダイなど豊富な魚種が狙えます。長崎観光と合わせて離島釣り体験を満喫できる人気スポットです。]]></description>
-</item>
-<item>
-    <title>【宮崎県】志布志湾大黒イルカランド（天然釣堀）｜観光＋釣り体験・買取制注意・イルカショーと海釣りの複合施設</title>
-    <link>https://example.org/posts/kyusyu/sibusiiruka-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:52:07 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/sibusiiruka-kyusyu/</guid>
-    <description><![CDATA[宮崎県串間市「志布志湾大黒イルカランド（天然釣堀）」はイルカショー＋海釣り体験の複合観光施設。入園料1,500円＋釣り料700円で開始、釣った魚は全て買取制（マダイ・シマアジ100g/300-400円）。リリース禁止のため戦略的釣りが必要。クロダイ・アジ・ヒラメなど多彩な魚種。営業時間10:00-17:00、家族観光に最適。宮崎市内から1時間30分、日南海岸観光との組み合わせおすすめ。]]></description>
-</item>
-<item>
-    <title>【鹿児島県】桜島海づり公園｜桜島観光と海釣りが同時に楽しめる・フェリーアクセス・料金完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/sakurajimakankjou-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:50:45 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/sakurajimakankjou-kyusyu/</guid>
-    <description><![CDATA[桜島海づり公園は活火山を眺めながら海釣りができる唯一無二の施設。釣り料200円（4時間・貸竿込み）の破格料金でマダイやカンパチも狙える。フェリーアクセスも含めて特別な体験が可能。ライフジャケット無料、手ぶらOK。桜島観光とセットで楽しめる絶景釣りスポット。]]></description>
-</item>
-<item>
-    <title>【長崎県】迎パールマリン釣り紀行｜移動式イカダで巡る海上釣り体験・完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/pearlmarine-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:49:10 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/pearlmarine-kyusyu/</guid>
-    <description><![CDATA[長崎県佐世保市の迎パールマリン釣り紀行は、全国でも珍しい移動式イカダで最適ポイントを巡る海釣り施設です。貸切30名・乗り合い18名対応、クエ・マダイなど15種類以上の魚種が狙えます。企業研修や本格船釣り体験に最適な革新的釣りサービスです。]]></description>
-</item>
-<item>
-    <title>【鹿児島県】鴨池海づり公園｜格安で深場釣りが楽しめる・アクセス・料金完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/kamoiketuripark-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:46:59 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/kamoiketuripark-kyusyu/</guid>
-    <description><![CDATA[鹿児島市の鴨池海づり公園は大人600円（4時間）で深場釣りが楽しめる格安海釣り施設。水深20～25mでマダイやカンパチも狙える本格環境。年中無休営業で貸竿300円、手ぶらOK。鹿児島中央駅から車15分の好立地。初心者から上級者まで対応の高コスパ釣り場。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>海釣り施設 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/</link>
+    <description>Recent content in 海釣り施設 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【福井県】あかぐり海釣公園｜直径55m円形桟橋で多彩な魚種狙い・料金・アクセス完全ガイド</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/akaguri-fukui/</link>
+      <pubDate>Mon, 21 Jul 2025 14:44:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/akaguri-fukui/</guid>
+      <description>&lt;p&gt;福井県大飯郡おおい町にある「あかぐり海釣公園」は、全国でも珍しい直径55mの円形海上桟橋を持つ海釣り施設です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【熊本県】湯の児フィッシングパーク｜格安料金600円・レンタル充実・家族連れに優しい海釣り施設</title>
+      <link>http://localhost:1313/posts/kyusyu/yunojifispark-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 02:01:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/yunojifispark-kyusyu/</guid>
+      <description>熊本県水俣市「湯の児フィッシングパーク」は大人600円の格安海釣り施設。海上桟橋から多彩な釣法でクロダイ・アジ・シーバス・タチウオなど狙える。レンタル釣具1,500円で手ぶらOK、1人2本まで竿使用可。営業時間は季節変動制、月曜定休。サビキ・フカセ・投げ釣り・ルアー対応。湯の児温泉と組み合わせ最適、熊本市内から1時間30分。家族連れ・初心者に優しい全国最安クラスの海釣り体験。</description>
+    </item>
+    <item>
+      <title>【福岡県】脇田海釣り桟橋｜北九州市の手ぶらOK・料金格安・初心者安心の海釣り施設</title>
+      <link>http://localhost:1313/posts/kyusyu/wakitaturisanbashi-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:59:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/wakitaturisanbashi-kyusyu/</guid>
+      <description>脇田海釣り桟橋は北九州市若松区の格安海釣り施設。大人1,000円、釣具一式800円の破格料金で手ぶらOK。クロダイ・ヒラメ・シーバス・アジなど多彩な魚種。小倉駅から40分の好アクセス。料金・釣果・アクセス情報を詳しく解説。</description>
+    </item>
+    <item>
+      <title>【熊本県】海釣りランド｜格安700円・手ぶらセット2,000円・橋型桟橋で本格波止釣り体験</title>
+      <link>http://localhost:1313/posts/kyusyu/umiduriland-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:58:18 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/umiduriland-kyusyu/</guid>
+      <description>熊本県芦北町「海釣りランド」は大人700円の格安海釣り施設。橋型桟橋から本格波止釣り、クロダイ・アジ・シーバス・アオリイカなど多彩な魚種狙える。手ぶらセット2,000円で道具・エサ込み、初心者も安心。営業時間8:00-17:00、水・木曜定休。サビキ・フカセ・投げ釣り・ルアー全対応。八代市から40分、熊本市内から1時間30分の好アクセス。全国最安クラスで本格海釣り体験。</description>
+    </item>
+    <item>
+      <title>【福岡県】福岡市海づり公園｜都市部からアクセス便利・手ぶらOK・初心者向け完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/umiduripark-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:56:46 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/umiduripark-kyusyu/</guid>
+      <description>福岡市海づり公園は都市部から30分の好立地で、釣具レンタル充実の初心者向け海釣り施設。4時間1,000円の手頃な料金でアジ・クロダイ・シーバスなど多彩な魚種が狙える。真鯛釣堀併設で確実な釣果も期待可能。アクセス・料金・設備を詳しく解説。</description>
+    </item>
+    <item>
+      <title>【長崎県】高島飛島磯釣り公園｜離島の絶景釣り場・フェリー釣りパック完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/takasitobisikma-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:55:05 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/takasitobisikma-kyusyu/</guid>
+      <description>長崎県高島にある高島飛島磯釣り公園は、大人520円の格安料金で本格磯釣りが楽しめる離島の海釣り施設です。フェリー釣りパックでお得にアクセス、クロダイ・メジナ・マダイなど豊富な魚種が狙えます。長崎観光と合わせて離島釣り体験を満喫できる人気スポットです。</description>
+    </item>
+    <item>
+      <title>【宮崎県】志布志湾大黒イルカランド（天然釣堀）｜観光＋釣り体験・買取制注意・イルカショーと海釣りの複合施設</title>
+      <link>http://localhost:1313/posts/kyusyu/sibusiiruka-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:52:07 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/sibusiiruka-kyusyu/</guid>
+      <description>宮崎県串間市「志布志湾大黒イルカランド（天然釣堀）」はイルカショー＋海釣り体験の複合観光施設。入園料1,500円＋釣り料700円で開始、釣った魚は全て買取制（マダイ・シマアジ100g/300-400円）。リリース禁止のため戦略的釣りが必要。クロダイ・アジ・ヒラメなど多彩な魚種。営業時間10:00-17:00、家族観光に最適。宮崎市内から1時間30分、日南海岸観光との組み合わせおすすめ。</description>
+    </item>
+    <item>
+      <title>【鹿児島県】桜島海づり公園｜桜島観光と海釣りが同時に楽しめる・フェリーアクセス・料金完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/sakurajimakankjou-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:50:45 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/sakurajimakankjou-kyusyu/</guid>
+      <description>桜島海づり公園は活火山を眺めながら海釣りができる唯一無二の施設。釣り料200円（4時間・貸竿込み）の破格料金でマダイやカンパチも狙える。フェリーアクセスも含めて特別な体験が可能。ライフジャケット無料、手ぶらOK。桜島観光とセットで楽しめる絶景釣りスポット。</description>
+    </item>
+    <item>
+      <title>【長崎県】迎パールマリン釣り紀行｜移動式イカダで巡る海上釣り体験・完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/pearlmarine-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:49:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/pearlmarine-kyusyu/</guid>
+      <description>長崎県佐世保市の迎パールマリン釣り紀行は、全国でも珍しい移動式イカダで最適ポイントを巡る海釣り施設です。貸切30名・乗り合い18名対応、クエ・マダイなど15種類以上の魚種が狙えます。企業研修や本格船釣り体験に最適な革新的釣りサービスです。</description>
+    </item>
+    <item>
+      <title>【鹿児島県】鴨池海づり公園｜格安で深場釣りが楽しめる・アクセス・料金完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/kamoiketuripark-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:46:59 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/kamoiketuripark-kyusyu/</guid>
+      <description>鹿児島市の鴨池海づり公園は大人600円（4時間）で深場釣りが楽しめる格安海釣り施設。水深20～25mでマダイやカンパチも狙える本格環境。年中無休営業で貸竿300円、手ぶらOK。鹿児島中央駅から車15分の好立地。初心者から上級者まで対応の高コスパ釣り場。</description>
+    </item>
+    <item>
+      <title>【福岡県】日明け海峡釣り公園｜小倉駅近の無料海釣り施設・夜景スポットとしても人気</title>
+      <link>http://localhost:1313/posts/kyusyu/nitikaikyoturi-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:45:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/nitikaikyoturi-kyusyu/</guid>
+      <description>日明け海峡釣り公園は北九州市小倉北区の完全無料海釣り施設。小倉駅から10分の好立地で工場夜景も楽しめる。クロダイ・シーバス・アジ・メバルなど多彩な魚種。年中無休24時間利用可能。アクセス・釣果・注意事項を詳しく解説。</description>
+    </item>
+    <item>
+      <title>【鹿児島県】奄美シーランド｜奄美大島の絶景船釣り体験・完全手ぶらOK・料金・予約完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/amamisealand-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:43:56 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/amamisealand-kyusyu/</guid>
+      <description>奄美シーランドは世界自然遺産・奄美大島で楽しめる完全手ぶらの船釣り体験施設。90分12,000円で竿・道具・指導込み。タイやカンパチなど南国の魚種が狙える。マリンアクティビティやドローン撮影も充実。奄美観光の特別体験として最適な唯一無二のマリンレジャー。</description>
+    </item>
+    <item>
+      <title>中部地方（太平洋側）海上釣り堀・海釣り施設完全ガイド｜全10施設の料金・釣果・アクセス徹底比較</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/chubutokai-matome/</link>
+      <pubDate>Sun, 20 Jul 2025 15:33:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/chubutokai-matome/</guid>
+      <description>中部地方（太平洋側）は静岡・愛知・三重県に29の海上釣り堀・海釣り施設を擁する日本屈指の釣りエリア。海上釣り堀の平均料金は12,400円で、マダイ・ブリ・ヒラメなど大型魚が狙える。東京・名古屋・大阪から1.5～4時間でアクセス可能。特に熱海港海釣り施設は新幹線利用で便利、錦フィッシングパークはヒラメ特化で人気。温泉観光と組み合わせた釣り旅行に最適な地域です。</description>
+    </item>
+    <item>
+      <title>【三重県】鵜方浜釣センター | 紀州釣りの聖地で本格的な筏・カセ釣りが楽しめる志摩の老舗渡船</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/ugatahama-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 15:17:52 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/ugatahama-mie/</guid>
+      <description>鵜方浜釣センター要約文三重県志摩市の「鵜方浜釣センター」は、英虞湾の筏・カセで本格的な筏釣りを楽しめる渡船です。渡船料金4,000円でクロダイの紀州釣りをメインに、カレイ、キス、アジ、シーバスなど天然魚を狙えます。筏・カセには屋根とトイレ完備で快適。BBQ道具貸し出しで釣った魚をその場で味わえます。近鉄鵜方駅から徒歩15分、名古屋から2時間半とアクセス良好。志摩半島観光と組み合わせ可能な、天然魚と</description>
+    </item>
+    <item>
+      <title>【愛知県】豊浜海釣り公園（豊浜釣り桟橋） | 24時間無料で楽しめる知多半島の人気釣りスポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/toyohamaturi-aichi/</link>
+      <pubDate>Sun, 20 Jul 2025 15:16:15 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/toyohamaturi-aichi/</guid>
+      <description>愛知県知多郡南知多町豊浜にある「豊浜海釣り公園（豊浜釣り桟橋）」は、24時間年中無休で完全無料で利用できる海釣り施設です。地元漁協の好意で開放されており、海に張り出した桟橋からクロダイ、メジナ、キス、ハゼ、シーバス、アジ、サバなど多彩な魚種を狙えます。釣具レンタルはないため各自持参が必要で、桟橋上は鉄網（グレーチング）のためレジャーシートを持参すると快適です。漁港内にあるため操業者の妨げにならない</description>
+    </item>
+    <item>
+      <title>【愛知県】新舞子マリンパーク 魚釣り施設 | 無料で700mの広大な釣り場が楽しめる知多市の人気スポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/sinmaikomarin-aichi/</link>
+      <pubDate>Sun, 20 Jul 2025 15:13:21 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/sinmaikomarin-aichi/</guid>
+      <description>愛知県知多市にある「新舞子マリンパーク 魚釣り施設」は、全長700m以上の広大な釣り場が無料で利用できる人気スポットです。営業時間は5:15〜20:00（門扉が20:00で閉じる）、年中無休で営業しています。シーバス、アイナメ、メバル、タチウオなど四季折々の多彩な魚種が狙え、駐車場は平日無料、土日祝と浜開き期間中は1回500円です。ライフジャケットのレンタル（2,000円）はありますが、釣具の貸出</description>
+    </item>
+    <item>
+      <title>【三重県】内瀬釣りセンター（ないぜ） | 南伊勢の美しい海域で楽しむ本格筏釣り・多彩な釣法に対応した老舗渡船</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/naizeturicenter-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 15:10:55 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/naizeturicenter-mie/</guid>
+      <description>三重県南伊勢町の「内瀬釣りセンター」は、大人1日4,000円、子供2,500円の格安料金で本格筏釣りを楽しめる老舗渡船です。クロダイの紀州釣り・フカセ釣りをメインに、サビキ釣りなど多彩な釣法に対応。南伊勢の透明度の高い美しい海域で天然魚を狙えます。内瀬港と下津港の2拠点から渡船し、状況に応じて最適なポイントを選択可能。家族連れにも優しい子供料金設定で、名古屋から2時間半の立地。南伊勢観光と組み合わ</description>
+    </item>
+    <item>
+      <title>【三重県】マルスイ海産 | 尾鷲の豊かな海域で楽しむ本格チヌ筏釣り・熟練者向けの天然魚勝負</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/marusuikaisan-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 15:05:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/marusuikaisan-mie/</guid>
+      <description>三重県尾鷲市の「マルスイ海産」は、大人4,500円、子供2,250円の格安料金でチヌ筏釣りを楽しめる熟練者向け渡船です。尾鷲の豊かな海域に設置された複数の筏で、水深や魚種に応じた戦略的な釣りが可能。チヌ、マダイ、カワハギなど天然魚を狙えます。営業時間は日の出から日の入りまでで季節変動あり。荒天時休業。海上釣り堀ではない本格筏釣りのため、ある程度の経験と技術が必要。熊野古道観光と組み合わせ可能な、コ</description>
+    </item>
+    <item>
+      <title>【三重県】光栄丸（筏釣り） | チヌ狙いの本格筏釣りとお得なポイントカードが魅力の南伊勢渡船</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/koueimaruikada-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 15:03:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/koueimaruikada-mie/</guid>
+      <description>三重県南伊勢町の「光栄丸」は、チヌ（クロダイ）狙いの本格筏釣り専門渡船です。大人・子供ともに5,000円の良心的料金で、クロダイ、マダイ、カワハギなど天然魚を狙えます。10回利用で1回無料になるポイントカード制度がリピーターに人気。冬季は練炭レンタル1,000円で快適な釣りが可能。受付時間は月別変動（4:30～6:00）のため予約カレンダー要確認。基本無休で年間利用可能。海上釣り堀とは違う天然魚と</description>
+    </item>
+    <item>
+      <title>【静岡県】熱海港海釣り施設 | リーズナブルな料金で地元民にも観光客にも人気の釣りスポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/atamikouumidu-shizoka/</link>
+      <pubDate>Sun, 20 Jul 2025 15:01:13 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/atamikouumidu-shizoka/</guid>
+      <description>静岡県熱海市の「熱海港海釣り施設」は、入場料大人500円・小中学生300円という手頃な価格で利用できる海釣り施設です。4〜10月は6:00から、11〜3月は7:00から日没まで営業。貸竿セットは1本2時間2,200円でレンタル可能で、マダイ、クロダイ、シロギス、メジナ、アオリイカ、イワシなど季節によって様々な魚種が狙えます。JR熱海駅から徒歩約30分またはタクシーで約10分というアクセスの良さも魅</description>
+    </item>
+    <item>
+      <title>【静岡県】新居弁天海釣公園 | 24時間営業で浜名湖を満喫できる釣りスポット・料金・アクセス情報</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/araibentenumi-shizuoka/</link>
+      <pubDate>Sun, 20 Jul 2025 14:58:03 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/araibentenumi-shizuoka/</guid>
+      <description>静岡県湖西市の浜名湖に面した「新居弁天海釣公園」は、24時間営業で駐車料金1日400円（30分以内無料）のみで利用できるリーズナブルな海釣り施設です。海上に張り出したT字型堤防が特徴で、足元に仕掛けを落とすだけで多様な魚種が狙えます。クロダイ、メジナ、キス、アジ、カレイ、タコなど季節によって様々な魚が釣れ、静岡県だけでなく愛知県からも多くの釣り客が訪れる人気スポット。釣具レンタルも充実しており、フ</description>
+    </item>
+    <item>
+      <title>【和歌山県】和歌山マリーナシティ釣り公園｜観光地で楽しむファミリー向け海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/marinacityttu-wakayama/</link>
+      <pubDate>Sun, 20 Jul 2025 11:41:42 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/marinacityttu-wakayama/</guid>
+      <description>和歌山マリーナシティ釣り公園は観光地内にある2025年新規オープンのファミリー向け海釣り施設。大人1,000円の手頃な料金で護岸釣りが楽しめる。中学生以下は救命胴衣着用必須で安全性重視。クロダイ・アジ・サバなど11魚種が狙え、観光と釣りを同時に満喫できる立地が魅力。</description>
+    </item>
+    <item>
+      <title>【大阪府】とっとパーク小島｜格安料金・イブニング割引・多魚種狙い・海釣り施設ガイド</title>
+      <link>http://localhost:1313/posts/kansai/tottopark-osaka/</link>
+      <pubDate>Sun, 20 Jul 2025 11:39:28 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/tottopark-osaka/</guid>
+      <description>大阪府岬町のとっとパーク小島は格安料金の海釣り施設。大人1,500円、イブニング1,000円で14種類の魚種が狙える。チヌ・シーバス・マダイなど多彩な釣果。回数券で1回無料、釣具持参必須の中級者向け施設。</description>
+    </item>
+    <item>
+      <title>【兵庫県】須磨海づり公園|神戸市民割引・時間制料金・須磨観光と合わせて楽しめる海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/sumaduri-hyogo/</link>
+      <pubDate>Sun, 20 Jul 2025 11:37:35 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/sumaduri-hyogo/</guid>
+      <description>須磨海づり公園は神戸須磨の観光地に位置する海釣り施設で、基本料金1,200円（4時間）の時間制システムが特徴です。神戸市民65歳以上は600円の特別割引あり。クロダイ・シーバス・タチウオなど9魚種が狙え、砂地で根掛り少なく投げ釣り初心者も安心。須磨海浜水族園・須磨寺から近く観光と釣りを同時に楽しめる抜群の立地。電車アクセス良好で詳細気象データ提供も魅力の神戸屈指の海釣りスポット。</description>
+    </item>
+    <item>
+      <title>【京都府】宮津市海洋つり場｜格安料金・多魚種・海上桟橋・イベント充実ガイド</title>
+      <link>http://localhost:1313/posts/kansai/miyaduturi-kyoto/</link>
+      <pubDate>Sun, 20 Jul 2025 11:35:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/miyaduturi-kyoto/</guid>
+      <description>京都府宮津市海洋つり場は大人1,100円の格安公営海釣り施設。海上桟橋でクロダイ・マダイ・ブリなど11種類が狙える。天橋立観光と組み合わせ可能。金土日月営業、4～11月期間限定。イベント充実の家族向け釣り場。</description>
+    </item>
+    <item>
+      <title>【大阪府】南港魚つり園護岸｜無料で本格海釣り・初心者レクチャー・子供体験学習ガイド</title>
+      <link>http://localhost:1313/posts/kansai/minamikouturi-osaka/</link>
+      <pubDate>Sun, 20 Jul 2025 11:33:52 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/minamikouturi-osaka/</guid>
+      <description>大阪市住之江区の南港魚つり園護岸は完全無料の海釣り施設。クロダイ・シーバス・ブリなど多彩な魚種が狙え、初心者向けスタッフレクチャーあり。釣具レンタル1,800円で手ぶらOK。大阪市内からアクセス抜群の人気スポット。</description>
+    </item>
+    <item>
+      <title>【京都府】舞鶴親海公園｜無料開放・清掃協力金制・多魚種・年中無休海釣り施設ガイド</title>
+      <link>http://localhost:1313/posts/kansai/maidurupark-kyoto/</link>
+      <pubDate>Sun, 20 Jul 2025 11:32:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/maidurupark-kyoto/</guid>
+      <description>京都府舞鶴親海公園は無料開放の海釣り施設。清掃協力金300円推奨でクロダイ・アオリイカ・ブリなど8種類が狙える。年中無休営業、仕掛け制限なしで自由度高い。夜釣り不可だが舞鶴港の良立地で観光も楽しめる。</description>
+    </item>
+    <item>
+      <title>【兵庫県】神戸市立平磯海づり公園|格安1,000円・車椅子対応・神戸アクセス抜群の海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/hiraisoturi-hyogo/</link>
+      <pubDate>Sun, 20 Jul 2025 11:30:44 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/hiraisoturi-hyogo/</guid>
+      <description>神戸市立平磯海づり公園は、神戸市内から30分の公営海釣り施設で基本料金わずか1,000円（4時間）という破格のコスパを誇ります。クロダイ・シーバス・アオリイカなど14魚種が狙え、車椅子対応でバリアフリー完備。JR垂水駅から徒歩20分の駅近アクセスで電車利用も便利。夏場は20時まで営業し仕事帰りの夜釣りも可能。関西屈指の格安海釣りスポットとして初心者から上級者まで幅広く愛用されている。</description>
+    </item>
+    <item>
+      <title>【兵庫県】姫路市立遊漁センター|格安830円・夜釣り対応・団体割引充実の海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/himejiyuugi-hyogo/</link>
+      <pubDate>Sun, 20 Jul 2025 11:29:02 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/himejiyuugi-hyogo/</guid>
+      <description>姫路市立遊漁センターは播磨灘に面した公営海釣り施設で、基本料金830円という格安設定が魅力です。夏場は6:00～21:00の15時間営業で夜釣りも対応。クロダイ・シーバス・メバルなど5魚種が狙え、回数券・団体割引・姫路市共済割引など充実した割引制度あり。姫路城から車で30分の好立地で観光と釣りを同時に楽しめる。桟橋構造で安全、関西圏屈指のコスパ抜群海釣りスポット。</description>
+    </item>
+    <item>
+      <title>【兵庫県】尼崎市立魚つり公園|エビ撒き釣り講習会・大物賞イベント充実の海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/amazakipark-hyogo/</link>
+      <pubDate>Sun, 20 Jul 2025 11:27:13 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/amazakipark-hyogo/</guid>
+      <description>尼崎市立魚つり公園は大阪湾奥部の公営海釣り施設で、わずか830円の格安料金が魅力です。関西伝統のエビ撒き釣り講習会開催、月間・年間大物賞イベント充実。クロダイ・シーバス・アジなど6魚種対応、夏場は5:00～20:00の長時間営業。エサ釣り専門で安全重視、初心者・家族連れに最適。大阪・神戸から電車バス利用可能、尼崎市民の日は無料。関西圏屈指のコスパ抜群海釣りスポット。</description>
+    </item>
+    <item>
+      <title>【福井県】若狭高浜海釣り公園|絶景の中で楽しめるリーズナブルな橋上釣り場</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/wakasa-takahama/</link>
+      <pubDate>Thu, 17 Jul 2025 09:16:19 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/wakasa-takahama/</guid>
+      <description>【福井県高浜町】若狭高浜海釣り公園は本土と稲根島を結ぶ橋上で釣りができる施設。入場料は1人わずか200円と格安で、清掃協力金として車1台1,000円が必要。クロダイやメバル、アジなど季節によって様々な魚種が狙える。ライフジャケット着用は必須だがレンタルなし。貸し竿(1,000円)は約10本と限りがあるため、釣具の持参がおすすめ。水曜定休。</description>
+    </item>
+    <item>
+      <title>【石川県】のとじま臨海公園「海づりセンター」|初心者も安心・水族館併設の釣り場完全ガイド</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/notojima-rinkaisen/</link>
+      <pubDate>Thu, 17 Jul 2025 09:14:47 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/notojima-rinkaisen/</guid>
+      <description>のとじま臨海公園「海づりセンター」は石川県七尾市能登島にある水族館併設の釣り施設です。海上に張り出した桟橋では、クロダイ、メジナ、アジなどが釣れ、初心者でも安心して釣りを楽しめます。入場料は大人520円、水族館利用者は100円引き。貸竿520円、エサも購入可能で手ぶらでの来場にも対応。駐車場完備で観光と合わせた立ち寄りにも最適な、ファミリーに優しい海釣りスポットです。</description>
+    </item>
+    <item>
+      <title>【新潟県】新潟東港第2東防波堤管理釣り場|シーバス・青物狙いのルアーフィッシング天国</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/niigatahigasi-bouhatei/</link>
+      <pubDate>Thu, 17 Jul 2025 09:12:54 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/niigatahigasi-bouhatei/</guid>
+      <description>新潟東港第2東防波堤管理釣り場はNPO法人ハッピーフィッシングが運営する海釣り施設。入場料1,500円、3～10月の日の出から日の入りまで営業。シーバスや青物（サゴシ・ブリなど）が人気のターゲットで、ショアジギングなどルアー釣りが盛ん。タックルレンタル（3,000円）あり、ライフジャケット着用義務（500円でレンタル可）。年間パス48,000円もあり、常連向け。</description>
+    </item>
+    <item>
+      <title>【新潟県】直江津港第3東防波堤管理釣り場|大型魚も狙える人気の防波堤釣りスポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/naoetu-bouhatei/</link>
+      <pubDate>Thu, 17 Jul 2025 09:10:59 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/naoetu-bouhatei/</guid>
+      <description>【新潟県上越市】直江津港第3東防波堤管理釣り場はNPO法人ハッピーフィッシングが運営する人気の海釣り施設。入場料1,500円、3～10月の日の出から日の入りまで営業。マダイ・クロダイ・シーバス・ヒラメなど大型魚の釣果報告が多く、人気スポット。週末・祝日は混雑するため入場予約サービスあり。ライフジャケット着用義務(500円でレンタル可)。年間パス48,000円も提供。</description>
+    </item>
+    <item>
+      <title>【富山県】石田フィッシャリーナ 釣り桟橋|無料で楽しめる絶景ロケーションの海釣りスポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/ishida-fisharean/</link>
+      <pubDate>Thu, 17 Jul 2025 09:09:15 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/ishida-fisharean/</guid>
+      <description>石田フィッシャリーナ 釣り桟橋は、富山湾に面した無料で利用できる海釣り施設。目の前に富山湾、背後に北アルプス立山の絶景ロケーションが魅力。アジ・サバからクロダイ・アオリイカまで多彩な魚種が狙える。釣りバカ日誌のロケ地としても有名。サビキ釣りセットのレンタル(1,150円)あり、手ぶらでも楽しめる。4~10月が主な営業期間。</description>
+    </item>
+    <item>
+      <title>【石川県】フィッシングブリッジ赤崎|能登半島24時間無料の釣り桟橋・磯釣り絶好ポイント</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/fishbridge-akasaki/</link>
+      <pubDate>Thu, 17 Jul 2025 09:07:19 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/fishbridge-akasaki/</guid>
+      <description>フィッシングブリッジ赤崎は石川県能登町にある24時間無料で利用できる釣り桟橋です。比那漁港の南側に位置し、沖合の平島へと伸びる桟橋は岩礁帯が豊富で磯釣りに最適。クロダイ、メバル、カサゴなどの魚種に加え、春から夏はタコやイカの好ポイントとしても知られています。施設はないため釣具やエサは持参必須です。地元の釣り愛好家から観光客まで幅広く楽しめる隠れた名所です。</description>
+    </item>
+    <item>
+      <title>【福井県】ブルーパーク阿納|円形桟橋で多彩な魚種が狙える！海釣り公園完全ガイド</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/fukuibluepak-ano/</link>
+      <pubDate>Thu, 17 Jul 2025 09:04:32 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/fukuibluepak-ano/</guid>
+      <description>ブルーパーク阿納は石川県能登半島の輪島市にある海釣り施設です。トイレや休憩所などの設備が整った桟橋で、アジ、メバル、クロダイなどが年間を通して釣れます。特に夏から秋にかけてのアジ釣りが人気で、初心者からファミリーまで安心して楽しめるスポット。釣具レンタルもあり手ぶらでも釣りが可能。美しい能登の海を眺めながら、手軽に本格的な海釣りが体験できる隠れた名所です。</description>
+    </item>
+    <item>
+      <title>【宮城県】仙台港中央公園・海の広場｜無料で楽しめる海釣りスポット・アクセス良好・初心者向け情報</title>
+      <link>http://localhost:1313/posts/tohoku/sendai-cenpark/</link>
+      <pubDate>Wed, 16 Jul 2025 10:20:03 +0900</pubDate>
+      <guid>http://localhost:1313/posts/tohoku/sendai-cenpark/</guid>
+      <description>完全無料で利用できる公共公園で、通年営業している点が強み。ただし釣り道具は全て持参する必要があり、初心者よりは経験者向けです。市街地からアクセスが良く、本格的な海釣りが体験できます。</description>
+    </item>
+    <item>
+      <title>四国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/shikoku/shikoku-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:42:54 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/shikoku-matome/</guid>
+      <description>四国地方の海上釣り堀・海釣り施設11箇所を徹底比較。高知県の太平洋型では本格的な高級魚釣りが13,000円から、香川県の瀬戸内海型では観光と組み合わせた手軽な釣りが500円から楽しめます。ソルトレイクひけた安戸池の珍しいルアーコーナーや小豆島の破格500円施設など、特色ある釣りスポットが満載。初心者から上級者まで、予算に応じて選べる幅広い選択肢を詳しく解説した完全ガイドです。</description>
+    </item>
+    <item>
+      <title>【愛媛県】おさかな牧場「シーロード八幡浜」| 週末営業！600円で楽しめるバリアフリー対応の本格海釣りスポット</title>
+      <link>http://localhost:1313/posts/shikoku/searoad-yawatahama/</link>
+      <pubDate>Mon, 14 Jul 2025 05:34:18 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/searoad-yawatahama/</guid>
+      <description>愛媛県八幡浜市にある「おさかな牧場 シーロード八幡浜」は、美しい瀬戸内海に張り出した桟橋で本格的な海釣りが楽しめる施設です。入場料はわずか大人600円、子供300円という手頃な価格設定ながら、クロダイやシーバス、アジなど多彩な魚種を狙うことができます。バリアフリー対応の施設で、土日祝日のみの営業という特徴があります。釣具やエサの販売はないため事前準備が必要です。</description>
+    </item>
+    <item>
+      <title>【香川県】直島つり公園 | 入園料わずか100円！アート島で味わう本格海釣り体験</title>
+      <link>http://localhost:1313/posts/shikoku/naoshima-turikouen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:31:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/naoshima-turikouen/</guid>
+      <description>アートの島として世界的に有名な香川県の直島にある「直島つり公園」は、入園料わずか100円という驚きの手軽さで本格的な海釣りが楽しめる施設です。かつては生簀を使った釣り堀でしたが、現在は自然の海を舞台にした海釣り施設として生まれ変わりました。竿のレンタルやエサの販売もあるので手ぶらでも大丈夫。シーバスやアオリイカなど様々な魚種が狙え、釣りのスキルに関わらず誰でも楽しめます。</description>
+    </item>
+    <item>
+      <title>【高知県】筏釣り 高橋渡船 | 4,000円で一日楽しめる！屋根付き筏もある本格海釣りスポット</title>
+      <link>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:29:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</guid>
+      <description>高知県須崎市の浦ノ内湾に位置する「筏釣り 高橋渡船」は、1日4,000円という手頃な料金で本格的な筏釣りが楽しめる施設です。海上に浮かぶ筏（いかだ）から、クロダイ、マダイ、キス、アオリイカなど様々な魚種を狙うことができます。特筆すべきは屋根付きの筏があり、真夏の強い日差しも気にせず釣りに集中できる点。また水上バーベキューも可能で、釣りと食事を一度に楽しめるユニークなレジャースポットです。</description>
+    </item>
+    <item>
+      <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
+      <link>http://localhost:1313/posts/shikoku/turiikada-fukaura/</link>
+      <pubDate>Mon, 14 Jul 2025 05:26:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/turiikada-fukaura/</guid>
+      <description>高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中</description>
+    </item>
+    <item>
+      <title>【香川県】小豆島ふるさと村釣り桟橋 | 500円で気軽に楽しむ！観光・体験型レジャーと一緒に楽しむ海釣り</title>
+      <link>http://localhost:1313/posts/shikoku/furusato-sanbashi/</link>
+      <pubDate>Mon, 14 Jul 2025 05:24:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/furusato-sanbashi/</guid>
+      <description>香川県の観光名所・小豆島にある「小豆島ふるさと村釣り桟橋」は、美しい瀬戸内海を眺めながら手軽に海釣りを楽しめる施設です。入場料はわずか大人500円、子供300円と家族でも気軽に訪れることができます。釣り竿のレンタルやエサの販売もあるので手ぶらでOK。「小豆島ふるさと村」という体験型レジャー施設の一部なので、釣り以外にも様々なアクティビティを一日中楽しむことができます。金網タイプの桟橋は安全性も高く</description>
+    </item>
+    <item>
+      <title>【愛媛県】フィッシングパーク大三島 | 釣り桟橋と釣り堀が選べる！しまなみ海道の海釣り体験スポット</title>
+      <link>http://localhost:1313/posts/shikoku/fishing-omishima/</link>
+      <pubDate>Mon, 14 Jul 2025 05:15:23 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/fishing-omishima/</guid>
+      <description>しまなみ海道の大三島にある「フィッシングパーク大三島」は、海釣り桟橋と釣り堀の両方を楽しめる珍しい施設です。釣り桟橋は大人1,000円、子供500円で利用でき、自然の海で様々な魚を狙う本格的な釣りが体験できます。一方、釣り堀は3,500円で竿のレンタル代も含まれており、アジやタイなど確実に釣果が得られるのが魅力。釣りの経験や気分に合わせて選べるので、初心者からベテランまで満足できる施設です。</description>
+    </item>
+    <item>
+      <title>沖縄県の海上釣り堀・海釣り施設完全ガイド｜2施設の特徴・料金・マリンアクティビティ情報</title>
+      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:08:44 +0900</pubDate>
+      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
+      <description>沖縄県の海釣り施設2選を徹底比較。本土とは異なるイカダ釣りで南国魚種との出会いを楽しめる。本部釣りイカダ海生活は手ぶらパック8,910円でBBQ・カヌーとのセット体験が魅力。糸満イカダは2,800円のシンプル料金でタマン・ミーバイ狙い。年中温暖な気候で通年営業、夜釣りプランも選択可能。観光との組み合わせに最適な2泊3日モデルプラン、予算計画まで完全ガイド。</description>
+    </item>
+    <item>
+      <title>【沖縄県】本部釣りイカダ 海生活 | 沖縄の青い海で天然魚釣り体験とBBQが楽しめる総合マリンスポット</title>
+      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/motobe-ikada/</link>
+      <pubDate>Mon, 14 Jul 2025 05:07:49 +0900</pubDate>
+      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/motobe-ikada/</guid>
+      <description>沖縄県本部町にある「本部釣りイカダ 海生活」は、釣りとBBQが同時に楽しめる総合マリンレジャースポット。沖に浮かぶイカダで天然魚釣りが体験でき、タマンやグルクンなど沖縄ならではの魚種が釣れる。料金は居住地により異なり、沖縄県在住者は3,630円から、国内在住者は3,960円から、海外からは4,800円から。イカダにはトイレと屋根が完備され、釣り以外にもカヌーやシュノーケルなどのアクティビティも提供</description>
+    </item>
+    <item>
+      <title>【沖縄県】糸満イカダ（つりぐのぞうさん）| 南国の海で手軽に大物を狙える地元愛用の釣りスポット</title>
+      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/itoman-ikada/</link>
+      <pubDate>Mon, 14 Jul 2025 05:06:34 +0900</pubDate>
+      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/itoman-ikada/</guid>
+      <description>沖縄県糸満市にある「糸満イカダ（つりぐのぞうさん）」は、南国ならではの大物狙いが可能な人気の海上釣り堀。チヌやタマン、ミーバイなど沖縄特有の魚種が釣れる。料金は大人2,800円で釣り放題制。釣具レンタルは要予約。屋根付きトイレ完備のイカダへは渡船で行き、帰りは定時便を利用。魚は本州より強いため太めの道具がおすすめ。公式サイトで過去10年の釣果も確認可能。観光客でも手ぶらで楽しめる沖縄の海釣り体験ス</description>
+    </item>
+    <item>
+      <title>中国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/chugoku/chugoku-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:04:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/chugoku-matome/</guid>
+      <description>瀬戸内海に面する中国地方の海上釣り堀・海釣り施設6箇所を徹底比較。広島県の離島釣り堀では14種類の高級魚が釣り放題で楽しめ、山口県の海釣り施設は家族連れに最適。料金は海上釣り堀平均8,500円、海釣り施設平均820円。ボウズ保証や充実したレンタル設備で初心者も安心。主要都市からのアクセス情報や宿泊施設データも完備し、釣り旅行の計画に最適な完全ガイドです。</description>
+    </item>
+    <item>
+      <title>【山口県】須佐湾フィッシングパーク | 天然の入り江で高級魚釣り体験・季節限定の貴重な海釣りスポット</title>
+      <link>http://localhost:1313/posts/chugoku/susawan-fising/</link>
+      <pubDate>Mon, 14 Jul 2025 05:03:43 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/susawan-fising/</guid>
+      <description>山口県萩市の「須佐湾フィッシングパーク」は、天然の入り江を活かした季節限定の釣り施設です。営業はGW、夏季の土日祝、お盆期間のみと限定的ですが、入場料は大人1日520円と非常にリーズナブル。釣り竿やエサもそれぞれ200円、100円でレンタル可能です。マダイやブリなどの高級魚が釣れますが、釣った魚は買取方式（マダイ1kg2,100円、ブリ1kg1,600円）でリリース禁止。美しい須佐湾の景観を楽しみ</description>
+    </item>
+    <item>
+      <title>【山口県】フィッシングパーク光 | リーズナブル＆手ぶらOK・ファミリーにやさしい安全な海釣り公園</title>
+      <link>http://localhost:1313/posts/chugoku/fishingpark-hikari/</link>
+      <pubDate>Mon, 14 Jul 2025 05:02:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/fishingpark-hikari/</guid>
+      <description>山口県光市の「フィッシングパーク光」は、金網で覆われた安全な桟橋で気軽に海釣りが楽しめる公営施設です。料金は大人4時間690円と手頃で、貸竿も600円でレンタル可能。クロダイ、シーバス、アジ、メバルなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。季節により営業時間が変わり、夏季は朝5時から夜9時まで営業しているため、早朝や夕マズメ時の釣りも楽しめます。バリアフリー対応もされており</description>
+    </item>
+    <item>
+      <title>【山口県】下関フィッシングパーク | 初心者からファミリーまで楽しめる安全・手軽な海釣り施設</title>
+      <link>http://localhost:1313/posts/chugoku/shimonoseki-park/</link>
+      <pubDate>Mon, 14 Jul 2025 05:01:02 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/shimonoseki-park/</guid>
+      <description>山口県下関市の「下関フィッシングパーク」は、金網で覆われた安全な桟橋で釣りが楽しめる海釣り施設です。料金は一般1日1,250円と手頃で、サビキ仕掛け付きのレンタル竿も1,000円で利用可能。アジやクロダイ、メバル、シーバスなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。投げ釣りやルアー釣りは禁止されていますが、サビキ釣りや胴付き仕掛けで十分に釣果が期待できます。季節によって営業時</description>
+    </item>
+    <item>
+      <title>【千葉県】オリジナルメーカー海づり公園｜格安料金・釣りレッスン完全ガイド</title>
+      <link>http://localhost:1313/posts/kanto/origi-umiduri/</link>
+      <pubDate>Mon, 14 Jul 2025 04:37:08 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kanto/origi-umiduri/</guid>
+      <description>千葉県市原市のオリジナルメーカー海づり公園は一般920円の格安料金で本格海釣りが楽しめる施設。アジ・シーバス・カレイなど東京湾の多彩な魚種を狙え、釣りレッスン完備で初心者安心。五井駅からバス15分、夏季無休営業で関東屈指のコスパ抜群海釣りスポット。</description>
+    </item>
+    <item>
+      <title>関東地方の海上釣り堀・海釣り施設完全ガイド｜おすすめ4選を徹底比較</title>
+      <link>http://localhost:1313/posts/kanto/kantou-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 04:35:59 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kanto/kantou-matome/</guid>
+      <description>関東地方の海上釣り堀・海釣り施設おすすめ4選を徹底比較。千葉県の格安920円から神奈川県の本格16,500円まで、初心者向けキャッチ&amp;amp;リリース、時間制家族向けなど多彩。アクセス・料金・釣果を詳しく解説し、あなたにピッタリの釣り場選びをサポート。</description>
+    </item>
+    <item>
+      <title>【北海道】苫小牧港海釣り施設｜初心者から上級者まで満喫できる本格的な釣り場・アクセス情報</title>
+      <link>http://localhost:1313/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</link>
+      <pubDate>Mon, 14 Jul 2025 04:31:39 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</guid>
+      <description>北海道・苫小牧港海釣り施設は、防波堤から本格的な海釣りが楽しめる人気スポット。サクラマス、カレイ、青物など季節ごとに様々な魚種が狙え、足場も安定しているため初心者も安心。3〜10月の土日祝限定で先着100名までという希少性も魅力。ライフジャケット着用必須で、基本料金は大人2,300円（入場料+駐車料）。早朝から開場するため、遠方からなら前日入りがおすすめ。</description>
+    </item>
+  </channel>
 </rss>

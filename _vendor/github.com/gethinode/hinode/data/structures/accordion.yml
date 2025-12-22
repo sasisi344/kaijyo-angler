@@ -1,0 +1,7 @@
+comment: >-
+  Use the accordion to show a group of vertically collapsing and expanding
+  items. Add accordion-item inner elements for each accordion item.
+arguments:
+  id:
+  always-open:
+  class:

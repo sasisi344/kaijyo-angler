@@ -1,7 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>中部 - category - Kaijyo Fishing</title>
-        <link>https://example.org/categories/%E4%B8%AD%E9%83%A8/</link>
-        <description>中部 - category - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 &#43;0900</lastBuildDate><atom:link href="https://example.org/categories/%E4%B8%AD%E9%83%A8/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中部 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/categories/%E4%B8%AD%E9%83%A8/</link>
+    <description>Recent content in 中部 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E4%B8%AD%E9%83%A8/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

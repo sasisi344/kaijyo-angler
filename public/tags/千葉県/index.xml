@@ -1,23 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>千葉県 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%8D%83%E8%91%89%E7%9C%8C/</link>
-        <description>千葉県 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 04:38:17 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%8D%83%E8%91%89%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>【千葉県】太海フラワー磯釣りセンター｜手ぶらOK・初心者向け完全ガイド</title>
-    <link>https://example.org/posts/kanto/taikai-flower/</link>
-    <pubDate>Mon, 14 Jul 2025 04:38:17 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kanto/taikai-flower/</guid>
-    <description><![CDATA[千葉県鴨川市の太海フラワー磯釣りセンターは手ぶらOKの海上釣り堀。1,500円で貸竿・エサ一式、キャッチ&amp;リリース方式で初心者安心。イサキ・シマアジ・イシダイなど多彩な魚種が楽しめ、東京から約2時間、太海駅から徒歩10分の好アクセス。年中無休で鴨川観光にも最適。]]></description>
-</item>
-<item>
-    <title>【千葉県】オリジナルメーカー海づり公園｜格安料金・釣りレッスン完全ガイド</title>
-    <link>https://example.org/posts/kanto/origi-umiduri/</link>
-    <pubDate>Mon, 14 Jul 2025 04:37:08 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kanto/origi-umiduri/</guid>
-    <description><![CDATA[千葉県市原市のオリジナルメーカー海づり公園は一般920円の格安料金で本格海釣りが楽しめる施設。アジ・シーバス・カレイなど東京湾の多彩な魚種を狙え、釣りレッスン完備で初心者安心。五井駅からバス15分、夏季無休営業で関東屈指のコスパ抜群海釣りスポット。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>千葉県 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%8D%83%E8%91%89%E7%9C%8C/</link>
+    <description>Recent content in 千葉県 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%8D%83%E8%91%89%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【千葉県】太海フラワー磯釣りセンター｜手ぶらOK・初心者向け完全ガイド</title>
+      <link>http://localhost:1313/posts/kanto/taikai-flower/</link>
+      <pubDate>Mon, 14 Jul 2025 04:38:17 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kanto/taikai-flower/</guid>
+      <description>千葉県鴨川市の太海フラワー磯釣りセンターは手ぶらOKの海上釣り堀。1,500円で貸竿・エサ一式、キャッチ&amp;amp;リリース方式で初心者安心。イサキ・シマアジ・イシダイなど多彩な魚種が楽しめ、東京から約2時間、太海駅から徒歩10分の好アクセス。年中無休で鴨川観光にも最適。</description>
+    </item>
+    <item>
+      <title>【千葉県】オリジナルメーカー海づり公園｜格安料金・釣りレッスン完全ガイド</title>
+      <link>http://localhost:1313/posts/kanto/origi-umiduri/</link>
+      <pubDate>Mon, 14 Jul 2025 04:37:08 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kanto/origi-umiduri/</guid>
+      <description>千葉県市原市のオリジナルメーカー海づり公園は一般920円の格安料金で本格海釣りが楽しめる施設。アジ・シーバス・カレイなど東京湾の多彩な魚種を狙え、釣りレッスン完備で初心者安心。五井駅からバス15分、夏季無休営業で関東屈指のコスパ抜群海釣りスポット。</description>
+    </item>
+  </channel>
 </rss>

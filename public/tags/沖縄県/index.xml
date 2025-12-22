@@ -1,31 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>沖縄県 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%B2%96%E7%B8%84%E7%9C%8C/</link>
-        <description>沖縄県 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:08:44 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%B2%96%E7%B8%84%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>沖縄県の海上釣り堀・海釣り施設完全ガイド｜2施設の特徴・料金・マリンアクティビティ情報</title>
-    <link>https://example.org/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
-    <pubDate>Mon, 14 Jul 2025 05:08:44 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
-    <description><![CDATA[沖縄県の海釣り施設2選を徹底比較。本土とは異なるイカダ釣りで南国魚種との出会いを楽しめる。本部釣りイカダ海生活は手ぶらパック8,910円でBBQ・カヌーとのセット体験が魅力。糸満イカダは2,800円のシンプル料金でタマン・ミーバイ狙い。年中温暖な気候で通年営業、夜釣りプランも選択可能。観光との組み合わせに最適な2泊3日モデルプラン、予算計画まで完全ガイド。]]></description>
-</item>
-<item>
-    <title>【沖縄県】本部釣りイカダ 海生活 | 沖縄の青い海で天然魚釣り体験とBBQが楽しめる総合マリンスポット</title>
-    <link>https://example.org/posts/okinawa/sea-fishing-facility/motobe-ikada/</link>
-    <pubDate>Mon, 14 Jul 2025 05:07:49 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/okinawa/sea-fishing-facility/motobe-ikada/</guid>
-    <description><![CDATA[沖縄県本部町にある「本部釣りイカダ 海生活」は、釣りとBBQが同時に楽しめる総合マリンレジャースポット。沖に浮かぶイカダで天然魚釣りが体験でき、タマンやグルクンなど沖縄ならではの魚種が釣れる。料金は居住地により異なり、沖縄県在住者は3,630円から、国内在住者は3,960円から、海外からは4,800円から。イカダにはトイレと屋根が完備され、釣り以外にもカヌーやシュノーケルなどのアクティビティも提供]]></description>
-</item>
-<item>
-    <title>【沖縄県】糸満イカダ（つりぐのぞうさん）| 南国の海で手軽に大物を狙える地元愛用の釣りスポット</title>
-    <link>https://example.org/posts/okinawa/sea-fishing-facility/itoman-ikada/</link>
-    <pubDate>Mon, 14 Jul 2025 05:06:34 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/okinawa/sea-fishing-facility/itoman-ikada/</guid>
-    <description><![CDATA[沖縄県糸満市にある「糸満イカダ（つりぐのぞうさん）」は、南国ならではの大物狙いが可能な人気の海上釣り堀。チヌやタマン、ミーバイなど沖縄特有の魚種が釣れる。料金は大人2,800円で釣り放題制。釣具レンタルは要予約。屋根付きトイレ完備のイカダへは渡船で行き、帰りは定時便を利用。魚は本州より強いため太めの道具がおすすめ。公式サイトで過去10年の釣果も確認可能。観光客でも手ぶらで楽しめる沖縄の海釣り体験ス]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>沖縄県 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%B2%96%E7%B8%84%E7%9C%8C/</link>
+    <description>Recent content in 沖縄県 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%B2%96%E7%B8%84%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>沖縄県の海上釣り堀・海釣り施設完全ガイド｜2施設の特徴・料金・マリンアクティビティ情報</title>
+      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:08:44 +0900</pubDate>
+      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
+      <description>沖縄県の海釣り施設2選を徹底比較。本土とは異なるイカダ釣りで南国魚種との出会いを楽しめる。本部釣りイカダ海生活は手ぶらパック8,910円でBBQ・カヌーとのセット体験が魅力。糸満イカダは2,800円のシンプル料金でタマン・ミーバイ狙い。年中温暖な気候で通年営業、夜釣りプランも選択可能。観光との組み合わせに最適な2泊3日モデルプラン、予算計画まで完全ガイド。</description>
+    </item>
+    <item>
+      <title>【沖縄県】本部釣りイカダ 海生活 | 沖縄の青い海で天然魚釣り体験とBBQが楽しめる総合マリンスポット</title>
+      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/motobe-ikada/</link>
+      <pubDate>Mon, 14 Jul 2025 05:07:49 +0900</pubDate>
+      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/motobe-ikada/</guid>
+      <description>沖縄県本部町にある「本部釣りイカダ 海生活」は、釣りとBBQが同時に楽しめる総合マリンレジャースポット。沖に浮かぶイカダで天然魚釣りが体験でき、タマンやグルクンなど沖縄ならではの魚種が釣れる。料金は居住地により異なり、沖縄県在住者は3,630円から、国内在住者は3,960円から、海外からは4,800円から。イカダにはトイレと屋根が完備され、釣り以外にもカヌーやシュノーケルなどのアクティビティも提供</description>
+    </item>
+    <item>
+      <title>【沖縄県】糸満イカダ（つりぐのぞうさん）| 南国の海で手軽に大物を狙える地元愛用の釣りスポット</title>
+      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/itoman-ikada/</link>
+      <pubDate>Mon, 14 Jul 2025 05:06:34 +0900</pubDate>
+      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/itoman-ikada/</guid>
+      <description>沖縄県糸満市にある「糸満イカダ（つりぐのぞうさん）」は、南国ならではの大物狙いが可能な人気の海上釣り堀。チヌやタマン、ミーバイなど沖縄特有の魚種が釣れる。料金は大人2,800円で釣り放題制。釣具レンタルは要予約。屋根付きトイレ完備のイカダへは渡船で行き、帰りは定時便を利用。魚は本州より強いため太めの道具がおすすめ。公式サイトで過去10年の釣果も確認可能。観光客でも手ぶらで楽しめる沖縄の海釣り体験ス</description>
+    </item>
+  </channel>
 </rss>

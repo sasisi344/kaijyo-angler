@@ -1,23 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>京都府 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/</link>
-        <description>京都府 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 11:35:41 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/" rel="self" type="application/rss+xml" /><item>
-    <title>【京都府】宮津市海洋つり場｜格安料金・多魚種・海上桟橋・イベント充実ガイド</title>
-    <link>https://example.org/posts/kansai/miyaduturi-kyoto/</link>
-    <pubDate>Sun, 20 Jul 2025 11:35:41 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/miyaduturi-kyoto/</guid>
-    <description><![CDATA[京都府宮津市海洋つり場は大人1,100円の格安公営海釣り施設。海上桟橋でクロダイ・マダイ・ブリなど11種類が狙える。天橋立観光と組み合わせ可能。金土日月営業、4～11月期間限定。イベント充実の家族向け釣り場。]]></description>
-</item>
-<item>
-    <title>【京都府】舞鶴親海公園｜無料開放・清掃協力金制・多魚種・年中無休海釣り施設ガイド</title>
-    <link>https://example.org/posts/kansai/maidurupark-kyoto/</link>
-    <pubDate>Sun, 20 Jul 2025 11:32:26 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/maidurupark-kyoto/</guid>
-    <description><![CDATA[京都府舞鶴親海公園は無料開放の海釣り施設。清掃協力金300円推奨でクロダイ・アオリイカ・ブリなど8種類が狙える。年中無休営業、仕掛け制限なしで自由度高い。夜釣り不可だが舞鶴港の良立地で観光も楽しめる。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>京都府 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/</link>
+    <description>Recent content in 京都府 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【京都府】宮津市海洋つり場｜格安料金・多魚種・海上桟橋・イベント充実ガイド</title>
+      <link>http://localhost:1313/posts/kansai/miyaduturi-kyoto/</link>
+      <pubDate>Sun, 20 Jul 2025 11:35:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/miyaduturi-kyoto/</guid>
+      <description>京都府宮津市海洋つり場は大人1,100円の格安公営海釣り施設。海上桟橋でクロダイ・マダイ・ブリなど11種類が狙える。天橋立観光と組み合わせ可能。金土日月営業、4～11月期間限定。イベント充実の家族向け釣り場。</description>
+    </item>
+    <item>
+      <title>【京都府】舞鶴親海公園｜無料開放・清掃協力金制・多魚種・年中無休海釣り施設ガイド</title>
+      <link>http://localhost:1313/posts/kansai/maidurupark-kyoto/</link>
+      <pubDate>Sun, 20 Jul 2025 11:32:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/maidurupark-kyoto/</guid>
+      <description>京都府舞鶴親海公園は無料開放の海釣り施設。清掃協力金300円推奨でクロダイ・アオリイカ・ブリなど8種類が狙える。年中無休営業、仕掛け制限なしで自由度高い。夜釣り不可だが舞鶴港の良立地で観光も楽しめる。</description>
+    </item>
+  </channel>
 </rss>

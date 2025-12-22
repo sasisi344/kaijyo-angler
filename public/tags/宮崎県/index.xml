@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>宮崎県 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%AE%AE%E5%B4%8E%E7%9C%8C/</link>
-        <description>宮崎県 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:52:07 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%AE%AE%E5%B4%8E%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>【宮崎県】志布志湾大黒イルカランド（天然釣堀）｜観光＋釣り体験・買取制注意・イルカショーと海釣りの複合施設</title>
-    <link>https://example.org/posts/kyusyu/sibusiiruka-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:52:07 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/sibusiiruka-kyusyu/</guid>
-    <description><![CDATA[宮崎県串間市「志布志湾大黒イルカランド（天然釣堀）」はイルカショー＋海釣り体験の複合観光施設。入園料1,500円＋釣り料700円で開始、釣った魚は全て買取制（マダイ・シマアジ100g/300-400円）。リリース禁止のため戦略的釣りが必要。クロダイ・アジ・ヒラメなど多彩な魚種。営業時間10:00-17:00、家族観光に最適。宮崎市内から1時間30分、日南海岸観光との組み合わせおすすめ。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宮崎県 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%AE%AE%E5%B4%8E%E7%9C%8C/</link>
+    <description>Recent content in 宮崎県 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AE%AE%E5%B4%8E%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【宮崎県】志布志湾大黒イルカランド（天然釣堀）｜観光＋釣り体験・買取制注意・イルカショーと海釣りの複合施設</title>
+      <link>http://localhost:1313/posts/kyusyu/sibusiiruka-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:52:07 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/sibusiiruka-kyusyu/</guid>
+      <description>宮崎県串間市「志布志湾大黒イルカランド（天然釣堀）」はイルカショー＋海釣り体験の複合観光施設。入園料1,500円＋釣り料700円で開始、釣った魚は全て買取制（マダイ・シマアジ100g/300-400円）。リリース禁止のため戦略的釣りが必要。クロダイ・アジ・ヒラメなど多彩な魚種。営業時間10:00-17:00、家族観光に最適。宮崎市内から1時間30分、日南海岸観光との組み合わせおすすめ。</description>
+    </item>
+  </channel>
 </rss>

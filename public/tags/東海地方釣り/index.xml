@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>東海地方釣り - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/</link>
-        <description>東海地方釣り - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 16 Sep 2025 23:44:33 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/" rel="self" type="application/rss+xml" /><item>
-    <title>三重県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-    <link>https://example.org/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</link>
-    <pubDate>Tue, 16 Sep 2025 23:44:33 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</guid>
-    <description><![CDATA[三重県は全国最多クラスの19施設を誇る海上釣り堀の聖地。85％の施設で下処理サービスを提供し、料金は1匹200円～600円と良心的。錦フィッシングパークのヒラメ専門処理や、はさま浦釣り堀センターの民宿宿泊客無料サービスなど特色豊か。伊勢神宮や志摩スペイン村との観光連携も魅力で、初心者でも安心して新鮮な釣果を持ち帰れる。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>東海地方釣り on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in 東海地方釣り on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>三重県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</link>
+      <pubDate>Tue, 16 Sep 2025 23:44:33 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</guid>
+      <description>三重県は全国最多クラスの19施設を誇る海上釣り堀の聖地。85％の施設で下処理サービスを提供し、料金は1匹200円～600円と良心的。錦フィッシングパークのヒラメ専門処理や、はさま浦釣り堀センターの民宿宿泊客無料サービスなど特色豊か。伊勢神宮や志摩スペイン村との観光連携も魅力で、初心者でも安心して新鮮な釣果を持ち帰れる。</description>
+    </item>
+  </channel>
 </rss>

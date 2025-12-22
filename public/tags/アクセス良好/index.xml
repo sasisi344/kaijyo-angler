@@ -1,47 +1,48 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>アクセス良好 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E8%89%AF%E5%A5%BD/</link>
-        <description>アクセス良好 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 11:20:57 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E8%89%AF%E5%A5%BD/" rel="self" type="application/rss+xml" /><item>
-    <title>【大阪府】海釣ぽーと田尻｜橋下で雨よけ完備・1日4回放流・高級魚釣り放題ガイド</title>
-    <link>https://example.org/posts/kansai/porttajiri-oosaka/</link>
-    <pubDate>Sun, 20 Jul 2025 11:20:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/porttajiri-oosaka/</guid>
-    <description><![CDATA[大阪府田尻町の海釣ぽーと田尻は橋下で雨よけ完備の海上釣堀施設。1日4回放流で15種類の高級魚が釣り放題。関空から10分、大人11,000円から利用可能。冷凍エサ持ち込み自由でコスパ良好。天候に左右されない快適な釣り体験。]]></description>
-</item>
-<item>
-    <title>【大阪府】大阪海上釣り堀サザン｜関空近く・ナイター営業・高級魚釣り放題ガイド</title>
-    <link>https://example.org/posts/kansai/kaijyo-sazan/</link>
-    <pubDate>Sun, 20 Jul 2025 11:17:31 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/kaijyo-sazan/</guid>
-    <description><![CDATA[大阪府泉南市の大阪海上釣り堀サザンは関空から15分の好立地で14種類の高級魚が釣り放題。男性12,100円、女性7,700円で利用可能。夏期ナイター営業あり。ライフジャケット着用で安全、貸切プランも充実した本格海上釣堀施設。]]></description>
-</item>
-<item>
-    <title>【和歌山県】釣堀紀州｜アクセス良好・ボウズ保証付き完全ガイド</title>
-    <link>https://example.org/posts/kansai/turibori-kisyu/</link>
-    <pubDate>Sun, 20 Jul 2025 10:58:25 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/turibori-kisyu/</guid>
-    <description><![CDATA[釣堀紀州は和歌山県有田郡にある海上釣り堀で、大阪市内から1時間30分の好アクセス。ボウズ保証（マダイ2匹）付きで初心者も安心。マダイ・ブリ・カンパチなど高級魚が狙え、手ぶらOKの貸竿セット3,200円も充実。男性13,750円、女性10,450円の釣り放題で、リピーター向けポイント制度あり。]]></description>
-</item>
-<item>
-    <title>【宮城県】仙台港中央公園・海の広場｜無料で楽しめる海釣りスポット・アクセス良好・初心者向け情報</title>
-    <link>https://example.org/posts/tohoku/sendai-cenpark/</link>
-    <pubDate>Wed, 16 Jul 2025 10:20:03 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/tohoku/sendai-cenpark/</guid>
-    <description><![CDATA[完全無料で利用できる公共公園で、通年営業している点が強み。ただし釣り道具は全て持参する必要があり、初心者よりは経験者向けです。市街地からアクセスが良く、本格的な海釣りが体験できます。]]></description>
-</item>
-<item>
-    <title>【神奈川県】みうら海王｜本格海上釣り堀・大物狙い完全ガイド</title>
-    <link>https://example.org/posts/kanto/miura-kanagawa/</link>
-    <pubDate>Mon, 14 Jul 2025 04:34:12 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kanto/miura-kanagawa/</guid>
-    <description><![CDATA[神奈川県三浦市のみうら海王は関東屈指の本格海上釣り堀。マダイ・ブリ・ヒラマサ・カンパチなど大物狙いで1日3回放流システム。完全予約制で男性16,500円、京急三崎口からアクセス良好。渡船で海上生簀へ、確実な釣果と本格的な大物釣り体験を提供。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アクセス良好 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E8%89%AF%E5%A5%BD/</link>
+    <description>Recent content in アクセス良好 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E8%89%AF%E5%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【大阪府】海釣ぽーと田尻｜橋下で雨よけ完備・1日4回放流・高級魚釣り放題ガイド</title>
+      <link>http://localhost:1313/posts/kansai/porttajiri-oosaka/</link>
+      <pubDate>Sun, 20 Jul 2025 11:20:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/porttajiri-oosaka/</guid>
+      <description>大阪府田尻町の海釣ぽーと田尻は橋下で雨よけ完備の海上釣堀施設。1日4回放流で15種類の高級魚が釣り放題。関空から10分、大人11,000円から利用可能。冷凍エサ持ち込み自由でコスパ良好。天候に左右されない快適な釣り体験。</description>
+    </item>
+    <item>
+      <title>【大阪府】大阪海上釣り堀サザン｜関空近く・ナイター営業・高級魚釣り放題ガイド</title>
+      <link>http://localhost:1313/posts/kansai/kaijyo-sazan/</link>
+      <pubDate>Sun, 20 Jul 2025 11:17:31 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/kaijyo-sazan/</guid>
+      <description>大阪府泉南市の大阪海上釣り堀サザンは関空から15分の好立地で14種類の高級魚が釣り放題。男性12,100円、女性7,700円で利用可能。夏期ナイター営業あり。ライフジャケット着用で安全、貸切プランも充実した本格海上釣堀施設。</description>
+    </item>
+    <item>
+      <title>【和歌山県】釣堀紀州｜アクセス良好・ボウズ保証付き完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/turibori-kisyu/</link>
+      <pubDate>Sun, 20 Jul 2025 10:58:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/turibori-kisyu/</guid>
+      <description>釣堀紀州は和歌山県有田郡にある海上釣り堀で、大阪市内から1時間30分の好アクセス。ボウズ保証（マダイ2匹）付きで初心者も安心。マダイ・ブリ・カンパチなど高級魚が狙え、手ぶらOKの貸竿セット3,200円も充実。男性13,750円、女性10,450円の釣り放題で、リピーター向けポイント制度あり。</description>
+    </item>
+    <item>
+      <title>【宮城県】仙台港中央公園・海の広場｜無料で楽しめる海釣りスポット・アクセス良好・初心者向け情報</title>
+      <link>http://localhost:1313/posts/tohoku/sendai-cenpark/</link>
+      <pubDate>Wed, 16 Jul 2025 10:20:03 +0900</pubDate>
+      <guid>http://localhost:1313/posts/tohoku/sendai-cenpark/</guid>
+      <description>完全無料で利用できる公共公園で、通年営業している点が強み。ただし釣り道具は全て持参する必要があり、初心者よりは経験者向けです。市街地からアクセスが良く、本格的な海釣りが体験できます。</description>
+    </item>
+    <item>
+      <title>【神奈川県】みうら海王｜本格海上釣り堀・大物狙い完全ガイド</title>
+      <link>http://localhost:1313/posts/kanto/miura-kanagawa/</link>
+      <pubDate>Mon, 14 Jul 2025 04:34:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kanto/miura-kanagawa/</guid>
+      <description>神奈川県三浦市のみうら海王は関東屈指の本格海上釣り堀。マダイ・ブリ・ヒラマサ・カンパチなど大物狙いで1日3回放流システム。完全予約制で男性16,500円、京急三崎口からアクセス良好。渡船で海上生簀へ、確実な釣果と本格的な大物釣り体験を提供。</description>
+    </item>
+  </channel>
 </rss>

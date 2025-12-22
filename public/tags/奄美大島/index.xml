@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>奄美大島 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6/</link>
-        <description>奄美大島 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:43:56 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6/" rel="self" type="application/rss+xml" /><item>
-    <title>【鹿児島県】奄美シーランド｜奄美大島の絶景船釣り体験・完全手ぶらOK・料金・予約完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/amamisealand-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:43:56 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/amamisealand-kyusyu/</guid>
-    <description><![CDATA[奄美シーランドは世界自然遺産・奄美大島で楽しめる完全手ぶらの船釣り体験施設。90分12,000円で竿・道具・指導込み。タイやカンパチなど南国の魚種が狙える。マリンアクティビティやドローン撮影も充実。奄美観光の特別体験として最適な唯一無二のマリンレジャー。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>奄美大島 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6/</link>
+    <description>Recent content in 奄美大島 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【鹿児島県】奄美シーランド｜奄美大島の絶景船釣り体験・完全手ぶらOK・料金・予約完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/amamisealand-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:43:56 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/amamisealand-kyusyu/</guid>
+      <description>奄美シーランドは世界自然遺産・奄美大島で楽しめる完全手ぶらの船釣り体験施設。90分12,000円で竿・道具・指導込み。タイやカンパチなど南国の魚種が狙える。マリンアクティビティやドローン撮影も充実。奄美観光の特別体験として最適な唯一無二のマリンレジャー。</description>
+    </item>
+  </channel>
 </rss>

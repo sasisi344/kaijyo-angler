@@ -1,0 +1,9 @@
+comment: >-
+  Displays a group of buttons. Add inner <button> elements for each button.
+arguments:
+  label:
+  aria-label:
+body:
+  type: string
+  optional: false
+  comment: Inner <button> elements for each button.

@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>キープシステム - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%82%AD%E3%83%BC%E3%83%97%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</link>
-        <description>キープシステム - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:28:36 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%82%AD%E3%83%BC%E3%83%97%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/" rel="self" type="application/rss+xml" /><item>
-    <title>【熊本県】天草釣堀レジャーランド｜時間制料金・キープシステム・予約不要で気軽に海上釣堀体験</title>
-    <link>https://example.org/posts/kyusyu/amakusarejya-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:28:36 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/amakusarejya-kyusyu/</guid>
-    <description><![CDATA[熊本県上天草市「天草釣堀レジャーランド」は予約不要で気軽に楽しめる海上釣り堀。1時間2,000円からの時間制料金で短時間利用も可能。全国珍しいキープシステム導入で釣りすぎても安心。マダイ・ブリ・カンパチ・ヒラメなど豊富な魚種が釣れる。レンタル竿500円（棚調整済み）で手ぶらOK。営業時間8:00-16:00、入場料大人500円。天草観光と組み合わせ最適、熊本市内から1時間20分の好アクセス。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>キープシステム on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%82%AD%E3%83%BC%E3%83%97%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</link>
+    <description>Recent content in キープシステム on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%AD%E3%83%BC%E3%83%97%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【熊本県】天草釣堀レジャーランド｜時間制料金・キープシステム・予約不要で気軽に海上釣堀体験</title>
+      <link>http://localhost:1313/posts/kyusyu/amakusarejya-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:28:36 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/amakusarejya-kyusyu/</guid>
+      <description>熊本県上天草市「天草釣堀レジャーランド」は予約不要で気軽に楽しめる海上釣り堀。1時間2,000円からの時間制料金で短時間利用も可能。全国珍しいキープシステム導入で釣りすぎても安心。マダイ・ブリ・カンパチ・ヒラメなど豊富な魚種が釣れる。レンタル竿500円（棚調整済み）で手ぶらOK。営業時間8:00-16:00、入場料大人500円。天草観光と組み合わせ最適、熊本市内から1時間20分の好アクセス。</description>
+    </item>
+  </channel>
 </rss>

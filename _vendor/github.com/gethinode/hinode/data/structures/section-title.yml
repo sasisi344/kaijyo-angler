@@ -1,0 +1,15 @@
+comment: Renders the header of a page section.
+arguments:
+  heading:
+  links:
+  color:
+    default: body
+  class:
+  size: 
+  use-title:
+  justify:
+  link-type:
+  use-section: 
+  arrangement:
+  heading-style:
+  content-style:

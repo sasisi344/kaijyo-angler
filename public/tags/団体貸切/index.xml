@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>団体貸切 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%9B%A3%E4%BD%93%E8%B2%B8%E5%88%87/</link>
-        <description>団体貸切 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 10:54:39 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%9B%A3%E4%BD%93%E8%B2%B8%E5%88%87/" rel="self" type="application/rss+xml" /><item>
-    <title>【兵庫県】海の釣り堀 海恵（かいえい）|渡船4港対応・マグロ挑戦権付き団体貸切が人気の海上釣り堀完全ガイド</title>
-    <link>https://example.org/posts/kansai/turibori-kaiei/</link>
-    <pubDate>Sun, 20 Jul 2025 10:54:39 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/turibori-kaiei/</guid>
-    <description><![CDATA[兵庫県姫路市の海の釣り堀 海恵は、網干港・姫路港・赤穂港・日生港の4港から出船可能な利便性抜群の海上釣り堀です。男性14,000円の釣り放題でマダイ・ブリ・クエなど13魚種が狙える。団体貸切では「マグロ挑戦権」付与の特別サービスあり。ハリス4本付き貸竿で効率釣り、見学者料金で家族全員参加可能。関西圏から中国地方まで幅広いアクセス対応で赤穂温泉・姫路城観光との組み合わせも最適。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>団体貸切 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%9B%A3%E4%BD%93%E8%B2%B8%E5%88%87/</link>
+    <description>Recent content in 団体貸切 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%9B%A3%E4%BD%93%E8%B2%B8%E5%88%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【兵庫県】海の釣り堀 海恵（かいえい）|渡船4港対応・マグロ挑戦権付き団体貸切が人気の海上釣り堀完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/turibori-kaiei/</link>
+      <pubDate>Sun, 20 Jul 2025 10:54:39 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/turibori-kaiei/</guid>
+      <description>兵庫県姫路市の海の釣り堀 海恵は、網干港・姫路港・赤穂港・日生港の4港から出船可能な利便性抜群の海上釣り堀です。男性14,000円の釣り放題でマダイ・ブリ・クエなど13魚種が狙える。団体貸切では「マグロ挑戦権」付与の特別サービスあり。ハリス4本付き貸竿で効率釣り、見学者料金で家族全員参加可能。関西圏から中国地方まで幅広いアクセス対応で赤穂温泉・姫路城観光との組み合わせも最適。</description>
+    </item>
+  </channel>
 </rss>

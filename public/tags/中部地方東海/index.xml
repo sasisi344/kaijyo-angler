@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>中部地方（東海） - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9%E6%9D%B1%E6%B5%B7/</link>
-        <description>中部地方（東海） - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 15:33:11 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9%E6%9D%B1%E6%B5%B7/" rel="self" type="application/rss+xml" /><item>
-    <title>中部地方（太平洋側）海上釣り堀・海釣り施設完全ガイド｜全10施設の料金・釣果・アクセス徹底比較</title>
-    <link>https://example.org/posts/chubu-taiheiyou/chubutokai-matome/</link>
-    <pubDate>Sun, 20 Jul 2025 15:33:11 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/chubutokai-matome/</guid>
-    <description><![CDATA[中部地方（太平洋側）は静岡・愛知・三重県に29の海上釣り堀・海釣り施設を擁する日本屈指の釣りエリア。海上釣り堀の平均料金は12,400円で、マダイ・ブリ・ヒラメなど大型魚が狙える。東京・名古屋・大阪から1.5～4時間でアクセス可能。特に熱海港海釣り施設は新幹線利用で便利、錦フィッシングパークはヒラメ特化で人気。温泉観光と組み合わせた釣り旅行に最適な地域です。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中部地方（東海） on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9%E6%9D%B1%E6%B5%B7/</link>
+    <description>Recent content in 中部地方（東海） on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B8%AD%E9%83%A8%E5%9C%B0%E6%96%B9%E6%9D%B1%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中部地方（太平洋側）海上釣り堀・海釣り施設完全ガイド｜全10施設の料金・釣果・アクセス徹底比較</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/chubutokai-matome/</link>
+      <pubDate>Sun, 20 Jul 2025 15:33:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/chubutokai-matome/</guid>
+      <description>中部地方（太平洋側）は静岡・愛知・三重県に29の海上釣り堀・海釣り施設を擁する日本屈指の釣りエリア。海上釣り堀の平均料金は12,400円で、マダイ・ブリ・ヒラメなど大型魚が狙える。東京・名古屋・大阪から1.5～4時間でアクセス可能。特に熱海港海釣り施設は新幹線利用で便利、錦フィッシングパークはヒラメ特化で人気。温泉観光と組み合わせた釣り旅行に最適な地域です。</description>
+    </item>
+  </channel>
 </rss>

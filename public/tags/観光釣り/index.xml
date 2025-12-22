@@ -1,31 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>観光釣り - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E8%A6%B3%E5%85%89%E9%87%A3%E3%82%8A/</link>
-        <description>観光釣り - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 02:21:35 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E8%A6%B3%E5%85%89%E9%87%A3%E3%82%8A/" rel="self" type="application/rss+xml" /><item>
-    <title>九州地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
-    <link>https://example.org/posts/kyusyu/kyusyu-matome/</link>
-    <pubDate>Mon, 21 Jul 2025 02:21:35 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/kyusyu-matome/</guid>
-    <description><![CDATA[九州地方は全国トップクラスの海上釣り堀・海釣り施設が21件あり、温暖な気候で年間を通して釣りを楽しめます。料金は500円～15,000円と幅広く、ほぼ全施設で釣具レンタル可能なため手ぶら参加OK。マダイ、ブリ、カンパチなど豊富な魚種が狙え、温泉地や観光地との組み合わせも魅力。特に天草釣堀レジャーランドは時間制料金とキープシステムで初心者からベテランまで満足できます。首都圏からも航空機で2-3時間と]]></description>
-</item>
-<item>
-    <title>中部地方（日本海側）海上釣り堀・海釣り施設完全ガイド｜全13施設の料金・釣果・アクセス徹底比較</title>
-    <link>https://example.org/posts/chubu-taiheiyou/chubu-hoku-matome/</link>
-    <pubDate>Thu, 17 Jul 2025 09:18:21 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/chubu-hoku-matome/</guid>
-    <description><![CDATA[中部地方（日本海側）は新潟・富山・石川・福井県の13施設からなる海上釣り堀エリア。福井県が8施設で最多、海上釣り堀の平均料金は9,250円。冬季休業が多く営業は3-10月が基本。フィッシングレインボー（福井）が最高評価で、のとじま臨海公園（石川）は水族館併設で家族向け。北陸新幹線開通で首都圏アクセス改善。温泉・グルメと組み合わせた釣り旅行に最適です。]]></description>
-</item>
-<item>
-    <title>四国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
-    <link>https://example.org/posts/shikoku/shikoku-matome/</link>
-    <pubDate>Mon, 14 Jul 2025 05:42:54 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/shikoku-matome/</guid>
-    <description><![CDATA[四国地方の海上釣り堀・海釣り施設11箇所を徹底比較。高知県の太平洋型では本格的な高級魚釣りが13,000円から、香川県の瀬戸内海型では観光と組み合わせた手軽な釣りが500円から楽しめます。ソルトレイクひけた安戸池の珍しいルアーコーナーや小豆島の破格500円施設など、特色ある釣りスポットが満載。初心者から上級者まで、予算に応じて選べる幅広い選択肢を詳しく解説した完全ガイドです。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>観光釣り on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E8%A6%B3%E5%85%89%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in 観光釣り on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%A6%B3%E5%85%89%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>九州地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/kyusyu/kyusyu-matome/</link>
+      <pubDate>Mon, 21 Jul 2025 02:21:35 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/kyusyu-matome/</guid>
+      <description>九州地方は全国トップクラスの海上釣り堀・海釣り施設が21件あり、温暖な気候で年間を通して釣りを楽しめます。料金は500円～15,000円と幅広く、ほぼ全施設で釣具レンタル可能なため手ぶら参加OK。マダイ、ブリ、カンパチなど豊富な魚種が狙え、温泉地や観光地との組み合わせも魅力。特に天草釣堀レジャーランドは時間制料金とキープシステムで初心者からベテランまで満足できます。首都圏からも航空機で2-3時間と</description>
+    </item>
+    <item>
+      <title>中部地方（日本海側）海上釣り堀・海釣り施設完全ガイド｜全13施設の料金・釣果・アクセス徹底比較</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/chubu-hoku-matome/</link>
+      <pubDate>Thu, 17 Jul 2025 09:18:21 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/chubu-hoku-matome/</guid>
+      <description>中部地方（日本海側）は新潟・富山・石川・福井県の13施設からなる海上釣り堀エリア。福井県が8施設で最多、海上釣り堀の平均料金は9,250円。冬季休業が多く営業は3-10月が基本。フィッシングレインボー（福井）が最高評価で、のとじま臨海公園（石川）は水族館併設で家族向け。北陸新幹線開通で首都圏アクセス改善。温泉・グルメと組み合わせた釣り旅行に最適です。</description>
+    </item>
+    <item>
+      <title>四国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/shikoku/shikoku-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:42:54 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/shikoku-matome/</guid>
+      <description>四国地方の海上釣り堀・海釣り施設11箇所を徹底比較。高知県の太平洋型では本格的な高級魚釣りが13,000円から、香川県の瀬戸内海型では観光と組み合わせた手軽な釣りが500円から楽しめます。ソルトレイクひけた安戸池の珍しいルアーコーナーや小豆島の破格500円施設など、特色ある釣りスポットが満載。初心者から上級者まで、予算に応じて選べる幅広い選択肢を詳しく解説した完全ガイドです。</description>
+    </item>
+  </channel>
 </rss>

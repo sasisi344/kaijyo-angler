@@ -1,23 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>九州地方釣り - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/</link>
-        <description>九州地方釣り - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 16 Sep 2025 23:45:51 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/" rel="self" type="application/rss+xml" /><item>
-    <title>大分県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-    <link>https://example.org/posts/kyusyu/ooita-kaijyo-matome-sitasyori/</link>
-    <pubDate>Tue, 16 Sep 2025 23:45:51 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/ooita-kaijyo-matome-sitasyori/</guid>
-    <description><![CDATA[大分県佐伯市の「かまえ海上釣り堀 釣っちゃ王」は九州最高級クラスの海上釣り堀。料金は男性12,500円+渡船料500円で、カンパチ・ブリ・ヒラマサなど青物7種類が狙える。マダイ2匹保証付きで全国の愛好者が集まる聖地的存在。下処理サービス詳細は要事前確認。大型魚対応の準備と十分な保冷対策が必要。]]></description>
-</item>
-<item>
-    <title>熊本県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-    <link>https://example.org/posts/kyusyu/kumamoto-kaijyo-matome-sitasyori/</link>
-    <pubDate>Mon, 15 Sep 2025 16:50:44 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/kumamoto-kaijyo-matome-sitasyori/</guid>
-    <description><![CDATA[熊本県の海上釣り堀3施設（天草釣堀レジャーランド、釣り一、楽つり）の魚下処理サービスを比較。天草エリア中心で観光連携が魅力。料金は3,000円～11,000円と幅広く、時間制システムやドルフィンクルーズとのセットプランが特徴。下処理サービス詳細は施設により異なるため事前確認必須。クーラーボックスや氷の準備も重要。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>九州地方釣り on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in 九州地方釣り on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B9%9D%E5%B7%9E%E5%9C%B0%E6%96%B9%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大分県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
+      <link>http://localhost:1313/posts/kyusyu/ooita-kaijyo-matome-sitasyori/</link>
+      <pubDate>Tue, 16 Sep 2025 23:45:51 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/ooita-kaijyo-matome-sitasyori/</guid>
+      <description>大分県佐伯市の「かまえ海上釣り堀 釣っちゃ王」は九州最高級クラスの海上釣り堀。料金は男性12,500円+渡船料500円で、カンパチ・ブリ・ヒラマサなど青物7種類が狙える。マダイ2匹保証付きで全国の愛好者が集まる聖地的存在。下処理サービス詳細は要事前確認。大型魚対応の準備と十分な保冷対策が必要。</description>
+    </item>
+    <item>
+      <title>熊本県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
+      <link>http://localhost:1313/posts/kyusyu/kumamoto-kaijyo-matome-sitasyori/</link>
+      <pubDate>Mon, 15 Sep 2025 16:50:44 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/kumamoto-kaijyo-matome-sitasyori/</guid>
+      <description>熊本県の海上釣り堀3施設（天草釣堀レジャーランド、釣り一、楽つり）の魚下処理サービスを比較。天草エリア中心で観光連携が魅力。料金は3,000円～11,000円と幅広く、時間制システムやドルフィンクルーズとのセットプランが特徴。下処理サービス詳細は施設により異なるため事前確認必須。クーラーボックスや氷の準備も重要。</description>
+    </item>
+  </channel>
 </rss>

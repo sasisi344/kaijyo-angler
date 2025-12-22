@@ -1,16 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>シマアジ - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8/</link>
-        <description>シマアジ - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 07 Sep 2025 03:19:33 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8/" rel="self" type="application/rss+xml" /><item>
-    <title>シマアジ釣りで差がつく！海上釣り堀プロが教える確実に釣る5つの裏技</title>
-    <link>https://example.org/posts/simaaji-turidesawotuke/</link>
-    <pubDate>Sun, 07 Sep 2025 03:19:33 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/simaaji-turidesawotuke/</guid>
-    <description><![CDATA[<p>一般的なシマアジ釣りをマスターした方へ。今度は周りの釣り人と圧倒的な差をつける時です。</p>
-<p>プロが実際に使っている5つの裏技を特別に公開します。これらの技術を身につければ、あなたの釣果は格段にアップするでしょう。</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>シマアジ on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8/</link>
+    <description>Recent content in シマアジ on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>シマアジ釣りで差がつく！海上釣り堀プロが教える確実に釣る5つの裏技</title>
+      <link>http://localhost:1313/posts/simaaji-turidesawotuke/</link>
+      <pubDate>Sun, 07 Sep 2025 03:19:33 +0900</pubDate>
+      <guid>http://localhost:1313/posts/simaaji-turidesawotuke/</guid>
+      <description>&lt;p&gt;一般的なシマアジ釣りをマスターした方へ。今度は周りの釣り人と圧倒的な差をつける時です。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

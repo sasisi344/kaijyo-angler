@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>食事処併設 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E9%A3%9F%E4%BA%8B%E5%87%A6%E4%BD%B5%E8%A8%AD/</link>
-        <description>食事処併設 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 14:48:57 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%A3%9F%E4%BA%8B%E5%87%A6%E4%BD%B5%E8%A8%AD/" rel="self" type="application/rss+xml" /><item>
-    <title>【静岡県】海上釣り堀 太公望 | 網代港の釣り体験と食事が楽しめる人気スポット</title>
-    <link>https://example.org/posts/chubu-taiheiyou/turiboritaikoubou-shizuoka/</link>
-    <pubDate>Sun, 20 Jul 2025 14:48:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/turiboritaikoubou-shizuoka/</guid>
-    <description><![CDATA[静岡県熱海市の網代港内にある「海上釣り堀 太公望」は、ファミリーコース（1竿4,500円＋渡船500円）とマニアコース（5,000円＋渡船500円）の2種類から選べる海上釣り堀。ファミリーコースは竿1本につきタイ2匹・アジ5匹まで持ち帰り可能で、それ以上は追加料金（タイ1匹1,650円、アジ1匹550円）。マニアコースではカンパチやスズキなどの高級魚も狙えます。特筆すべきは併設の市場食堂で釣った魚]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>食事処併設 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E9%A3%9F%E4%BA%8B%E5%87%A6%E4%BD%B5%E8%A8%AD/</link>
+    <description>Recent content in 食事処併設 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%A3%9F%E4%BA%8B%E5%87%A6%E4%BD%B5%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【静岡県】海上釣り堀 太公望 | 網代港の釣り体験と食事が楽しめる人気スポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/turiboritaikoubou-shizuoka/</link>
+      <pubDate>Sun, 20 Jul 2025 14:48:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/turiboritaikoubou-shizuoka/</guid>
+      <description>静岡県熱海市の網代港内にある「海上釣り堀 太公望」は、ファミリーコース（1竿4,500円＋渡船500円）とマニアコース（5,000円＋渡船500円）の2種類から選べる海上釣り堀。ファミリーコースは竿1本につきタイ2匹・アジ5匹まで持ち帰り可能で、それ以上は追加料金（タイ1匹1,650円、アジ1匹550円）。マニアコースではカンパチやスズキなどの高級魚も狙えます。特筆すべきは併設の市場食堂で釣った魚</description>
+    </item>
+  </channel>
 </rss>

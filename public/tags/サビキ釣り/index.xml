@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>サビキ釣り - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/</link>
-        <description>サビキ釣り - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 02:01:26 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/" rel="self" type="application/rss+xml" /><item>
-    <title>【熊本県】湯の児フィッシングパーク｜格安料金600円・レンタル充実・家族連れに優しい海釣り施設</title>
-    <link>https://example.org/posts/kyusyu/yunojifispark-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 02:01:26 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/yunojifispark-kyusyu/</guid>
-    <description><![CDATA[熊本県水俣市「湯の児フィッシングパーク」は大人600円の格安海釣り施設。海上桟橋から多彩な釣法でクロダイ・アジ・シーバス・タチウオなど狙える。レンタル釣具1,500円で手ぶらOK、1人2本まで竿使用可。営業時間は季節変動制、月曜定休。サビキ・フカセ・投げ釣り・ルアー対応。湯の児温泉と組み合わせ最適、熊本市内から1時間30分。家族連れ・初心者に優しい全国最安クラスの海釣り体験。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サビキ釣り on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in サビキ釣り on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【熊本県】湯の児フィッシングパーク｜格安料金600円・レンタル充実・家族連れに優しい海釣り施設</title>
+      <link>http://localhost:1313/posts/kyusyu/yunojifispark-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 02:01:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/yunojifispark-kyusyu/</guid>
+      <description>熊本県水俣市「湯の児フィッシングパーク」は大人600円の格安海釣り施設。海上桟橋から多彩な釣法でクロダイ・アジ・シーバス・タチウオなど狙える。レンタル釣具1,500円で手ぶらOK、1人2本まで竿使用可。営業時間は季節変動制、月曜定休。サビキ・フカセ・投げ釣り・ルアー対応。湯の児温泉と組み合わせ最適、熊本市内から1時間30分。家族連れ・初心者に優しい全国最安クラスの海釣り体験。</description>
+    </item>
+  </channel>
 </rss>

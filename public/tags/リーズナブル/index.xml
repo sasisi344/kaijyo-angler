@@ -1,63 +1,62 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>リーズナブル - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%8A%E3%83%96%E3%83%AB/</link>
-        <description>リーズナブル - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 14:51:17 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%8A%E3%83%96%E3%83%AB/" rel="self" type="application/rss+xml" /><item>
-    <title>【静岡県】フィッシングパーク土肥 | リーズナブルな価格で初心者も楽しめる釣り場・アクセス情報</title>
-    <link>https://example.org/posts/chubu-taiheiyou/parktoi-shizuoka/</link>
-    <pubDate>Sun, 20 Jul 2025 14:51:17 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/parktoi-shizuoka/</guid>
-    <description><![CDATA[静岡県伊豆市土肥にある「フィッシングパーク土肥」は、入場料1,500円で竿とエサが含まれる手軽な海釣り施設です。イケス内で釣れた魚は1匹250円の追加料金が必要ですが、イケス外で釣れた魚は無料で持ち帰れるというユニークなシステムを採用。マダイやアジが主な釣果で、初心者から経験者まで楽しめます。駿河湾フェリーを利用すれば清水港から海上アクセスも可能で、土肥温泉や観光スポットと組み合わせやすいのも魅力]]></description>
-</item>
-<item>
-    <title>【福井県】若狭高浜海釣り公園|絶景の中で楽しめるリーズナブルな橋上釣り場</title>
-    <link>https://example.org/posts/chubu-taiheiyou/wakasa-takahama/</link>
-    <pubDate>Thu, 17 Jul 2025 09:16:19 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/wakasa-takahama/</guid>
-    <description><![CDATA[【福井県高浜町】若狭高浜海釣り公園は本土と稲根島を結ぶ橋上で釣りができる施設。入場料は1人わずか200円と格安で、清掃協力金として車1台1,000円が必要。クロダイやメバル、アジなど季節によって様々な魚種が狙える。ライフジャケット着用は必須だがレンタルなし。貸し竿(1,000円)は約10本と限りがあるため、釣具の持参がおすすめ。水曜定休。]]></description>
-</item>
-<item>
-    <title>【青森県】浅虫海釣り公園｜手軽な料金・四季の魚種・初心者も安心の海釣り体験</title>
-    <link>https://example.org/posts/tohoku/asamushi-tsuri/</link>
-    <pubDate>Wed, 16 Jul 2025 10:18:27 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/tohoku/asamushi-tsuri/</guid>
-    <description><![CDATA[青森県青森市の浅虫温泉地区に位置する海釣り施設です。陸奥湾に面した釣りスポットで、サビキ釣りでアジやイワシが狙えるほか、季節によってはヒラメやソイなども釣れます。温泉地に近接しており、釣りと入浴を組み合わせた観光も可能。手軽な釣り体験を提供する施設で、初心者から家族連れまで幅広い層に人気があります。トイレや休憩所も完備されており、アクセスも便利です。再試行Claudeは間違えることがあります。回答]]></description>
-</item>
-<item>
-    <title>【愛媛県】おさかな牧場「シーロード八幡浜」| 週末営業！600円で楽しめるバリアフリー対応の本格海釣りスポット</title>
-    <link>https://example.org/posts/shikoku/searoad-yawatahama/</link>
-    <pubDate>Mon, 14 Jul 2025 05:34:18 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/searoad-yawatahama/</guid>
-    <description><![CDATA[愛媛県八幡浜市にある「おさかな牧場 シーロード八幡浜」は、美しい瀬戸内海に張り出した桟橋で本格的な海釣りが楽しめる施設です。入場料はわずか大人600円、子供300円という手頃な価格設定ながら、クロダイやシーバス、アジなど多彩な魚種を狙うことができます。バリアフリー対応の施設で、土日祝日のみの営業という特徴があります。釣具やエサの販売はないため事前準備が必要です。]]></description>
-</item>
-<item>
-    <title>【香川県】直島つり公園 | 入園料わずか100円！アート島で味わう本格海釣り体験</title>
-    <link>https://example.org/posts/shikoku/naoshima-turikouen/</link>
-    <pubDate>Mon, 14 Jul 2025 05:31:12 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/naoshima-turikouen/</guid>
-    <description><![CDATA[アートの島として世界的に有名な香川県の直島にある「直島つり公園」は、入園料わずか100円という驚きの手軽さで本格的な海釣りが楽しめる施設です。かつては生簀を使った釣り堀でしたが、現在は自然の海を舞台にした海釣り施設として生まれ変わりました。竿のレンタルやエサの販売もあるので手ぶらでも大丈夫。シーバスやアオリイカなど様々な魚種が狙え、釣りのスキルに関わらず誰でも楽しめます。]]></description>
-</item>
-<item>
-    <title>【高知県】筏釣り 高橋渡船 | 4,000円で一日楽しめる！屋根付き筏もある本格海釣りスポット</title>
-    <link>https://example.org/posts/shikoku/ikada-takahashitosen/</link>
-    <pubDate>Mon, 14 Jul 2025 05:29:10 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/ikada-takahashitosen/</guid>
-    <description><![CDATA[高知県須崎市の浦ノ内湾に位置する「筏釣り 高橋渡船」は、1日4,000円という手頃な料金で本格的な筏釣りが楽しめる施設です。海上に浮かぶ筏（いかだ）から、クロダイ、マダイ、キス、アオリイカなど様々な魚種を狙うことができます。特筆すべきは屋根付きの筏があり、真夏の強い日差しも気にせず釣りに集中できる点。また水上バーベキューも可能で、釣りと食事を一度に楽しめるユニークなレジャースポットです。]]></description>
-</item>
-<item>
-    <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
-    <link>https://example.org/posts/shikoku/turiikada-fukaura/</link>
-    <pubDate>Mon, 14 Jul 2025 05:26:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/turiikada-fukaura/</guid>
-    <description><![CDATA[高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>リーズナブル on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%8A%E3%83%96%E3%83%AB/</link>
+    <description>Recent content in リーズナブル on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%8A%E3%83%96%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【静岡県】フィッシングパーク土肥 | リーズナブルな価格で初心者も楽しめる釣り場・アクセス情報</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/parktoi-shizuoka/</link>
+      <pubDate>Sun, 20 Jul 2025 14:51:17 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/parktoi-shizuoka/</guid>
+      <description>静岡県伊豆市土肥にある「フィッシングパーク土肥」は、入場料1,500円で竿とエサが含まれる手軽な海釣り施設です。イケス内で釣れた魚は1匹250円の追加料金が必要ですが、イケス外で釣れた魚は無料で持ち帰れるというユニークなシステムを採用。マダイやアジが主な釣果で、初心者から経験者まで楽しめます。駿河湾フェリーを利用すれば清水港から海上アクセスも可能で、土肥温泉や観光スポットと組み合わせやすいのも魅力</description>
+    </item>
+    <item>
+      <title>【福井県】若狭高浜海釣り公園|絶景の中で楽しめるリーズナブルな橋上釣り場</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/wakasa-takahama/</link>
+      <pubDate>Thu, 17 Jul 2025 09:16:19 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/wakasa-takahama/</guid>
+      <description>【福井県高浜町】若狭高浜海釣り公園は本土と稲根島を結ぶ橋上で釣りができる施設。入場料は1人わずか200円と格安で、清掃協力金として車1台1,000円が必要。クロダイやメバル、アジなど季節によって様々な魚種が狙える。ライフジャケット着用は必須だがレンタルなし。貸し竿(1,000円)は約10本と限りがあるため、釣具の持参がおすすめ。水曜定休。</description>
+    </item>
+    <item>
+      <title>【青森県】浅虫海釣り公園｜手軽な料金・四季の魚種・初心者も安心の海釣り体験</title>
+      <link>http://localhost:1313/posts/tohoku/asamushi-tsuri/</link>
+      <pubDate>Wed, 16 Jul 2025 10:18:27 +0900</pubDate>
+      <guid>http://localhost:1313/posts/tohoku/asamushi-tsuri/</guid>
+      <description>青森県青森市の浅虫温泉地区に位置する海釣り施設です。陸奥湾に面した釣りスポットで、サビキ釣りでアジやイワシが狙えるほか、季節によってはヒラメやソイなども釣れます。温泉地に近接しており、釣りと入浴を組み合わせた観光も可能。手軽な釣り体験を提供する施設で、初心者から家族連れまで幅広い層に人気があります。トイレや休憩所も完備されており、アクセスも便利です。再試行Claudeは間違えることがあります。回答</description>
+    </item>
+    <item>
+      <title>【愛媛県】おさかな牧場「シーロード八幡浜」| 週末営業！600円で楽しめるバリアフリー対応の本格海釣りスポット</title>
+      <link>http://localhost:1313/posts/shikoku/searoad-yawatahama/</link>
+      <pubDate>Mon, 14 Jul 2025 05:34:18 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/searoad-yawatahama/</guid>
+      <description>愛媛県八幡浜市にある「おさかな牧場 シーロード八幡浜」は、美しい瀬戸内海に張り出した桟橋で本格的な海釣りが楽しめる施設です。入場料はわずか大人600円、子供300円という手頃な価格設定ながら、クロダイやシーバス、アジなど多彩な魚種を狙うことができます。バリアフリー対応の施設で、土日祝日のみの営業という特徴があります。釣具やエサの販売はないため事前準備が必要です。</description>
+    </item>
+    <item>
+      <title>【香川県】直島つり公園 | 入園料わずか100円！アート島で味わう本格海釣り体験</title>
+      <link>http://localhost:1313/posts/shikoku/naoshima-turikouen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:31:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/naoshima-turikouen/</guid>
+      <description>アートの島として世界的に有名な香川県の直島にある「直島つり公園」は、入園料わずか100円という驚きの手軽さで本格的な海釣りが楽しめる施設です。かつては生簀を使った釣り堀でしたが、現在は自然の海を舞台にした海釣り施設として生まれ変わりました。竿のレンタルやエサの販売もあるので手ぶらでも大丈夫。シーバスやアオリイカなど様々な魚種が狙え、釣りのスキルに関わらず誰でも楽しめます。</description>
+    </item>
+    <item>
+      <title>【高知県】筏釣り 高橋渡船 | 4,000円で一日楽しめる！屋根付き筏もある本格海釣りスポット</title>
+      <link>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:29:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</guid>
+      <description>高知県須崎市の浦ノ内湾に位置する「筏釣り 高橋渡船」は、1日4,000円という手頃な料金で本格的な筏釣りが楽しめる施設です。海上に浮かぶ筏（いかだ）から、クロダイ、マダイ、キス、アオリイカなど様々な魚種を狙うことができます。特筆すべきは屋根付きの筏があり、真夏の強い日差しも気にせず釣りに集中できる点。また水上バーベキューも可能で、釣りと食事を一度に楽しめるユニークなレジャースポットです。</description>
+    </item>
+    <item>
+      <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
+      <link>http://localhost:1313/posts/shikoku/turiikada-fukaura/</link>
+      <pubDate>Mon, 14 Jul 2025 05:26:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/turiikada-fukaura/</guid>
+      <description>高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中</description>
+    </item>
+  </channel>
 </rss>

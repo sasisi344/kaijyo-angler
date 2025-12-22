@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>社員旅行 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E7%A4%BE%E5%93%A1%E6%97%85%E8%A1%8C/</link>
-        <description>社員旅行 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 15 Sep 2025 00:11:51 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E7%A4%BE%E5%93%A1%E6%97%85%E8%A1%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>社員旅行で海上釣り堀を企画する幹事必見！成功させるための完全ガイド</title>
-    <link>https://example.org/posts/syainryoko-kaijyoutirboriplan/</link>
-    <pubDate>Mon, 15 Sep 2025 00:11:51 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/syainryoko-kaijyoutirboriplan/</guid>
-    <description><![CDATA[社員旅行で海上釣り堀を企画する幹事必見の完全ガイド。早朝開始が基本の海上釣り堀を団体利用する際の課題から、予約戦略、当日の運営まで徹底解説。前泊プランの重要性、団体割引の交渉術、リスク管理と緊急時対応、成功事例から学ぶコツまで、失敗しない企画のポイントを実体験に基づいて紹介します。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社員旅行 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E7%A4%BE%E5%93%A1%E6%97%85%E8%A1%8C/</link>
+    <description>Recent content in 社員旅行 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%A4%BE%E5%93%A1%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>社員旅行で海上釣り堀を企画する幹事必見！成功させるための完全ガイド</title>
+      <link>http://localhost:1313/posts/syainryoko-kaijyoutirboriplan/</link>
+      <pubDate>Mon, 15 Sep 2025 00:11:51 +0900</pubDate>
+      <guid>http://localhost:1313/posts/syainryoko-kaijyoutirboriplan/</guid>
+      <description>社員旅行で海上釣り堀を企画する幹事必見の完全ガイド。早朝開始が基本の海上釣り堀を団体利用する際の課題から、予約戦略、当日の運営まで徹底解説。前泊プランの重要性、団体割引の交渉術、リスク管理と緊急時対応、成功事例から学ぶコツまで、失敗しない企画のポイントを実体験に基づいて紹介します。</description>
+    </item>
+  </channel>
 </rss>

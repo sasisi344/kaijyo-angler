@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>電子マネー対応 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%E5%AF%BE%E5%BF%9C/</link>
-        <description>電子マネー対応 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:37:51 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%E5%AF%BE%E5%BF%9C/" rel="self" type="application/rss+xml" /><item>
-    <title>【徳島県】浜部渡船 海上釣り堀 | 格安30分5匹釣り放題！初心者向け短時間プラン</title>
-    <link>https://example.org/posts/shikoku/hamabe-tosen/</link>
-    <pubDate>Mon, 14 Jul 2025 05:37:51 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/hamabe-tosen/</guid>
-    <description><![CDATA[徳島県海陽町の「浜部渡船 海上釣り堀」は、渡船業をメインとする老舗が運営する釣り堀施設です。たった3,000円で30分間に5匹までの制限はありますが、コスパ抜群のプランが魅力。海上釣り堀初心者や、気軽に釣りを体験したい方、短時間で釣果を確実に得たい方におすすめです。マダイやブリなどの高級魚が手軽に釣れるだけでなく、現金以外にもd払いやPayPayに対応しているのも珍しい特徴。海の見える絶好のロケー]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電子マネー対応 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%E5%AF%BE%E5%BF%9C/</link>
+    <description>Recent content in 電子マネー対応 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%E5%AF%BE%E5%BF%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【徳島県】浜部渡船 海上釣り堀 | 格安30分5匹釣り放題！初心者向け短時間プラン</title>
+      <link>http://localhost:1313/posts/shikoku/hamabe-tosen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:37:51 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/hamabe-tosen/</guid>
+      <description>徳島県海陽町の「浜部渡船 海上釣り堀」は、渡船業をメインとする老舗が運営する釣り堀施設です。たった3,000円で30分間に5匹までの制限はありますが、コスパ抜群のプランが魅力。海上釣り堀初心者や、気軽に釣りを体験したい方、短時間で釣果を確実に得たい方におすすめです。マダイやブリなどの高級魚が手軽に釣れるだけでなく、現金以外にもd払いやPayPayに対応しているのも珍しい特徴。海の見える絶好のロケー</description>
+    </item>
+  </channel>
 </rss>

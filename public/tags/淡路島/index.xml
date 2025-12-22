@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>淡路島 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%B7%A1%E8%B7%AF%E5%B3%B6/</link>
-        <description>淡路島 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 11:10:57 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%B7%A1%E8%B7%AF%E5%B3%B6/" rel="self" type="application/rss+xml" /><item>
-    <title>【兵庫県】淡路じゃのひれフィッシングパーク|大物釣りとマダイ体験コース・アクセス情報完全ガイド</title>
-    <link>https://example.org/posts/kansai/hyogo-nojuyahire/</link>
-    <pubDate>Sun, 20 Jul 2025 11:10:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/hyogo-nojuyahire/</guid>
-    <description><![CDATA[淡路島南部にある淡路じゃのひれフィッシングパークは、関西圏から約2時間でアクセス可能な本格海上釣り堀です。初心者向けマダイコース3,800円から大物釣り一般コース12,000円まで幅広く対応。マダイ・ブリ・カンパチなど9魚種が狙え、1日3回の放流で安定釣果を実現。手ぶらOK、家族連れ歓迎、淡路島観光と組み合わせた旅行プランに最適な兵庫県屈指の海上釣り堀施設。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>淡路島 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%B7%A1%E8%B7%AF%E5%B3%B6/</link>
+    <description>Recent content in 淡路島 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%B7%A1%E8%B7%AF%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【兵庫県】淡路じゃのひれフィッシングパーク|大物釣りとマダイ体験コース・アクセス情報完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/hyogo-nojuyahire/</link>
+      <pubDate>Sun, 20 Jul 2025 11:10:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/hyogo-nojuyahire/</guid>
+      <description>淡路島南部にある淡路じゃのひれフィッシングパークは、関西圏から約2時間でアクセス可能な本格海上釣り堀です。初心者向けマダイコース3,800円から大物釣り一般コース12,000円まで幅広く対応。マダイ・ブリ・カンパチなど9魚種が狙え、1日3回の放流で安定釣果を実現。手ぶらOK、家族連れ歓迎、淡路島観光と組み合わせた旅行プランに最適な兵庫県屈指の海上釣り堀施設。</description>
+    </item>
+  </channel>
 </rss>

@@ -1,0 +1,7 @@
+comment: Highlights text by applying a background color.
+arguments:
+  class:
+  color:
+body:
+  optional: false
+  comment: Text to be marked.

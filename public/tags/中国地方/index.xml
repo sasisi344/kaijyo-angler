@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>中国地方 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9/</link>
-        <description>中国地方 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:04:41 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9/" rel="self" type="application/rss+xml" /><item>
-    <title>中国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
-    <link>https://example.org/posts/chugoku/chugoku-matome/</link>
-    <pubDate>Mon, 14 Jul 2025 05:04:41 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/chugoku-matome/</guid>
-    <description><![CDATA[瀬戸内海に面する中国地方の海上釣り堀・海釣り施設6箇所を徹底比較。広島県の離島釣り堀では14種類の高級魚が釣り放題で楽しめ、山口県の海釣り施設は家族連れに最適。料金は海上釣り堀平均8,500円、海釣り施設平均820円。ボウズ保証や充実したレンタル設備で初心者も安心。主要都市からのアクセス情報や宿泊施設データも完備し、釣り旅行の計画に最適な完全ガイドです。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中国地方 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9/</link>
+    <description>Recent content in 中国地方 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/chugoku/chugoku-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:04:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/chugoku-matome/</guid>
+      <description>瀬戸内海に面する中国地方の海上釣り堀・海釣り施設6箇所を徹底比較。広島県の離島釣り堀では14種類の高級魚が釣り放題で楽しめ、山口県の海釣り施設は家族連れに最適。料金は海上釣り堀平均8,500円、海釣り施設平均820円。ボウズ保証や充実したレンタル設備で初心者も安心。主要都市からのアクセス情報や宿泊施設データも完備し、釣り旅行の計画に最適な完全ガイドです。</description>
+    </item>
+  </channel>
 </rss>

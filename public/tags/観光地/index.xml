@@ -1,47 +1,48 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>観光地 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E8%A6%B3%E5%85%89%E5%9C%B0/</link>
-        <description>観光地 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 21 Jul 2025 01:50:45 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E8%A6%B3%E5%85%89%E5%9C%B0/" rel="self" type="application/rss+xml" /><item>
-    <title>【鹿児島県】桜島海づり公園｜桜島観光と海釣りが同時に楽しめる・フェリーアクセス・料金完全ガイド</title>
-    <link>https://example.org/posts/kyusyu/sakurajimakankjou-kyusyu/</link>
-    <pubDate>Mon, 21 Jul 2025 01:50:45 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kyusyu/sakurajimakankjou-kyusyu/</guid>
-    <description><![CDATA[桜島海づり公園は活火山を眺めながら海釣りができる唯一無二の施設。釣り料200円（4時間・貸竿込み）の破格料金でマダイやカンパチも狙える。フェリーアクセスも含めて特別な体験が可能。ライフジャケット無料、手ぶらOK。桜島観光とセットで楽しめる絶景釣りスポット。]]></description>
-</item>
-<item>
-    <title>中部地方（太平洋側）海上釣り堀・海釣り施設完全ガイド｜全10施設の料金・釣果・アクセス徹底比較</title>
-    <link>https://example.org/posts/chubu-taiheiyou/chubutokai-matome/</link>
-    <pubDate>Sun, 20 Jul 2025 15:33:11 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/chubutokai-matome/</guid>
-    <description><![CDATA[中部地方（太平洋側）は静岡・愛知・三重県に29の海上釣り堀・海釣り施設を擁する日本屈指の釣りエリア。海上釣り堀の平均料金は12,400円で、マダイ・ブリ・ヒラメなど大型魚が狙える。東京・名古屋・大阪から1.5～4時間でアクセス可能。特に熱海港海釣り施設は新幹線利用で便利、錦フィッシングパークはヒラメ特化で人気。温泉観光と組み合わせた釣り旅行に最適な地域です。]]></description>
-</item>
-<item>
-    <title>【三重県】賢島フィッシングパーク海遊苑｜手ぶらで気軽・観光地で釣り体験・海上バーベキュー併設</title>
-    <link>https://example.org/posts/chubu-taiheiyou/fishkaiyuen-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 14:08:25 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/fishkaiyuen-mie/</guid>
-    <description><![CDATA[伊勢志摩の観光拠点・賢島エリアにある手ぶらで楽しめる釣り体験施設。2時間3,500円で釣り竿・エサがすべて込みの分かりやすい料金設定。マダイ、カレイ、サヨリ、キスが狙え、釣った魚の料理サービスや海上バーベキュー（大人3,500円～）も併設。英虞湾の美しい景色を眺めながら、観光の合間に気軽に釣り体験ができる観光向け施設。要予約。]]></description>
-</item>
-<item>
-    <title>【三重県】つり堀傳八屋（でんぱちや） | 充実したイベントデーと多彩な魚種が自慢の南伊勢を代表する海上釣り堀</title>
-    <link>https://example.org/posts/chubu-taiheiyou/denpachi-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 13:50:25 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/denpachi-mie/</guid>
-    <description><![CDATA[三重県南伊勢町のつり堀傳八屋は、カンパチ・マダイ・シマアジなど13種類の豊富な魚種が楽しめる海上釣り堀です。8がつく日の「デンパチデー（青物大量放流）」や毎月2回・4回目木曜日の「ニコニコデー（7,000円）」が人気。女性11,500円・子供5,000円の料金設定で家族利用しやすく、伊勢神宮観光と組み合わせた旅行にも最適な施設です。]]></description>
-</item>
-<item>
-    <title>【兵庫県】須磨海づり公園|神戸市民割引・時間制料金・須磨観光と合わせて楽しめる海釣り施設完全ガイド</title>
-    <link>https://example.org/posts/kansai/sumaduri-hyogo/</link>
-    <pubDate>Sun, 20 Jul 2025 11:37:35 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/sumaduri-hyogo/</guid>
-    <description><![CDATA[須磨海づり公園は神戸須磨の観光地に位置する海釣り施設で、基本料金1,200円（4時間）の時間制システムが特徴です。神戸市民65歳以上は600円の特別割引あり。クロダイ・シーバス・タチウオなど9魚種が狙え、砂地で根掛り少なく投げ釣り初心者も安心。須磨海浜水族園・須磨寺から近く観光と釣りを同時に楽しめる抜群の立地。電車アクセス良好で詳細気象データ提供も魅力の神戸屈指の海釣りスポット。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>観光地 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E8%A6%B3%E5%85%89%E5%9C%B0/</link>
+    <description>Recent content in 観光地 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%A6%B3%E5%85%89%E5%9C%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【鹿児島県】桜島海づり公園｜桜島観光と海釣りが同時に楽しめる・フェリーアクセス・料金完全ガイド</title>
+      <link>http://localhost:1313/posts/kyusyu/sakurajimakankjou-kyusyu/</link>
+      <pubDate>Mon, 21 Jul 2025 01:50:45 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kyusyu/sakurajimakankjou-kyusyu/</guid>
+      <description>桜島海づり公園は活火山を眺めながら海釣りができる唯一無二の施設。釣り料200円（4時間・貸竿込み）の破格料金でマダイやカンパチも狙える。フェリーアクセスも含めて特別な体験が可能。ライフジャケット無料、手ぶらOK。桜島観光とセットで楽しめる絶景釣りスポット。</description>
+    </item>
+    <item>
+      <title>中部地方（太平洋側）海上釣り堀・海釣り施設完全ガイド｜全10施設の料金・釣果・アクセス徹底比較</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/chubutokai-matome/</link>
+      <pubDate>Sun, 20 Jul 2025 15:33:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/chubutokai-matome/</guid>
+      <description>中部地方（太平洋側）は静岡・愛知・三重県に29の海上釣り堀・海釣り施設を擁する日本屈指の釣りエリア。海上釣り堀の平均料金は12,400円で、マダイ・ブリ・ヒラメなど大型魚が狙える。東京・名古屋・大阪から1.5～4時間でアクセス可能。特に熱海港海釣り施設は新幹線利用で便利、錦フィッシングパークはヒラメ特化で人気。温泉観光と組み合わせた釣り旅行に最適な地域です。</description>
+    </item>
+    <item>
+      <title>【三重県】賢島フィッシングパーク海遊苑｜手ぶらで気軽・観光地で釣り体験・海上バーベキュー併設</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/fishkaiyuen-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 14:08:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/fishkaiyuen-mie/</guid>
+      <description>伊勢志摩の観光拠点・賢島エリアにある手ぶらで楽しめる釣り体験施設。2時間3,500円で釣り竿・エサがすべて込みの分かりやすい料金設定。マダイ、カレイ、サヨリ、キスが狙え、釣った魚の料理サービスや海上バーベキュー（大人3,500円～）も併設。英虞湾の美しい景色を眺めながら、観光の合間に気軽に釣り体験ができる観光向け施設。要予約。</description>
+    </item>
+    <item>
+      <title>【三重県】つり堀傳八屋（でんぱちや） | 充実したイベントデーと多彩な魚種が自慢の南伊勢を代表する海上釣り堀</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/denpachi-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 13:50:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/denpachi-mie/</guid>
+      <description>三重県南伊勢町のつり堀傳八屋は、カンパチ・マダイ・シマアジなど13種類の豊富な魚種が楽しめる海上釣り堀です。8がつく日の「デンパチデー（青物大量放流）」や毎月2回・4回目木曜日の「ニコニコデー（7,000円）」が人気。女性11,500円・子供5,000円の料金設定で家族利用しやすく、伊勢神宮観光と組み合わせた旅行にも最適な施設です。</description>
+    </item>
+    <item>
+      <title>【兵庫県】須磨海づり公園|神戸市民割引・時間制料金・須磨観光と合わせて楽しめる海釣り施設完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/sumaduri-hyogo/</link>
+      <pubDate>Sun, 20 Jul 2025 11:37:35 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/sumaduri-hyogo/</guid>
+      <description>須磨海づり公園は神戸須磨の観光地に位置する海釣り施設で、基本料金1,200円（4時間）の時間制システムが特徴です。神戸市民65歳以上は600円の特別割引あり。クロダイ・シーバス・タチウオなど9魚種が狙え、砂地で根掛り少なく投げ釣り初心者も安心。須磨海浜水族園・須磨寺から近く観光と釣りを同時に楽しめる抜群の立地。電車アクセス良好で詳細気象データ提供も魅力の神戸屈指の海釣りスポット。</description>
+    </item>
+  </channel>
 </rss>

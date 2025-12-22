@@ -1,31 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>高知県 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E9%AB%98%E7%9F%A5%E7%9C%8C/</link>
-        <description>高知県 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:39:34 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%AB%98%E7%9F%A5%E7%9C%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>【高知県】海上釣り堀 幸丸 | 高級魚狙いの釣り放題と初心者向けトライアルコースが選べる！</title>
-    <link>https://example.org/posts/shikoku/kaijyo-sachimaru/</link>
-    <pubDate>Mon, 14 Jul 2025 05:39:34 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/kaijyo-sachimaru/</guid>
-    <description><![CDATA[高知県須崎市の美しい浦ノ内湾に位置する「海上釣り堀 幸丸」は、マダイ・シマアジ・ブリ・カンパチなどの高級魚が釣れる本格的な海上釣り堀です。4時間釣り放題の通常コース（13,000円）と、初心者や時間が限られている方向けの「トライアルコース」（5,000円・大物1匹確定）の2種類から選べるのが特徴。土佐ICからわずか20分という好アクセスで、朝7時からの営業なので無理なく訪れることができる、高知の海]]></description>
-</item>
-<item>
-    <title>【高知県】筏釣り 高橋渡船 | 4,000円で一日楽しめる！屋根付き筏もある本格海釣りスポット</title>
-    <link>https://example.org/posts/shikoku/ikada-takahashitosen/</link>
-    <pubDate>Mon, 14 Jul 2025 05:29:10 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/ikada-takahashitosen/</guid>
-    <description><![CDATA[高知県須崎市の浦ノ内湾に位置する「筏釣り 高橋渡船」は、1日4,000円という手頃な料金で本格的な筏釣りが楽しめる施設です。海上に浮かぶ筏（いかだ）から、クロダイ、マダイ、キス、アオリイカなど様々な魚種を狙うことができます。特筆すべきは屋根付きの筏があり、真夏の強い日差しも気にせず釣りに集中できる点。また水上バーベキューも可能で、釣りと食事を一度に楽しめるユニークなレジャースポットです。]]></description>
-</item>
-<item>
-    <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
-    <link>https://example.org/posts/shikoku/turiikada-fukaura/</link>
-    <pubDate>Mon, 14 Jul 2025 05:26:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/turiikada-fukaura/</guid>
-    <description><![CDATA[高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>高知県 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E9%AB%98%E7%9F%A5%E7%9C%8C/</link>
+    <description>Recent content in 高知県 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%AB%98%E7%9F%A5%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【高知県】海上釣り堀 幸丸 | 高級魚狙いの釣り放題と初心者向けトライアルコースが選べる！</title>
+      <link>http://localhost:1313/posts/shikoku/kaijyo-sachimaru/</link>
+      <pubDate>Mon, 14 Jul 2025 05:39:34 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/kaijyo-sachimaru/</guid>
+      <description>高知県須崎市の美しい浦ノ内湾に位置する「海上釣り堀 幸丸」は、マダイ・シマアジ・ブリ・カンパチなどの高級魚が釣れる本格的な海上釣り堀です。4時間釣り放題の通常コース（13,000円）と、初心者や時間が限られている方向けの「トライアルコース」（5,000円・大物1匹確定）の2種類から選べるのが特徴。土佐ICからわずか20分という好アクセスで、朝7時からの営業なので無理なく訪れることができる、高知の海</description>
+    </item>
+    <item>
+      <title>【高知県】筏釣り 高橋渡船 | 4,000円で一日楽しめる！屋根付き筏もある本格海釣りスポット</title>
+      <link>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:29:10 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</guid>
+      <description>高知県須崎市の浦ノ内湾に位置する「筏釣り 高橋渡船」は、1日4,000円という手頃な料金で本格的な筏釣りが楽しめる施設です。海上に浮かぶ筏（いかだ）から、クロダイ、マダイ、キス、アオリイカなど様々な魚種を狙うことができます。特筆すべきは屋根付きの筏があり、真夏の強い日差しも気にせず釣りに集中できる点。また水上バーベキューも可能で、釣りと食事を一度に楽しめるユニークなレジャースポットです。</description>
+    </item>
+    <item>
+      <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
+      <link>http://localhost:1313/posts/shikoku/turiikada-fukaura/</link>
+      <pubDate>Mon, 14 Jul 2025 05:26:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/turiikada-fukaura/</guid>
+      <description>高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中</description>
+    </item>
+  </channel>
 </rss>

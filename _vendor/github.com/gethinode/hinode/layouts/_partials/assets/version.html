@@ -1,0 +1,14 @@
+{{/* 
+    Copyright © 2022 - 2025 The Hinode Team / Mark Dumay. All rights reserved.
+    Use of this source code is governed by The MIT License (MIT) that can be found in the LICENSE file.
+    Visit gethinode.com/license for more details.
+*/}}
+
+{{- $file := "go.mod" -}}
+{{- $regex := printf `github.com\/gethinode\/hinode v.*(\r\n|\r|\n)` -}}
+{{- $match := findRE $regex (readFile $file) -}}
+{{- $match = index $match 0 -}}
+
+{{- if $match -}}
+    {{- printf "%s" (trim (index (split $match " ") 1) " \r\n,\"") -}}
+{{- end -}}

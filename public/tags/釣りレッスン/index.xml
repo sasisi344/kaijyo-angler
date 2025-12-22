@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>釣りレッスン - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E9%87%A3%E3%82%8A%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3/</link>
-        <description>釣りレッスン - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 04:37:08 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%87%A3%E3%82%8A%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3/" rel="self" type="application/rss+xml" /><item>
-    <title>【千葉県】オリジナルメーカー海づり公園｜格安料金・釣りレッスン完全ガイド</title>
-    <link>https://example.org/posts/kanto/origi-umiduri/</link>
-    <pubDate>Mon, 14 Jul 2025 04:37:08 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kanto/origi-umiduri/</guid>
-    <description><![CDATA[千葉県市原市のオリジナルメーカー海づり公園は一般920円の格安料金で本格海釣りが楽しめる施設。アジ・シーバス・カレイなど東京湾の多彩な魚種を狙え、釣りレッスン完備で初心者安心。五井駅からバス15分、夏季無休営業で関東屈指のコスパ抜群海釣りスポット。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>釣りレッスン on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3/</link>
+    <description>Recent content in 釣りレッスン on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【千葉県】オリジナルメーカー海づり公園｜格安料金・釣りレッスン完全ガイド</title>
+      <link>http://localhost:1313/posts/kanto/origi-umiduri/</link>
+      <pubDate>Mon, 14 Jul 2025 04:37:08 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kanto/origi-umiduri/</guid>
+      <description>千葉県市原市のオリジナルメーカー海づり公園は一般920円の格安料金で本格海釣りが楽しめる施設。アジ・シーバス・カレイなど東京湾の多彩な魚種を狙え、釣りレッスン完備で初心者安心。五井駅からバス15分、夏季無休営業で関東屈指のコスパ抜群海釣りスポット。</description>
+    </item>
+  </channel>
 </rss>

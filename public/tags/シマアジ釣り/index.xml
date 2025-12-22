@@ -1,32 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>シマアジ釣り - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8%E9%87%A3%E3%82%8A/</link>
-        <description>シマアジ釣り - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 15 Sep 2025 02:47:57 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8%E9%87%A3%E3%82%8A/" rel="self" type="application/rss+xml" /><item>
-    <title>【兵庫県】海上釣り堀あっとしー（@sea）｜駅チカで大物狙いができる良施設</title>
-    <link>https://example.org/posts/kansai/akasi-atsea/</link>
-    <pubDate>Mon, 15 Sep 2025 02:47:57 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/akasi-atsea/</guid>
-    <description><![CDATA[兵庫県明石市の海上釣り堀「あっとしー（@sea）」は、明石駅から徒歩15分の陸続きで安全な施設です。2025年5月より男性13,200円、女性・子ども8,800円。1日4回の計画的放流でマダイ、シマアジ、ハマチを狙えます。完全予約制で初心者から上級者まで楽しめ、明石観光と組み合わせた釣り旅行に最適。ウロコ処理サービスや各種レンタルも充実しています。]]></description>
-</item>
-<item>
-    <title>海上釣り堀シマアジ釣り：ボウズ回避率100%の完全マニュアル</title>
-    <link>https://example.org/posts/shimaaji-bouzukaihi/</link>
-    <pubDate>Sat, 06 Sep 2025 17:20:08 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shimaaji-bouzukaihi/</guid>
-    <description><![CDATA[<p>「シマアジが全然釣れない…」そんな悩みを抱えていませんか？</p>
-<p>この完全マニュアルを読めば、ボウズ（釣果ゼロ）になることはもうありません。実際に多くの釣り人が実践し、確実な釣果を上げている方法を体系的にお伝えします。</p>]]></description>
-</item>
-<item>
-    <title>なぜあの人だけシマアジが釣れる？海上釣り堀の隠れた攻略ポイント大公開</title>
-    <link>https://example.org/posts/simaaji-nazetureru/</link>
-    <pubDate>Sat, 06 Sep 2025 16:13:45 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/simaaji-nazetureru/</guid>
-    <description><![CDATA[<p>海上釣り堀で隣の釣り人だけがシマアジを連発している光景を見たことはありませんか？同じ場所、同じ時間なのに、なぜこんなにも差が生まれるのでしょうか。</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>シマアジ釣り on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in シマアジ釣り on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%B7%E3%83%9E%E3%82%A2%E3%82%B8%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【兵庫県】海上釣り堀あっとしー（@sea）｜駅チカで大物狙いができる良施設</title>
+      <link>http://localhost:1313/posts/kansai/akasi-atsea/</link>
+      <pubDate>Mon, 15 Sep 2025 02:47:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/akasi-atsea/</guid>
+      <description>兵庫県明石市の海上釣り堀「あっとしー（@sea）」は、明石駅から徒歩15分の陸続きで安全な施設です。2025年5月より男性13,200円、女性・子ども8,800円。1日4回の計画的放流でマダイ、シマアジ、ハマチを狙えます。完全予約制で初心者から上級者まで楽しめ、明石観光と組み合わせた釣り旅行に最適。ウロコ処理サービスや各種レンタルも充実しています。</description>
+    </item>
+    <item>
+      <title>海上釣り堀シマアジ釣り：ボウズ回避率100%の完全マニュアル</title>
+      <link>http://localhost:1313/posts/shimaaji-bouzukaihi/</link>
+      <pubDate>Sat, 06 Sep 2025 17:20:08 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shimaaji-bouzukaihi/</guid>
+      <description>&lt;p&gt;「シマアジが全然釣れない…」そんな悩みを抱えていませんか？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>なぜあの人だけシマアジが釣れる？海上釣り堀の隠れた攻略ポイント大公開</title>
+      <link>http://localhost:1313/posts/simaaji-nazetureru/</link>
+      <pubDate>Sat, 06 Sep 2025 16:13:45 +0900</pubDate>
+      <guid>http://localhost:1313/posts/simaaji-nazetureru/</guid>
+      <description>&lt;p&gt;海上釣り堀で隣の釣り人だけがシマアジを連発している光景を見たことはありませんか？同じ場所、同じ時間なのに、なぜこんなにも差が生まれるのでしょうか。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

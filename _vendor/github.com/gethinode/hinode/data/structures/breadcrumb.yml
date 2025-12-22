@@ -1,0 +1,4 @@
+comment: Displays a breadcrumb for a specific page.
+arguments:
+  page:
+  path:

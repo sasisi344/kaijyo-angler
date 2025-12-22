@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>放流多め - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%94%BE%E6%B5%81%E5%A4%9A%E3%82%81/</link>
-        <description>放流多め - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 13:47:09 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%94%BE%E6%B5%81%E5%A4%9A%E3%82%81/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】海上釣堀辨屋｜本格派海上釣り堀・高級魚の宝庫・1日2回の放流で確実な釣果</title>
-    <link>https://example.org/posts/chubu-taiheiyou/benya-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 13:47:09 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/benya-mie/</guid>
-    <description><![CDATA[三重県南伊勢町の本格派海上釣り堀。大人13,000円と高額だが、マダイ、シマアジ、ブリ、カンパチ、ヒラメが確実に狙える。1日2回の放流システムで安定した釣果を誇り、ボウズ保証なしの自信作。毎月2・12・22日の「Benya Day」は大量放流。スタンプサービス（10個で50%OFF）や魚の配送サービスも充実。早朝開始のため前泊推奨の本格施設。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>放流多め on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%94%BE%E6%B5%81%E5%A4%9A%E3%82%81/</link>
+    <description>Recent content in 放流多め on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%94%BE%E6%B5%81%E5%A4%9A%E3%82%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】海上釣堀辨屋｜本格派海上釣り堀・高級魚の宝庫・1日2回の放流で確実な釣果</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/benya-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 13:47:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/benya-mie/</guid>
+      <description>三重県南伊勢町の本格派海上釣り堀。大人13,000円と高額だが、マダイ、シマアジ、ブリ、カンパチ、ヒラメが確実に狙える。1日2回の放流システムで安定した釣果を誇り、ボウズ保証なしの自信作。毎月2・12・22日の「Benya Day」は大量放流。スタンプサービス（10個で50%OFF）や魚の配送サービスも充実。早朝開始のため前泊推奨の本格施設。</description>
+    </item>
+  </channel>
 </rss>

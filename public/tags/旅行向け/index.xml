@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>旅行向け - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E6%97%85%E8%A1%8C%E5%90%91%E3%81%91/</link>
-        <description>旅行向け - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 15:16:15 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E6%97%85%E8%A1%8C%E5%90%91%E3%81%91/" rel="self" type="application/rss+xml" /><item>
-    <title>【愛知県】豊浜海釣り公園（豊浜釣り桟橋） | 24時間無料で楽しめる知多半島の人気釣りスポット</title>
-    <link>https://example.org/posts/chubu-taiheiyou/toyohamaturi-aichi/</link>
-    <pubDate>Sun, 20 Jul 2025 15:16:15 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/toyohamaturi-aichi/</guid>
-    <description><![CDATA[愛知県知多郡南知多町豊浜にある「豊浜海釣り公園（豊浜釣り桟橋）」は、24時間年中無休で完全無料で利用できる海釣り施設です。地元漁協の好意で開放されており、海に張り出した桟橋からクロダイ、メジナ、キス、ハゼ、シーバス、アジ、サバなど多彩な魚種を狙えます。釣具レンタルはないため各自持参が必要で、桟橋上は鉄網（グレーチング）のためレジャーシートを持参すると快適です。漁港内にあるため操業者の妨げにならない]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅行向け on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8C%E5%90%91%E3%81%91/</link>
+    <description>Recent content in 旅行向け on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%97%85%E8%A1%8C%E5%90%91%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【愛知県】豊浜海釣り公園（豊浜釣り桟橋） | 24時間無料で楽しめる知多半島の人気釣りスポット</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/toyohamaturi-aichi/</link>
+      <pubDate>Sun, 20 Jul 2025 15:16:15 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/toyohamaturi-aichi/</guid>
+      <description>愛知県知多郡南知多町豊浜にある「豊浜海釣り公園（豊浜釣り桟橋）」は、24時間年中無休で完全無料で利用できる海釣り施設です。地元漁協の好意で開放されており、海に張り出した桟橋からクロダイ、メジナ、キス、ハゼ、シーバス、アジ、サバなど多彩な魚種を狙えます。釣具レンタルはないため各自持参が必要で、桟橋上は鉄網（グレーチング）のためレジャーシートを持参すると快適です。漁港内にあるため操業者の妨げにならない</description>
+    </item>
+  </channel>
 </rss>

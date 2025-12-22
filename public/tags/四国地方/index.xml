@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>四国地方 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9/</link>
-        <description>四国地方 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:42:54 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9/" rel="self" type="application/rss+xml" /><item>
-    <title>四国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
-    <link>https://example.org/posts/shikoku/shikoku-matome/</link>
-    <pubDate>Mon, 14 Jul 2025 05:42:54 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/shikoku-matome/</guid>
-    <description><![CDATA[四国地方の海上釣り堀・海釣り施設11箇所を徹底比較。高知県の太平洋型では本格的な高級魚釣りが13,000円から、香川県の瀬戸内海型では観光と組み合わせた手軽な釣りが500円から楽しめます。ソルトレイクひけた安戸池の珍しいルアーコーナーや小豆島の破格500円施設など、特色ある釣りスポットが満載。初心者から上級者まで、予算に応じて選べる幅広い選択肢を詳しく解説した完全ガイドです。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>四国地方 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9/</link>
+    <description>Recent content in 四国地方 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/shikoku/shikoku-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:42:54 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/shikoku-matome/</guid>
+      <description>四国地方の海上釣り堀・海釣り施設11箇所を徹底比較。高知県の太平洋型では本格的な高級魚釣りが13,000円から、香川県の瀬戸内海型では観光と組み合わせた手軽な釣りが500円から楽しめます。ソルトレイクひけた安戸池の珍しいルアーコーナーや小豆島の破格500円施設など、特色ある釣りスポットが満載。初心者から上級者まで、予算に応じて選べる幅広い選択肢を詳しく解説した完全ガイドです。</description>
+    </item>
+  </channel>
 </rss>

@@ -1,0 +1,11 @@
+[ja]
+    languageName = "日本語"
+    contentDir = "content"
+    weight = 1
+    [ja.params.head]
+        tagline = "海上釣り堀の総合情報サイト"
+    [ja.params.social]
+        title = "SNS"
+        caption = "最新情報を発信中"
+    [ja.params.footer]
+        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."

@@ -1,0 +1,6 @@
+comment: Use the badge shortcode to enrich headings.
+arguments:
+  title:
+  class:
+  color:
+    default: secondary

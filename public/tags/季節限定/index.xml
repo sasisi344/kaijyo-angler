@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>季節限定 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%AD%A3%E7%AF%80%E9%99%90%E5%AE%9A/</link>
-        <description>季節限定 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:03:43 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%AD%A3%E7%AF%80%E9%99%90%E5%AE%9A/" rel="self" type="application/rss+xml" /><item>
-    <title>【山口県】須佐湾フィッシングパーク | 天然の入り江で高級魚釣り体験・季節限定の貴重な海釣りスポット</title>
-    <link>https://example.org/posts/chugoku/susawan-fising/</link>
-    <pubDate>Mon, 14 Jul 2025 05:03:43 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/susawan-fising/</guid>
-    <description><![CDATA[山口県萩市の「須佐湾フィッシングパーク」は、天然の入り江を活かした季節限定の釣り施設です。営業はGW、夏季の土日祝、お盆期間のみと限定的ですが、入場料は大人1日520円と非常にリーズナブル。釣り竿やエサもそれぞれ200円、100円でレンタル可能です。マダイやブリなどの高級魚が釣れますが、釣った魚は買取方式（マダイ1kg2,100円、ブリ1kg1,600円）でリリース禁止。美しい須佐湾の景観を楽しみ]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>季節限定 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%AD%A3%E7%AF%80%E9%99%90%E5%AE%9A/</link>
+    <description>Recent content in 季節限定 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AD%A3%E7%AF%80%E9%99%90%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【山口県】須佐湾フィッシングパーク | 天然の入り江で高級魚釣り体験・季節限定の貴重な海釣りスポット</title>
+      <link>http://localhost:1313/posts/chugoku/susawan-fising/</link>
+      <pubDate>Mon, 14 Jul 2025 05:03:43 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/susawan-fising/</guid>
+      <description>山口県萩市の「須佐湾フィッシングパーク」は、天然の入り江を活かした季節限定の釣り施設です。営業はGW、夏季の土日祝、お盆期間のみと限定的ですが、入場料は大人1日520円と非常にリーズナブル。釣り竿やエサもそれぞれ200円、100円でレンタル可能です。マダイやブリなどの高級魚が釣れますが、釣った魚は買取方式（マダイ1kg2,100円、ブリ1kg1,600円）でリリース禁止。美しい須佐湾の景観を楽しみ</description>
+    </item>
+  </channel>
 </rss>

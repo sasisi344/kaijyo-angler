@@ -1,0 +1,14 @@
+comment: >-
+ Displays a tooltip for a link. The inner content is used as hyperlink text.
+arguments:
+  title:
+  href:
+  class:
+  color:
+    default: dark
+  placement:
+  spacing:
+    default: false
+body:
+  optional: false
+  comment: Hyperlink text.

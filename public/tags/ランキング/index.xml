@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>ランキング - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</link>
-        <description>ランキング - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 10 Oct 2025 03:00:00 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/" rel="self" type="application/rss+xml" /><item>
-    <title>海上釣り堀の料金比較【関東・関西・九州】コスパ最強施設ランキング2025</title>
-    <link>https://example.org/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%AE%E6%96%99%E9%87%91%E6%AF%94%E8%BC%83%E9%96%A2%E6%9D%B1%E9%96%A2%E8%A5%BF%E4%B9%9D%E5%B7%9E%E3%82%B3%E3%82%B9/</link>
-    <pubDate>Fri, 10 Oct 2025 03:00:00 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%AE%E6%96%99%E9%87%91%E6%AF%94%E8%BC%83%E9%96%A2%E6%9D%B1%E9%96%A2%E8%A5%BF%E4%B9%9D%E5%B7%9E%E3%82%B3%E3%82%B9/</guid>
-    <description><![CDATA[海上釣り堀の料金は地域やサービス内容で大きく異なります。この記事では、関東・関西・九州を中心に全国の海上釣り堀を比較し、2025年版のコスパ最強施設ランキングTOP10を紹介。放流量・サポート・アクセスなど“料金以上に満足できる”施設選びのポイントも詳しく解説します。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ランキング on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in ランキング on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Fri, 10 Oct 2025 03:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>海上釣り堀の料金比較【関東・関西・九州】コスパ最強施設ランキング2025</title>
+      <link>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%AE%E6%96%99%E9%87%91%E6%AF%94%E8%BC%83%E9%96%A2%E6%9D%B1%E9%96%A2%E8%A5%BF%E4%B9%9D%E5%B7%9E%E3%82%B3%E3%82%B9/</link>
+      <pubDate>Fri, 10 Oct 2025 03:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%AE%E6%96%99%E9%87%91%E6%AF%94%E8%BC%83%E9%96%A2%E6%9D%B1%E9%96%A2%E8%A5%BF%E4%B9%9D%E5%B7%9E%E3%82%B3%E3%82%B9/</guid>
+      <description>海上釣り堀の料金は地域やサービス内容で大きく異なります。この記事では、関東・関西・九州を中心に全国の海上釣り堀を比較し、2025年版のコスパ最強施設ランキングTOP10を紹介。放流量・サポート・アクセスなど“料金以上に満足できる”施設選びのポイントも詳しく解説します。</description>
+    </item>
+  </channel>
 </rss>

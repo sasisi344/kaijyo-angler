@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>休止中 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%BC%91%E6%AD%A2%E4%B8%AD/</link>
-        <description>休止中 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 04:29:53 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%BC%91%E6%AD%A2%E4%B8%AD/" rel="self" type="application/rss+xml" /><item>
-    <title>【休止中/北海道】勇払マリーナ海上釣り堀｜北海道初のチャレンジ・今後に期待の釣り堀施設</title>
-    <link>https://example.org/posts/hokkaido/marine-fishing-pond/yuuhara-kaijyo/</link>
-    <pubDate>Mon, 14 Jul 2025 04:29:53 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/hokkaido/marine-fishing-pond/yuuhara-kaijyo/</guid>
-    <description><![CDATA[北海道でおそらく初となる海上釣り堀が「勇払マリーナ」。しかし現在は営業休止しており、再開の目処はたっていない。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>休止中 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%BC%91%E6%AD%A2%E4%B8%AD/</link>
+    <description>Recent content in 休止中 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BC%91%E6%AD%A2%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【休止中/北海道】勇払マリーナ海上釣り堀｜北海道初のチャレンジ・今後に期待の釣り堀施設</title>
+      <link>http://localhost:1313/posts/hokkaido/marine-fishing-pond/yuuhara-kaijyo/</link>
+      <pubDate>Mon, 14 Jul 2025 04:29:53 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hokkaido/marine-fishing-pond/yuuhara-kaijyo/</guid>
+      <description>北海道でおそらく初となる海上釣り堀が「勇払マリーナ」。しかし現在は営業休止しており、再開の目処はたっていない。</description>
+    </item>
+  </channel>
 </rss>

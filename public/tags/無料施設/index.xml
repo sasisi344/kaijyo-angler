@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>無料施設 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E7%84%A1%E6%96%99%E6%96%BD%E8%A8%AD/</link>
-        <description>無料施設 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 11:33:52 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E7%84%A1%E6%96%99%E6%96%BD%E8%A8%AD/" rel="self" type="application/rss+xml" /><item>
-    <title>【大阪府】南港魚つり園護岸｜無料で本格海釣り・初心者レクチャー・子供体験学習ガイド</title>
-    <link>https://example.org/posts/kansai/minamikouturi-osaka/</link>
-    <pubDate>Sun, 20 Jul 2025 11:33:52 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/minamikouturi-osaka/</guid>
-    <description><![CDATA[大阪市住之江区の南港魚つり園護岸は完全無料の海釣り施設。クロダイ・シーバス・ブリなど多彩な魚種が狙え、初心者向けスタッフレクチャーあり。釣具レンタル1,800円で手ぶらOK。大阪市内からアクセス抜群の人気スポット。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>無料施設 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E7%84%A1%E6%96%99%E6%96%BD%E8%A8%AD/</link>
+    <description>Recent content in 無料施設 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%84%A1%E6%96%99%E6%96%BD%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【大阪府】南港魚つり園護岸｜無料で本格海釣り・初心者レクチャー・子供体験学習ガイド</title>
+      <link>http://localhost:1313/posts/kansai/minamikouturi-osaka/</link>
+      <pubDate>Sun, 20 Jul 2025 11:33:52 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/minamikouturi-osaka/</guid>
+      <description>大阪市住之江区の南港魚つり園護岸は完全無料の海釣り施設。クロダイ・シーバス・ブリなど多彩な魚種が狙え、初心者向けスタッフレクチャーあり。釣具レンタル1,800円で手ぶらOK。大阪市内からアクセス抜群の人気スポット。</description>
+    </item>
+  </channel>
 </rss>

@@ -1,0 +1,13 @@
+comment: >-
+  Displays a carousel of several responsive images (see the image shortcode for
+  more details). Add inner `img` elements to define individual image slides.
+arguments:
+  id:
+  ratio:
+  portrait:
+    release: v0.18.3
+  class:
+body:
+  type: string
+  optional: false
+  comment: Inner `img` elements that define the individual image slides.

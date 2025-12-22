@@ -1,26 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>釣り堀料金 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E9%87%A3%E3%82%8A%E5%A0%80%E6%96%99%E9%87%91/</link>
-        <description>釣り堀料金 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 16 Sep 2025 23:44:33 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E9%87%A3%E3%82%8A%E5%A0%80%E6%96%99%E9%87%91/" rel="self" type="application/rss+xml" /><item>
-    <title>三重県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-    <link>https://example.org/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</link>
-    <pubDate>Tue, 16 Sep 2025 23:44:33 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</guid>
-    <description><![CDATA[三重県は全国最多クラスの19施設を誇る海上釣り堀の聖地。85％の施設で下処理サービスを提供し、料金は1匹200円～600円と良心的。錦フィッシングパークのヒラメ専門処理や、はさま浦釣り堀センターの民宿宿泊客無料サービスなど特色豊か。伊勢神宮や志摩スペイン村との観光連携も魅力で、初心者でも安心して新鮮な釣果を持ち帰れる。]]></description>
-</item>
-<item>
-    <title>海上釣り堀の料金はいくら？初心者向け完全ガイド｜基本料金から追加費用まで</title>
-    <link>https://example.org/posts/howto-syosin-ryoukinset/</link>
-    <pubDate>Sat, 16 Aug 2025 10:32:51 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/howto-syosin-ryoukinset/</guid>
-    <description><![CDATA[<p>本記事はそこそこ長いので、気が早い人に向けた要約です。</p>
-<ul>
-<li>
-<p><strong>基本料金</strong>：入場料・利用料（男性8,000円〜16,500円、女性5,500円〜13,200円、子供3,000円〜8,000円）が必須で、渡船料（500円〜3,000円）が別途かかる場合もある</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>釣り堀料金 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E5%A0%80%E6%96%99%E9%87%91/</link>
+    <description>Recent content in 釣り堀料金 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E5%A0%80%E6%96%99%E9%87%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>三重県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</link>
+      <pubDate>Tue, 16 Sep 2025 23:44:33 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/mie-kaijyo-matome-sitasyori/</guid>
+      <description>三重県は全国最多クラスの19施設を誇る海上釣り堀の聖地。85％の施設で下処理サービスを提供し、料金は1匹200円～600円と良心的。錦フィッシングパークのヒラメ専門処理や、はさま浦釣り堀センターの民宿宿泊客無料サービスなど特色豊か。伊勢神宮や志摩スペイン村との観光連携も魅力で、初心者でも安心して新鮮な釣果を持ち帰れる。</description>
+    </item>
+    <item>
+      <title>海上釣り堀の料金はいくら？初心者向け完全ガイド｜基本料金から追加費用まで</title>
+      <link>http://localhost:1313/posts/howto-syosin-ryoukinset/</link>
+      <pubDate>Sat, 16 Aug 2025 10:32:51 +0900</pubDate>
+      <guid>http://localhost:1313/posts/howto-syosin-ryoukinset/</guid>
+      <description>&lt;p&gt;本記事はそこそこ長いので、気が早い人に向けた要約です。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

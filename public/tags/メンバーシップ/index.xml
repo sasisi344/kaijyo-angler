@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>メンバーシップ - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97/</link>
-        <description>メンバーシップ - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 13:52:17 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】海上釣り堀福寿丸 | 活きアジ泳がせ釣りと充実のメンバーシップが魅力の南伊勢本格海上釣り堀</title>
-    <link>https://example.org/posts/chubu-taiheiyou/fukujyumaru-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 13:52:17 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/fukujyumaru-mie/</guid>
-    <description><![CDATA[三重県南伊勢町の「海上釣り堀福寿丸」は、活きアジ泳がせ釣りで大型青物を狙える本格海上釣り堀です。男性14,000円、女性12,000円、子供5,000円の料金で、正会員制度による割引とポイント特典あり。ブリ、ヒラマサ、カンパチなど11種類の魚種を放流。毎月10・20・30日の「寿の日スペシャル放流」が人気。季節別営業時間で年間最適コンディション。貸切筏でゆったり釣りも可能。活アジ5匹1,000円で]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>メンバーシップ on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97/</link>
+    <description>Recent content in メンバーシップ on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】海上釣り堀福寿丸 | 活きアジ泳がせ釣りと充実のメンバーシップが魅力の南伊勢本格海上釣り堀</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/fukujyumaru-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 13:52:17 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/fukujyumaru-mie/</guid>
+      <description>三重県南伊勢町の「海上釣り堀福寿丸」は、活きアジ泳がせ釣りで大型青物を狙える本格海上釣り堀です。男性14,000円、女性12,000円、子供5,000円の料金で、正会員制度による割引とポイント特典あり。ブリ、ヒラマサ、カンパチなど11種類の魚種を放流。毎月10・20・30日の「寿の日スペシャル放流」が人気。季節別営業時間で年間最適コンディション。貸切筏でゆったり釣りも可能。活アジ5匹1,000円で</description>
+    </item>
+  </channel>
 </rss>

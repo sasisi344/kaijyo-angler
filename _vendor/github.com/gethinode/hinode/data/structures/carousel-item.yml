@@ -1,0 +1,11 @@
+comment: Renders a carousel item with a responsive image.
+arguments:
+  page:
+  src:
+  ratio:
+    group: partial
+  portrait:
+    group: partial
+  loading:
+  caption:
+  active:

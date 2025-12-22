@@ -1,0 +1,193 @@
+# Single pages
+- id: postedOnDate
+  translation: "{{ . }} に投稿"
+- id: lastModified
+  translation: "{{ . }} に最終更新"
+- id: read
+  translation: "読む"
+- id: minutesShort
+  translation: "分"
+- id: words
+  translation: "文字"
+- id: photoFull
+  translation: "Photo by %s on %s"
+- id: photoShort
+  translation: "Photo by {{ . }}"
+- id: photoOn
+  translation: "on"
+- id: draft
+  translation: "下書き"
+
+# List pages
+- id: article
+  translation: "記事"
+- id: articles
+  translation: "記事一覧"
+- id: more
+  translation: "もっと見る {{ . }}"
+- id: emptyList
+  translation: "記事が見つかりませんでした"
+- id: emptyTags
+  translation: "タグが見つかりませんでした"
+- id: readMore
+  translation: "詳しく見る"
+
+# Languages
+- id: lang_de
+  translation: "ドイツ語"
+- id: lang_en
+  translation: "英語"
+- id: lang_nl
+  translation: "オランダ語"
+- id: lang_fr
+  translation: "フランス語"
+- id: lang_ja
+  translation: "日本語"
+
+# Sharing
+- id: shareLink
+  translation: "{{ . }} で共有"
+- id: shareSystem
+  translation: "システム"
+- id: copyToClipboard
+  translation: "クリップボードにコピー"
+- id: copiedToClipboard
+  translation: "コピーしました"
+- id: link
+  translation: "リンク"
+- id: code
+  translation: "コード"
+- id: download
+  translation: "記事をダウンロード"
+
+# Hero
+- id: backgroundImage
+  translation: "背景画像"
+- id: heroImage
+  translation: "ヒーロー画像"
+
+# Pagination
+- id: paginationNav
+  translation: "ページ移動"
+- id: paginationPrevious
+  translation: "前のページ"
+- id: paginationNext
+  translation: "次のページ"
+- id: paginationFirst
+  translation: "最初"
+- id: paginationLast
+  translation: "最後"
+
+# Navigation
+- id: colorMode
+  translation: "カラーモード切り替え"
+- id: colorLight
+  translation: "ライト"
+- id: colorDark
+  translation: "ダーク"
+- id: colorAuto
+  translation: "自動"
+- id: toggleMainNav
+  translation: "メインナビゲーションを切り替え"
+- id: home
+  translation: "ホーム"
+- id: languageSwitcherLabel
+  translation: "言語"
+- id: close
+  translation: "閉じる"
+
+# Table of contents
+- id: toc
+  translation: "目次"
+- id: seeAlso
+  translation: "関連記事"
+- id: sectionMenu
+  translation: "トピックを選択"
+- id: tocShowMore
+  translation: "{{ . }} 件もっと表示"
+- id: tocShowLess
+  translation: "表示を減らす"
+
+# Sidebar
+- id: toggleSidebar
+  translation: "サイドバー切り替え"
+
+# Feature
+- id: addedFeature
+  translation: "{{ . }} で追加"
+- id: deprecatedFeature
+  translation: "{{ . }} で非推奨"
+- id: alternativeFeature
+  translation: "`{{ . }}` を代わりに使用してください"
+
+# Versioning
+- id: latest
+  translation: "最新"
+- id: allVersions
+  translation: "すべてのバージョン"
+- id: newerVersionAlert
+  translation: "{{ . }} の新しいバージョンがあります！"
+
+# 404 page
+- id: pageNotFound
+  translation: "お探しのページは見つかりませんでした。 {{ . }} に戻ってみてください。"
+- id: pageNotFoundTitle
+  translation: "ページが見つかりません"
+- id: pageNotFoundHome
+  translation: "ホームページ"
+
+# Footer
+- id: copyright
+  translation: "著作権"
+- id: rights
+  translation: "All rights reserved"
+- id: poweredBy
+  translation: "Powered by {{ . }}."
+
+# Comments
+- id: show
+  translation: "表示"
+- id: comments
+  translation: "コメント"
+
+# Arguments
+- id: name
+  translation: "名前"
+- id: type
+  translation: "タイプ"
+- id: required
+  translation: "必須"
+- id: default
+  translation: "デフォルト"
+- id: comment
+  translation: "コメント"
+- id: supportedValues
+  translation: "サポートされている値"
+
+# Alerts
+- id: caution
+  translation: "注意"
+- id: important
+  translation: "重要"
+- id: note
+  translation: "備考"
+- id: tip
+  translation: "ヒント"
+- id: warning
+  translation: "警告"
+
+# Image
+- id: image
+  translation: "画像"
+
+# Nav & Tab
+- id: clickToExpand
+  translation: "クリックで展開"
+
+# Contact information
+- id: contactHeaderTopic
+  translation: "このトピックに興味がありますか？"
+- id: contactBody
+  translation: "連絡先を入力してください。"
+- id: contactAction
+  translation: "問い合わせる"

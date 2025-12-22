@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>1日3回放流 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/1%E6%97%A53%E5%9B%9E%E6%94%BE%E6%B5%81/</link>
-        <description>1日3回放流 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 11:22:48 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/1%E6%97%A53%E5%9B%9E%E6%94%BE%E6%B5%81/" rel="self" type="application/rss+xml" /><item>
-    <title>【和歌山県】海上釣堀 湯浅｜駅近アクセス良好・1日3回放流で釣果抜群完全ガイド</title>
-    <link>https://example.org/posts/kansai/yuasa-wakayama/</link>
-    <pubDate>Sun, 20 Jul 2025 11:22:48 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/kansai/yuasa-wakayama/</guid>
-    <description><![CDATA[海上釣堀 湯浅は和歌山県有田郡にあるJR湯浅駅から徒歩10分の好立地海上釣り堀。男性11,000円、女性7,500円の手頃な料金で10魚種が狙える。1日3回放流システムで常に新鮮な魚を投入。マダイ・カンパチ・クエ・マハタなど高級魚も豊富。電車アクセス可能な貴重な海上釣り堀。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1日3回放流 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/1%E6%97%A53%E5%9B%9E%E6%94%BE%E6%B5%81/</link>
+    <description>Recent content in 1日3回放流 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/1%E6%97%A53%E5%9B%9E%E6%94%BE%E6%B5%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【和歌山県】海上釣堀 湯浅｜駅近アクセス良好・1日3回放流で釣果抜群完全ガイド</title>
+      <link>http://localhost:1313/posts/kansai/yuasa-wakayama/</link>
+      <pubDate>Sun, 20 Jul 2025 11:22:48 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kansai/yuasa-wakayama/</guid>
+      <description>海上釣堀 湯浅は和歌山県有田郡にあるJR湯浅駅から徒歩10分の好立地海上釣り堀。男性11,000円、女性7,500円の手頃な料金で10魚種が狙える。1日3回放流システムで常に新鮮な魚を投入。マダイ・カンパチ・クエ・マハタなど高級魚も豊富。電車アクセス可能な貴重な海上釣り堀。</description>
+    </item>
+  </channel>
 </rss>

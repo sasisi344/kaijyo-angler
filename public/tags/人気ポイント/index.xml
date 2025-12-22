@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>人気ポイント - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%BA%BA%E6%B0%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</link>
-        <description>人気ポイント - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 04:31:39 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%BA%BA%E6%B0%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/" rel="self" type="application/rss+xml" /><item>
-    <title>【北海道】苫小牧港海釣り施設｜初心者から上級者まで満喫できる本格的な釣り場・アクセス情報</title>
-    <link>https://example.org/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</link>
-    <pubDate>Mon, 14 Jul 2025 04:31:39 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</guid>
-    <description><![CDATA[北海道・苫小牧港海釣り施設は、防波堤から本格的な海釣りが楽しめる人気スポット。サクラマス、カレイ、青物など季節ごとに様々な魚種が狙え、足場も安定しているため初心者も安心。3〜10月の土日祝限定で先着100名までという希少性も魅力。ライフジャケット着用必須で、基本料金は大人2,300円（入場料+駐車料）。早朝から開場するため、遠方からなら前日入りがおすすめ。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人気ポイント on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%BA%BA%E6%B0%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</link>
+    <description>Recent content in 人気ポイント on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BA%BA%E6%B0%97%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【北海道】苫小牧港海釣り施設｜初心者から上級者まで満喫できる本格的な釣り場・アクセス情報</title>
+      <link>http://localhost:1313/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</link>
+      <pubDate>Mon, 14 Jul 2025 04:31:39 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</guid>
+      <description>北海道・苫小牧港海釣り施設は、防波堤から本格的な海釣りが楽しめる人気スポット。サクラマス、カレイ、青物など季節ごとに様々な魚種が狙え、足場も安定しているため初心者も安心。3〜10月の土日祝限定で先着100名までという希少性も魅力。ライフジャケット着用必須で、基本料金は大人2,300円（入場料+駐車料）。早朝から開場するため、遠方からなら前日入りがおすすめ。</description>
+    </item>
+  </channel>
 </rss>

@@ -1,23 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>予約必須 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E4%BA%88%E7%B4%84%E5%BF%85%E9%A0%88/</link>
-        <description>予約必須 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 14:46:25 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E4%BA%88%E7%B4%84%E5%BF%85%E9%A0%88/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】釣り堀 正徳丸 | 高級魚が釣れる海上釣り堀・料金・アクセス情報</title>
-    <link>https://example.org/posts/chubu-taiheiyou/syoutokumaru-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 14:46:25 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/syoutokumaru-mie/</guid>
-    <description><![CDATA[三重県北牟婁郡紀北町にある「釣り堀 正徳丸」は、マダイ、シマアジ、カンパチ、ブリ、クエ、イシダイなどの高級魚が釣れる海上釣り堀です。営業時間は7:00〜14:00で月曜定休（荒天時中止の可能性あり）。料金は2025年4月1日から改定され、大人男性12,500円、大人女性10,500円、中学生8,500円、小学生5,500円で、貸切は小枠6名まで75,000円、大枠10名まで125,000円。貸竿2]]></description>
-</item>
-<item>
-    <title>【静岡県】海上釣り堀まるや | 高級魚が釣れる人気スポット・料金・アクセス情報</title>
-    <link>https://example.org/posts/chubu-taiheiyou/kaijyomaruya-shizuoka/</link>
-    <pubDate>Sun, 20 Jul 2025 14:11:38 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/kaijyomaruya-shizuoka/</guid>
-    <description><![CDATA[静岡県沼津市の足保漁港内にある「海上釣り堀まるや」は、マダイやブリなどの高級魚を釣り放題で楽しめる人気スポット。料金は大人13,700円（午後便11,200円）で、釣った魚はすべて持ち帰り可能。1日1回の放流があり、特に土日祝は予約が必須。釣具のレンタルもあるため初心者でも安心して利用できるが、針は1本針のみ使用可能でルアーや疑似餌は禁止。富士山と駿河湾の絶景を眺めながら釣りを楽しめる、静岡県を代]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>予約必須 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E4%BA%88%E7%B4%84%E5%BF%85%E9%A0%88/</link>
+    <description>Recent content in 予約必須 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BA%88%E7%B4%84%E5%BF%85%E9%A0%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】釣り堀 正徳丸 | 高級魚が釣れる海上釣り堀・料金・アクセス情報</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/syoutokumaru-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 14:46:25 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/syoutokumaru-mie/</guid>
+      <description>三重県北牟婁郡紀北町にある「釣り堀 正徳丸」は、マダイ、シマアジ、カンパチ、ブリ、クエ、イシダイなどの高級魚が釣れる海上釣り堀です。営業時間は7:00〜14:00で月曜定休（荒天時中止の可能性あり）。料金は2025年4月1日から改定され、大人男性12,500円、大人女性10,500円、中学生8,500円、小学生5,500円で、貸切は小枠6名まで75,000円、大枠10名まで125,000円。貸竿2</description>
+    </item>
+    <item>
+      <title>【静岡県】海上釣り堀まるや | 高級魚が釣れる人気スポット・料金・アクセス情報</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/kaijyomaruya-shizuoka/</link>
+      <pubDate>Sun, 20 Jul 2025 14:11:38 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/kaijyomaruya-shizuoka/</guid>
+      <description>静岡県沼津市の足保漁港内にある「海上釣り堀まるや」は、マダイやブリなどの高級魚を釣り放題で楽しめる人気スポット。料金は大人13,700円（午後便11,200円）で、釣った魚はすべて持ち帰り可能。1日1回の放流があり、特に土日祝は予約が必須。釣具のレンタルもあるため初心者でも安心して利用できるが、針は1本針のみ使用可能でルアーや疑似餌は禁止。富士山と駿河湾の絶景を眺めながら釣りを楽しめる、静岡県を代</description>
+    </item>
+  </channel>
 </rss>

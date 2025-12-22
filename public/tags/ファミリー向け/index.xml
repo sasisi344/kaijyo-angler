@@ -1,39 +1,41 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>ファミリー向け - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/</link>
-        <description>ファミリー向け - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 09 Oct 2025 05:04:09 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/" rel="self" type="application/rss+xml" /><item>
-    <title>海上釣り堀完全初心者ガイド【2025年版】知識ゼロから始める安心マニュアル</title>
-    <link>https://example.org/posts/beginner-guide-2025/</link>
-    <pubDate>Thu, 09 Oct 2025 05:04:09 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/beginner-guide-2025/</guid>
-    <description><![CDATA[初めて海上釣り堀を体験する人のための安心マニュアル。料金、準備、釣り方、安全対策までを丁寧に解説した2025年最新版です。]]></description>
-</item>
-<item>
-    <title>中国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
-    <link>https://example.org/posts/chugoku/chugoku-matome/</link>
-    <pubDate>Mon, 14 Jul 2025 05:04:41 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/chugoku-matome/</guid>
-    <description><![CDATA[瀬戸内海に面する中国地方の海上釣り堀・海釣り施設6箇所を徹底比較。広島県の離島釣り堀では14種類の高級魚が釣り放題で楽しめ、山口県の海釣り施設は家族連れに最適。料金は海上釣り堀平均8,500円、海釣り施設平均820円。ボウズ保証や充実したレンタル設備で初心者も安心。主要都市からのアクセス情報や宿泊施設データも完備し、釣り旅行の計画に最適な完全ガイドです。]]></description>
-</item>
-<item>
-    <title>【山口県】フィッシングパーク光 | リーズナブル＆手ぶらOK・ファミリーにやさしい安全な海釣り公園</title>
-    <link>https://example.org/posts/chugoku/fishingpark-hikari/</link>
-    <pubDate>Mon, 14 Jul 2025 05:02:20 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/fishingpark-hikari/</guid>
-    <description><![CDATA[山口県光市の「フィッシングパーク光」は、金網で覆われた安全な桟橋で気軽に海釣りが楽しめる公営施設です。料金は大人4時間690円と手頃で、貸竿も600円でレンタル可能。クロダイ、シーバス、アジ、メバルなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。季節により営業時間が変わり、夏季は朝5時から夜9時まで営業しているため、早朝や夕マズメ時の釣りも楽しめます。バリアフリー対応もされており]]></description>
-</item>
-<item>
-    <title>【山口県】下関フィッシングパーク | 初心者からファミリーまで楽しめる安全・手軽な海釣り施設</title>
-    <link>https://example.org/posts/chugoku/shimonoseki-park/</link>
-    <pubDate>Mon, 14 Jul 2025 05:01:02 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chugoku/shimonoseki-park/</guid>
-    <description><![CDATA[山口県下関市の「下関フィッシングパーク」は、金網で覆われた安全な桟橋で釣りが楽しめる海釣り施設です。料金は一般1日1,250円と手頃で、サビキ仕掛け付きのレンタル竿も1,000円で利用可能。アジやクロダイ、メバル、シーバスなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。投げ釣りやルアー釣りは禁止されていますが、サビキ釣りや胴付き仕掛けで十分に釣果が期待できます。季節によって営業時]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ファミリー向け on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/</link>
+    <description>Recent content in ファミリー向け on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>海上釣り堀完全初心者ガイド【2025年版】知識ゼロから始める安心マニュアル</title>
+      <link>http://localhost:1313/posts/beginner-guide-2025/</link>
+      <pubDate>Thu, 09 Oct 2025 05:04:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/beginner-guide-2025/</guid>
+      <description>初めて海上釣り堀を体験する人のための安心マニュアル。料金、準備、釣り方、安全対策までを丁寧に解説した2025年最新版です。</description>
+    </item>
+    <item>
+      <title>中国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
+      <link>http://localhost:1313/posts/chugoku/chugoku-matome/</link>
+      <pubDate>Mon, 14 Jul 2025 05:04:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/chugoku-matome/</guid>
+      <description>瀬戸内海に面する中国地方の海上釣り堀・海釣り施設6箇所を徹底比較。広島県の離島釣り堀では14種類の高級魚が釣り放題で楽しめ、山口県の海釣り施設は家族連れに最適。料金は海上釣り堀平均8,500円、海釣り施設平均820円。ボウズ保証や充実したレンタル設備で初心者も安心。主要都市からのアクセス情報や宿泊施設データも完備し、釣り旅行の計画に最適な完全ガイドです。</description>
+    </item>
+    <item>
+      <title>【山口県】フィッシングパーク光 | リーズナブル＆手ぶらOK・ファミリーにやさしい安全な海釣り公園</title>
+      <link>http://localhost:1313/posts/chugoku/fishingpark-hikari/</link>
+      <pubDate>Mon, 14 Jul 2025 05:02:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/fishingpark-hikari/</guid>
+      <description>山口県光市の「フィッシングパーク光」は、金網で覆われた安全な桟橋で気軽に海釣りが楽しめる公営施設です。料金は大人4時間690円と手頃で、貸竿も600円でレンタル可能。クロダイ、シーバス、アジ、メバルなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。季節により営業時間が変わり、夏季は朝5時から夜9時まで営業しているため、早朝や夕マズメ時の釣りも楽しめます。バリアフリー対応もされており</description>
+    </item>
+    <item>
+      <title>【山口県】下関フィッシングパーク | 初心者からファミリーまで楽しめる安全・手軽な海釣り施設</title>
+      <link>http://localhost:1313/posts/chugoku/shimonoseki-park/</link>
+      <pubDate>Mon, 14 Jul 2025 05:01:02 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chugoku/shimonoseki-park/</guid>
+      <description>山口県下関市の「下関フィッシングパーク」は、金網で覆われた安全な桟橋で釣りが楽しめる海釣り施設です。料金は一般1日1,250円と手頃で、サビキ仕掛け付きのレンタル竿も1,000円で利用可能。アジやクロダイ、メバル、シーバスなど様々な魚種が狙え、初心者からファミリーまで幅広い層に人気です。投げ釣りやルアー釣りは禁止されていますが、サビキ釣りや胴付き仕掛けで十分に釣果が期待できます。季節によって営業時</description>
+    </item>
+  </channel>
 </rss>

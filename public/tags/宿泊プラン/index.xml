@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>宿泊プラン - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E5%AE%BF%E6%B3%8A%E3%83%97%E3%83%A9%E3%83%B3/</link>
-        <description>宿泊プラン - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 13:55:21 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E5%AE%BF%E6%B3%8A%E3%83%97%E3%83%A9%E3%83%B3/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】はさま浦釣り堀センター | 宿泊プラン充実・マダイ1匹保証の老舗海上釣り堀</title>
-    <link>https://example.org/posts/chubu-taiheiyou/hasamaturicen-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 13:55:21 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/hasamaturicen-mie/</guid>
-    <description><![CDATA[三重県南伊勢町のはさま浦釣り堀センターは、併設民宿での「お泊り釣り堀プラン」が最大の特徴。午前の部ではマダイ1匹保証があり初心者も安心。大人13,000円で釣り放題、女性・子供は割引料金。マダイ・ブリ・カンパチ・シマアジなど多彩な魚種が狙える。貸切プランでは魚種指定や放流数倍増も可能。早朝6時開始のため宿泊プランがおすすめ。リアス式海岸の美しい景観も魅力。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宿泊プラン on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E5%AE%BF%E6%B3%8A%E3%83%97%E3%83%A9%E3%83%B3/</link>
+    <description>Recent content in 宿泊プラン on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AE%BF%E6%B3%8A%E3%83%97%E3%83%A9%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】はさま浦釣り堀センター | 宿泊プラン充実・マダイ1匹保証の老舗海上釣り堀</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/hasamaturicen-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 13:55:21 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/hasamaturicen-mie/</guid>
+      <description>三重県南伊勢町のはさま浦釣り堀センターは、併設民宿での「お泊り釣り堀プラン」が最大の特徴。午前の部ではマダイ1匹保証があり初心者も安心。大人13,000円で釣り放題、女性・子供は割引料金。マダイ・ブリ・カンパチ・シマアジなど多彩な魚種が狙える。貸切プランでは魚種指定や放流数倍増も可能。早朝6時開始のため宿泊プランがおすすめ。リアス式海岸の美しい景観も魅力。</description>
+    </item>
+  </channel>
 </rss>

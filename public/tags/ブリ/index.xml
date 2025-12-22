@@ -1,15 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>ブリ - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E3%83%96%E3%83%AA/</link>
-        <description>ブリ - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 08 Sep 2025 17:30:26 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E3%83%96%E3%83%AA/" rel="self" type="application/rss+xml" /><item>
-    <title>海上釣り堀での青物（ブリ・ヒラマサ）釣り完全攻略法</title>
-    <link>https://example.org/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</link>
-    <pubDate>Mon, 08 Sep 2025 17:30:26 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</guid>
-    <description><![CDATA[海上釣り堀で青物を狙う際の泳がせ釣り・脈釣りのコツ、タックル選択、強烈な引きへの対処法を初心者向けに詳しく解説]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ブリ on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E3%83%96%E3%83%AA/</link>
+    <description>Recent content in ブリ on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Sat, 01 Nov 2025 08:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【関西・中部編】青物ラストチャンス！11月に狙うブリ・ヒラマサの釣り堀ガイド</title>
+      <link>http://localhost:1313/posts/season-post/11/kansai-chubu-november-bluefin-guide/</link>
+      <pubDate>Sat, 01 Nov 2025 08:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/season-post/11/kansai-chubu-november-bluefin-guide/</guid>
+      <description>&lt;p&gt;関西～中部の海上釣り堀は、11月が青物シーズンの締めくくり。ブリやヒラマサが最も脂を蓄えるこの時期、放流イベントや釣果上位施設を狙えば、大物ヒットの可能性が高まります。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>海上釣り堀での青物（ブリ・ヒラマサ）釣り完全攻略法</title>
+      <link>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</link>
+      <pubDate>Mon, 08 Sep 2025 17:30:26 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</guid>
+      <description>海上釣り堀で青物を狙う際の泳がせ釣り・脈釣りのコツ、タックル選択、強烈な引きへの対処法を初心者向けに詳しく解説</description>
+    </item>
+  </channel>
 </rss>

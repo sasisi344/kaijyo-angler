@@ -1,0 +1,21 @@
+comment: >-
+  Prepares a toast message. Use a trigger to display the message.
+arguments:
+  title:
+    release: v1.0.0
+  id:
+  class:
+  message:
+    group: partial
+  # deprecated arguments
+  header:
+    type: string
+    optional: true
+    comment: Header of the toast message. Uses the site title by default.
+    deprecated: v1.0.0
+    alternative: title
+body:
+  type: string
+  optional: false
+  comment: Toast mesage.
+  group: shortcode

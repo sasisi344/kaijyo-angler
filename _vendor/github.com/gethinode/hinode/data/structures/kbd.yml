@@ -1,0 +1,17 @@
+comment: Adds a keyboard input element.
+arguments:
+  text:
+    optional: true
+    position: 0
+    release: v1.0.0
+  class:
+  color:
+  # deprecated arguments
+  title:
+    type: select
+    optional: true
+    comment: >-
+      Title of the keyboard input. In shorthand notation, this is the first (and
+      only) matched argument.
+    deprecated: v1.0.0
+    alternative: text

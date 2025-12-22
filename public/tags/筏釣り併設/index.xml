@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>筏釣り併設 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E7%AD%8F%E9%87%A3%E3%82%8A%E4%BD%B5%E8%A8%AD/</link>
-        <description>筏釣り併設 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 20 Jul 2025 14:25:34 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E7%AD%8F%E9%87%A3%E3%82%8A%E4%BD%B5%E8%A8%AD/" rel="self" type="application/rss+xml" /><item>
-    <title>【三重県】相差海釣センター（おうさつ） | 海上釣り堀と筏釣りの両方が楽しめる鳥羽の総合海釣り施設</title>
-    <link>https://example.org/posts/chubu-taiheiyou/ousatsuturi-mie/</link>
-    <pubDate>Sun, 20 Jul 2025 14:25:34 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/chubu-taiheiyou/ousatsuturi-mie/</guid>
-    <description><![CDATA[三重県鳥羽市相差町にある「相差海釣センター」は、5,000円（4時間）・10,000円（8時間）の格安料金で海上釣り堀を楽しめる施設です。マダイ、イシダイ、ヒラメ、カンパチが釣れ、ボウズ補填サービス付きで初心者も安心。筏釣りも併設し天然大物も狙えます。石神さんで有名な相差町に位置し、釣りと観光を組み合わせた旅行プランに最適。名古屋から2時間、大阪から2時間半とアクセス良好で、伊勢志摩エリア屈指のコ]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>筏釣り併設 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E7%AD%8F%E9%87%A3%E3%82%8A%E4%BD%B5%E8%A8%AD/</link>
+    <description>Recent content in 筏釣り併設 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%AD%8F%E9%87%A3%E3%82%8A%E4%BD%B5%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【三重県】相差海釣センター（おうさつ） | 海上釣り堀と筏釣りの両方が楽しめる鳥羽の総合海釣り施設</title>
+      <link>http://localhost:1313/posts/chubu-taiheiyou/ousatsuturi-mie/</link>
+      <pubDate>Sun, 20 Jul 2025 14:25:34 +0900</pubDate>
+      <guid>http://localhost:1313/posts/chubu-taiheiyou/ousatsuturi-mie/</guid>
+      <description>三重県鳥羽市相差町にある「相差海釣センター」は、5,000円（4時間）・10,000円（8時間）の格安料金で海上釣り堀を楽しめる施設です。マダイ、イシダイ、ヒラメ、カンパチが釣れ、ボウズ補填サービス付きで初心者も安心。筏釣りも併設し天然大物も狙えます。石神さんで有名な相差町に位置し、釣りと観光を組み合わせた旅行プランに最適。名古屋から2時間、大阪から2時間半とアクセス良好で、伊勢志摩エリア屈指のコ</description>
+    </item>
+  </channel>
 </rss>

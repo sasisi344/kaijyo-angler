@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>直島 - tag - Kaijyo Fishing</title>
-        <link>https://example.org/tags/%E7%9B%B4%E5%B3%B6/</link>
-        <description>直島 - tag - Kaijyo Fishing</description>
-        <generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 14 Jul 2025 05:31:12 &#43;0900</lastBuildDate><atom:link href="https://example.org/tags/%E7%9B%B4%E5%B3%B6/" rel="self" type="application/rss+xml" /><item>
-    <title>【香川県】直島つり公園 | 入園料わずか100円！アート島で味わう本格海釣り体験</title>
-    <link>https://example.org/posts/shikoku/naoshima-turikouen/</link>
-    <pubDate>Mon, 14 Jul 2025 05:31:12 &#43;0900</pubDate>
-    <author>Kaijyo Fishing</author>
-    <guid>https://example.org/posts/shikoku/naoshima-turikouen/</guid>
-    <description><![CDATA[アートの島として世界的に有名な香川県の直島にある「直島つり公園」は、入園料わずか100円という驚きの手軽さで本格的な海釣りが楽しめる施設です。かつては生簀を使った釣り堀でしたが、現在は自然の海を舞台にした海釣り施設として生まれ変わりました。竿のレンタルやエサの販売もあるので手ぶらでも大丈夫。シーバスやアオリイカなど様々な魚種が狙え、釣りのスキルに関わらず誰でも楽しめます。]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>直島 on Kaijyo Fishing</title>
+    <link>http://localhost:1313/tags/%E7%9B%B4%E5%B3%B6/</link>
+    <description>Recent content in 直島 on Kaijyo Fishing</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%9B%B4%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【香川県】直島つり公園 | 入園料わずか100円！アート島で味わう本格海釣り体験</title>
+      <link>http://localhost:1313/posts/shikoku/naoshima-turikouen/</link>
+      <pubDate>Mon, 14 Jul 2025 05:31:12 +0900</pubDate>
+      <guid>http://localhost:1313/posts/shikoku/naoshima-turikouen/</guid>
+      <description>アートの島として世界的に有名な香川県の直島にある「直島つり公園」は、入園料わずか100円という驚きの手軽さで本格的な海釣りが楽しめる施設です。かつては生簀を使った釣り堀でしたが、現在は自然の海を舞台にした海釣り施設として生まれ変わりました。竿のレンタルやエサの販売もあるので手ぶらでも大丈夫。シーバスやアオリイカなど様々な魚種が狙え、釣りのスキルに関わらず誰でも楽しめます。</description>
+    </item>
+  </channel>
 </rss>
