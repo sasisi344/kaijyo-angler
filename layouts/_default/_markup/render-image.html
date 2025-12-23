@@ -1,0 +1,46 @@
+{{- /* Determine the image source */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- $isRemote := or $u.Scheme (strings.HasPrefix $src "//") -}}
+
+{{- /* Initialize variables */ -}}
+{{- $img := "" -}}
+{{- $width := "" -}}
+{{- $height := "" -}}
+{{- $title := .Title -}}
+{{- $alt := .Text -}}
+
+{{- if not $isRemote -}}
+  {{- /* Attempt to find the image resource */ -}}
+  {{- $img = .Page.Resources.GetMatch $src -}}
+  {{- if not $img -}}
+    {{- /* Try global resources if not in page bundle */ -}}
+    {{- $img = resources.GetMatch $src -}}
+  {{- end -}}
+  
+  {{- if $img -}}
+    {{- /* Image Processing */ -}}
+    {{- if eq $img.MediaType.SubType "svg" -}}
+      {{- /* Skip processing for SVG */ -}}
+    {{- else -}}
+      {{- /* Auto conversion to WebP and resizing if needed */ -}}
+      {{- /* Note: Adjust resizing logic as per requirements. Here we just convert to WebP/ensure optimization */ -}}
+      {{- $img = $img.Process "webp" -}}
+    {{- end -}}
+    
+    {{- /* Get Dimensions */ -}}
+    {{- $width = $img.Width -}}
+    {{- $height = $img.Height -}}
+    {{- $src = $img.RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+
+<img src="{{ $src | safeURL }}"
+  {{- with $alt }} alt="{{ . }}"{{ end -}}
+  {{- with $title }} title="{{ . }}"{{ end -}}
+  {{- with $width }} width="{{ . }}"{{ end -}}
+  {{- with $height }} height="{{ . }}"{{ end -}}
+  loading="lazy"
+  decoding="async"
+  class="img-fluid" 
+/>

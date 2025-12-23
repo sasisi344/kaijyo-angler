@@ -2,3 +2,13 @@
   name = "Home"
   pageRef = "/"
   weight = 10
+
+[[main]]
+  name = "海上釣り堀"
+  url = "/tags/海上釣り堀/"
+  weight = 20
+
+[[main]]
+  name = "海釣り施設"
+  url = "/tags/海釣り施設/"
+  weight = 30

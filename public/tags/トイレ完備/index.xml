@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>トイレ完備 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E3%83%88%E3%82%A4%E3%83%AC%E5%AE%8C%E5%82%99/</link>
-    <description>Recent content in トイレ完備 on Kaijyo Fishing</description>
+    <title>トイレ完備 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E3%83%88%E3%82%A4%E3%83%AC%E5%AE%8C%E5%82%99/</link>
+    <description>Recent content in トイレ完備 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%88%E3%82%A4%E3%83%AC%E5%AE%8C%E5%82%99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E3%83%88%E3%82%A4%E3%83%AC%E5%AE%8C%E5%82%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【新潟県】新潟東港第2東防波堤管理釣り場|シーバス・青物狙いのルアーフィッシング天国</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/niigatahigasi-bouhatei/</link>
-      <pubDate>Thu, 17 Jul 2025 09:12:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/niigatahigasi-bouhatei/</guid>
-      <description>新潟東港第2東防波堤管理釣り場はNPO法人ハッピーフィッシングが運営する海釣り施設。入場料1,500円、3～10月の日の出から日の入りまで営業。シーバスや青物（サゴシ・ブリなど）が人気のターゲットで、ショアジギングなどルアー釣りが盛ん。タックルレンタル（3,000円）あり、ライフジャケット着用義務（500円でレンタル可）。年間パス48,000円もあり、常連向け。</description>
-    </item>
-    <item>
-      <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
-      <link>http://localhost:1313/posts/shikoku/turiikada-fukaura/</link>
-      <pubDate>Mon, 14 Jul 2025 05:26:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/turiikada-fukaura/</guid>
-      <description>高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中</description>
+      <title>【三重県】鵜方浜釣センター｜チヌ師の聖地！屋根・トイレ完備の快適筏で「年無し」に挑む</title>
+      <link>http://localhost:50243/mie/ugata-hamatsuri-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/ugata-hamatsuri-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀の養殖魚じゃ満足できない」&lt;/strong&gt;&#xA;&lt;strong&gt;「自分の腕で、警戒心の強い野生のクロダイを仕留めたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

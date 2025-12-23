@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nagasakis on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/nagasaki/</link>
+    <description>Recent content in Nagasakis on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <atom:link href="http://localhost:50243/nagasaki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ジャンボフィッシング村</title>
+      <link>http://localhost:50243/nagasaki/jumbo-fishing-mura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/nagasaki/jumbo-fishing-mura/</guid>
+      <description>&lt;p&gt;長崎県佐世保市にあるジャンボフィッシング村は、全国でも珍しい「リリース可能」な海上釣り堀として注目を集めています。予約不要で気軽に立ち寄れる利便性と、釣った魚を自由にリリースできる環境保護への配慮が特徴的な施設です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>迎パールマリン釣り紀行</title>
+      <link>http://localhost:50243/nagasaki/mukai-pearl-marine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/nagasaki/mukai-pearl-marine/</guid>
+      <description>&lt;p&gt;長崎県佐世保市にある迎パールマリン釣り紀行は、全国でも珍しい「移動式イカダ」による釣り体験を提供する海釣り施設です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>高島飛島磯釣り公園</title>
+      <link>http://localhost:50243/nagasaki/takashima-tobishima-isotsuri-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/nagasaki/takashima-tobishima-isotsuri-park/</guid>
+      <description>&lt;p&gt;長崎県長崎市の高島にある高島飛島磯釣り公園は、離島ならではの豊かな海洋環境で本格的な磯釣りが楽しめる海釣り施設です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新上五島町海上釣り堀</title>
+      <link>http://localhost:50243/nagasaki/shinkamigoto-sea-fishing-pond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/nagasaki/shinkamigoto-sea-fishing-pond/</guid>
+      <description>&lt;p&gt;長崎県五島列島の新上五島町にある海上釣り堀は、美しい離島の自然環境で本格的な釣り体験ができる観光型釣り施設です。1時間4,500円の時間制料金で、ヒラマサ・クエ・マダイなど9種類の高級魚が狙えます。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>釣り堀ハマカツ</title>
+      <link>http://localhost:50243/nagasaki/tsuribori-hamakatsu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/nagasaki/tsuribori-hamakatsu/</guid>
+      <description>&lt;p&gt;九州で本格的な海上釣り堀体験をお探しなら、長崎県松浦市にある釣り堀ハマカツがおすすめです。ブリやマダイをはじめとする13種類もの魚種が狙える充実した施設で、初心者から上級者まで満足できる海上釣り堀として高い評価を得ています。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

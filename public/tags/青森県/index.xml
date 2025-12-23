@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>青森県 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E9%9D%92%E6%A3%AE%E7%9C%8C/</link>
-    <description>Recent content in 青森県 on Kaijyo Fishing</description>
+    <title>青森県 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E9%9D%92%E6%A3%AE%E7%9C%8C/</link>
+    <description>Recent content in 青森県 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%9D%92%E6%A3%AE%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E9%9D%92%E6%A3%AE%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【青森県】浅虫海釣り公園｜手軽な料金・四季の魚種・初心者も安心の海釣り体験</title>
-      <link>http://localhost:1313/posts/tohoku/asamushi-tsuri/</link>
-      <pubDate>Wed, 16 Jul 2025 10:18:27 +0900</pubDate>
-      <guid>http://localhost:1313/posts/tohoku/asamushi-tsuri/</guid>
-      <description>青森県青森市の浅虫温泉地区に位置する海釣り施設です。陸奥湾に面した釣りスポットで、サビキ釣りでアジやイワシが狙えるほか、季節によってはヒラメやソイなども釣れます。温泉地に近接しており、釣りと入浴を組み合わせた観光も可能。手軽な釣り体験を提供する施設で、初心者から家族連れまで幅広い層に人気があります。トイレや休憩所も完備されており、アクセスも便利です。再試行Claudeは間違えることがあります。回答</description>
+      <link>http://localhost:50243/aomori/asamushi-sea-fishing-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/aomori/asamushi-sea-fishing-park/</guid>
+      <description>&lt;p&gt;青森市内から車で約30分、浅虫温泉の近くに位置する「浅虫海釣り公園」は、東北の豊かな海の幸を手軽に釣り上げられる人気スポットです。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

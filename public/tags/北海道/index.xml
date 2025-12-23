@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>北海道 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E5%8C%97%E6%B5%B7%E9%81%93/</link>
-    <description>Recent content in 北海道 on Kaijyo Fishing</description>
+    <title>北海道 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E5%8C%97%E6%B5%B7%E9%81%93/</link>
+    <description>Recent content in 北海道 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%8C%97%E6%B5%B7%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E5%8C%97%E6%B5%B7%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【北海道】苫小牧港海釣り施設｜初心者から上級者まで満喫できる本格的な釣り場・アクセス情報</title>
-      <link>http://localhost:1313/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</link>
-      <pubDate>Mon, 14 Jul 2025 04:31:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/hokkaido/sea-fishing-facility/tomakomai-umiduri/</guid>
-      <description>北海道・苫小牧港海釣り施設は、防波堤から本格的な海釣りが楽しめる人気スポット。サクラマス、カレイ、青物など季節ごとに様々な魚種が狙え、足場も安定しているため初心者も安心。3〜10月の土日祝限定で先着100名までという希少性も魅力。ライフジャケット着用必須で、基本料金は大人2,300円（入場料+駐車料）。早朝から開場するため、遠方からなら前日入りがおすすめ。</description>
+      <title>【休止中】勇払マリーナ海上釣り堀｜北海道初！幻の海上釣り堀の記録と今後の展望</title>
+      <link>http://localhost:50243/other/facility-4bd093fd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/other/facility-4bd093fd/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;※本記事で紹介する「勇払マリーナ海上釣り堀」は、現在営業を休止しています。以下の情報はプレオープン時の記録となります。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【北海道】苫小牧港海釣り施設（一本防波堤）｜サクラマスも狙える！定員100名の人気釣り場攻略ガイド</title>
+      <link>http://localhost:50243/hokkaido/tomakomai-port-sea-fishing-facility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/hokkaido/tomakomai-port-sea-fishing-facility/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;※2025年の営業情報については、必ず春先に公式サイトを確認してください。例年3月〜4月頃にオープンします。&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

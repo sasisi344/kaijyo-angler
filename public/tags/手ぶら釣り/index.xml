@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>手ぶら釣り on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E6%89%8B%E3%81%B6%E3%82%89%E9%87%A3%E3%82%8A/</link>
-    <description>Recent content in 手ぶら釣り on Kaijyo Fishing</description>
+    <title>手ぶら釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E6%89%8B%E3%81%B6%E3%82%89%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in 手ぶら釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%89%8B%E3%81%B6%E3%82%89%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E6%89%8B%E3%81%B6%E3%82%89%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>手ぶらで海上釣り堀はOK？レンタルできる道具と揃えておきたいもの</title>
-      <link>http://localhost:1313/posts/tebura-kaijyi-itemprice-matome/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/tebura-kaijyi-itemprice-matome/</guid>
-      <description>海上釣り堀は手ぶらでも楽しめます！全国の約90%の施設で釣り竿・リール・仕掛けなどの基本道具をレンタル可能。料金相場は竿1,000～2,000円、仕掛け300～500円程度。ただし日焼け止め・飲み物・タオルは必須の持参品です。初心者向けのおすすめ施設10選と、レンタルvs持参のメリット比較も紹介。事前予約で道具を確保し、適切な服装で海上釣り堀デビューを成功させましょう。</description>
+      <title>【高知県】海上釣り堀 幸丸｜高級魚釣り放題1.3万円 or 確実な1匹5,000円？選べる2つのコース</title>
+      <link>http://localhost:50243/kochi/kaijo-tsuribori-yukimaru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/kochi/kaijo-tsuribori-yukimaru/</guid>
+      <description>&lt;p&gt;高知市から車で約40分。穏やかな浦ノ内湾に浮かぶ**「海上釣り堀 幸丸（さちまる）」**は、初心者から上級者まで、あらゆる釣り人のニーズに応えてくれる懐の深い釣り堀です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

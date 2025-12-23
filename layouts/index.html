@@ -1,0 +1,143 @@
+{{ define "main" }}
+{{- $page := . -}}
+{{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+{{- $hasSidebar := site.Params.navigation.sidebar | default true -}}
+{{- $pageTitle := .Page.Title }}
+{{ if and site.Params.main.titleCase (not .Page.Params.exact) }}{{ $pageTitle = title $pageTitle }}{{ end }}
+
+<div class="container-xxl flex-fill p-4 px-xxl-0">
+    <div class="row row-cols-1 row-cols-{{ $breakpoint.prev }}-{{ if $hasSidebar }}3{{ else }}2{{ end }}">
+        {{ if $hasSidebar }}<div class="col col-{{ $breakpoint.current }}-2 d-none d-{{ $breakpoint.current }}-block">
+        </div>{{ end }}
+        <div class="col col-{{ $breakpoint.prev }}-12 col-{{ $breakpoint.current }}-8">
+
+            <p class="display-4 mt-5">{{ $pageTitle }}</p>
+
+            {{/* Content from _index.md */}}
+            <div class="content mb-5">
+                {{ .Content }}
+            </div>
+
+            {{/* List Pages (Section/Term pages) - Grouped by Facility Type */}}
+            {{ $pages := site.RegularPages }}
+
+            {{/* Define Groups with Tag Fallback */}}
+            {{ $marinePonds := slice }}
+            {{ $seaFacilities := slice }}
+            {{ $others := slice }}
+
+            {{ range $pages }}
+            {{ $type := .Params.facilityType }}
+
+            {{/* Fallback detection using Tags */}}
+            {{ if not $type }}
+            {{ if or (in .Params.tags "海上釣り堀") (in .Params.tags "陸上釣り堀") }}
+            {{ $type = "marine-fishing-pond" }}
+            {{ else if or (in .Params.tags "海釣り公園") (in .Params.tags "海釣り施設") }}
+            {{ $type = "sea-fishing-facility" }}
+            {{ end }}
+            {{ end }}
+
+            {{ if eq $type "marine-fishing-pond" }}
+            {{ $marinePonds = $marinePonds | append . }}
+            {{ else if eq $type "sea-fishing-facility" }}
+            {{ $seaFacilities = $seaFacilities | append . }}
+            {{ else }}
+            {{ $others = $others | append . }}
+            {{ end }}
+            {{ end }}
+
+            {{ if $marinePonds }}
+            <h3 class="mt-5 mb-3 border-bottom pb-2">海上釣り堀 (Marine Fishing Ponds)</h3>
+            <div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+                {{ range first 10 $marinePonds }}
+                {{ template "local-list-item" (dict "item" . "breakpoint" $breakpoint "ctx" $) }}
+                {{ end }}
+            </div>
+            {{ end }}
+
+            {{ if $seaFacilities }}
+            <h3 class="mt-5 mb-3 border-bottom pb-2">海釣り施設 (Sea Fishing Facilities)</h3>
+            <div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+                {{ range first 10 $seaFacilities }}
+                {{ template "local-list-item" (dict "item" . "breakpoint" $breakpoint "ctx" $) }}
+                {{ end }}
+            </div>
+            {{ end }}
+
+            {{ if $others }}
+            <h3 class="mt-5 mb-3 border-bottom pb-2">その他 (Others)</h3>
+            <div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+                {{ range first 10 $others }}
+                {{ template "local-list-item" (dict "item" . "breakpoint" $breakpoint "ctx" $) }}
+                {{ end }}
+            </div>
+            {{ end }}
+
+            {{ if and (not $marinePonds) (not $seaFacilities) (not $others) }}
+            <p class="pt-4">{{ T "no_content" | default "No articles found." }}</p>
+            {{ end }}
+
+        </div>
+        <div class="col col-{{ $breakpoint.current }}-2 d-none d-{{ $breakpoint.current }}-block"></div>
+    </div>
+</div>
+{{ end }}
+
+{{/* Helper Template: Card Layout */}}
+{{ define "local-list-item" }}
+{{ $item := .item }}
+{{ $title := $item.Title }}
+{{ if and site.Params.main.titleCase (not $item.Params.exact) }}{{ $title = title $title }}{{ end }}
+
+{{/* Image Lookup */}}
+{{ $img := "" }}
+{{ if $item.Params.thumbnail }}
+{{ $img = $item.Params.thumbnail }}
+{{ else if $item.Params.images }}
+{{ $img = index $item.Params.images 0 }}
+{{ else }}
+{{ $res := $item.Resources.GetMatch "feature*" }}
+{{ if not $res }}{{ $res = $item.Resources.GetMatch "cover*" }}{{ end }}
+{{ if not $res }}{{ $res = $item.Resources.GetMatch "*image*" }}{{ end }}
+{{ if $res }}{{ $img = $res.RelPermalink }}{{ end }}
+{{ end }}
+
+<div class="col">
+    <div class="card h-100 shadow-sm border-0">
+        {{ if $img }}
+        <a href="{{ $item.RelPermalink }}" aria-label="{{ $title }}">
+            <img src="{{ $img | safeURL }}" class="card-img-top object-fit-cover" alt="{{ $title }}"
+                style="height: 200px; width: 100%;">
+        </a>
+        {{ else }}
+        {{/* Placeholder or just text only if no image */}}
+        {{ end }}
+        <div class="card-body d-flex flex-column">
+            <h5 class="card-title h6 fw-bold">
+                <a href="{{ $item.RelPermalink }}" class="text-decoration-none text-reset">
+                    {{ if $item.Draft }}{{ T "draft" | upper }}: {{ end }}
+                    {{ $title }}
+                </a>
+            </h5>
+            <div class="card-text small text-muted mb-2">
+                {{ with $item.Date }}
+                <i class="fas fa-calendar-alt me-1"></i>
+                {{ (partial "utilities/date.html" (dict "date" . "format" "medium")) }}
+                {{ end }}
+                {{ if $item.Params.prefecture }}
+                &nbsp;|&nbsp; <i class="fas fa-map-marker-alt me-1"></i> {{ $item.Params.prefecture | humanize }}
+                {{ end }}
+            </div>
+            <p class="card-text text-secondary flex-grow-1" style="font-size: 0.85rem;">
+                {{- $desc := $item.Params.description | default $item.Summary -}}
+                {{- $desc | truncate 140 -}}
+            </p>
+            <div class="mt-auto pt-3">
+                <a href="{{ $item.RelPermalink }}" class="btn btn-outline-primary btn-sm w-100 stretched-link">{{ T
+                    "read_more" | default "Read More" }}</a>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

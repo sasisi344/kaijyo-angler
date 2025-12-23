@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>防波堤 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/</link>
-    <description>Recent content in 防波堤 on Kaijyo Fishing</description>
+    <title>防波堤 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/</link>
+    <description>Recent content in 防波堤 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E9%98%B2%E6%B3%A2%E5%A0%A4/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【新潟県】直江津港第3東防波堤管理釣り場|大型魚も狙える人気の防波堤釣りスポット</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/naoetu-bouhatei/</link>
-      <pubDate>Thu, 17 Jul 2025 09:10:59 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/naoetu-bouhatei/</guid>
-      <description>【新潟県上越市】直江津港第3東防波堤管理釣り場はNPO法人ハッピーフィッシングが運営する人気の海釣り施設。入場料1,500円、3～10月の日の出から日の入りまで営業。マダイ・クロダイ・シーバス・ヒラメなど大型魚の釣果報告が多く、人気スポット。週末・祝日は混雑するため入場予約サービスあり。ライフジャケット着用義務(500円でレンタル可)。年間パス48,000円も提供。</description>
+      <title>【新潟県】新潟東港第2東防波堤管理釣り場｜サワラ・ブリが狙える！ルアーマンの聖地</title>
+      <link>http://localhost:50243/niigata/niigata-east-port-2nd-east-breakwater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/niigata/niigata-east-port-2nd-east-breakwater/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「陸から手軽に青物を釣りたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「管理された安全な場所で、思いっきりルアーを投げたい」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【新潟県】直江津港第3東防波堤管理釣り場｜マダイ・クロダイの大物実績多数！全国屈指の人気堤防</title>
+      <link>http://localhost:50243/niigata/naoetsu-port-3rd-east-breakwater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/niigata/naoetsu-port-3rd-east-breakwater/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「船に乗らなくても、大きなマダイを釣ってみたい…」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族を連れて行きたいけど、磯やテトラポットは危ないし…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

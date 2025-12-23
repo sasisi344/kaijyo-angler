@@ -1,69 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ボウズ保証 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E3%83%9C%E3%82%A6%E3%82%BA%E4%BF%9D%E8%A8%BC/</link>
-    <description>Recent content in ボウズ保証 on Kaijyo Fishing</description>
+    <title>ボウズ保証 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E3%83%9C%E3%82%A6%E3%82%BA%E4%BF%9D%E8%A8%BC/</link>
+    <description>Recent content in ボウズ保証 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%9C%E3%82%A6%E3%82%BA%E4%BF%9D%E8%A8%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E3%83%9C%E3%82%A6%E3%82%BA%E4%BF%9D%E8%A8%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>海上釣り堀で「釣れなかったらどうしよう」という不安を完全解消する方法</title>
-      <link>http://localhost:1313/posts/kaijyo-turenainayami/</link>
-      <pubDate>Tue, 19 Aug 2025 04:26:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kaijyo-turenainayami/</guid>
-      <description>&lt;p&gt;海上釣り堀に初めて挑戦する時、多くの人が抱く心配事があります。それは「高いお金を払ったのに、1匹も釣れなかったらどうしよう」という不安です。&lt;/p&gt;</description>
+      <title>【三重県】海上釣堀モンキー｜3時間から遊べる！BBQも楽しめる鳥羽の手ぶら釣り堀</title>
+      <link>http://localhost:50243/mie/kaijo-tsuribori-monkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/kaijo-tsuribori-monkey/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀って朝早くて夕方まで…ちょっと長すぎる」&lt;/strong&gt;&#xA;&lt;strong&gt;「釣った魚、家で捌けないからその場で食べたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【三重県】相差海釣センター（おうさつ） | 海上釣り堀と筏釣りの両方が楽しめる鳥羽の総合海釣り施設</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/ousatsuturi-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 14:25:34 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/ousatsuturi-mie/</guid>
-      <description>三重県鳥羽市相差町にある「相差海釣センター」は、5,000円（4時間）・10,000円（8時間）の格安料金で海上釣り堀を楽しめる施設です。マダイ、イシダイ、ヒラメ、カンパチが釣れ、ボウズ補填サービス付きで初心者も安心。筏釣りも併設し天然大物も狙えます。石神さんで有名な相差町に位置し、釣りと観光を組み合わせた旅行プランに最適。名古屋から2時間、大阪から2時間半とアクセス良好で、伊勢志摩エリア屈指のコ</description>
-    </item>
-    <item>
-      <title>【三重県】海上釣堀モンキー | 柔軟な時間設定と充実のサービスで初心者から上級者まで楽しめる鳥羽の海上釣り堀</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/turiborimonkey-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 14:17:50 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/turiborimonkey-mie/</guid>
-      <description>三重県鳥羽市の「海上釣堀モンキー」は柔軟な時間選択が魅力の海上釣り堀。3時間コース（大人5,500円）と1日コース（大人11,000円）から選択でき、1時間ごとの延長も可能。女性・子供は半額料金で家族に優しい。マダイ・ワラサ・シマアジ・イシダイなど多彩な魚種が釣れ、ボウズ補填制度で初心者も安心。直営BBQ施設で釣魚をその場で味わえる。鳥羽観光との組み合わせにも最適な総合レジャー施設。</description>
-    </item>
-    <item>
-      <title>【和歌山県】雑賀崎シーパーク｜チョイ釣りも楽しめるバリアフリー海上釣り堀完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/saigasaki-park/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:47 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/saigasaki-park/</guid>
-      <description>雑賀崎シーパークは和歌山市にあるバリアフリー対応の海上釣り堀。陸から桟橋で渡れるため車椅子でも利用可能で船酔いの心配なし。本格釣堀13,200円とチョイ釣り2,200円の2コース制。ボウズ保証付きでマダイ・ブリ・カンパチが狙える。和歌山市内から20分の好アクセス。</description>
-    </item>
-    <item>
-      <title>【大阪府】海上釣り堀オーパ｜ボウズ保証あり・プレミアムコース・大物釣り放題ガイド</title>
-      <link>http://localhost:1313/posts/kansai/oska-oopa/</link>
-      <pubDate>Sun, 20 Jul 2025 11:12:48 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/oska-oopa/</guid>
-      <description>大阪府岬町の海上釣り堀オーパは安心のボウズ保証付き海上釣堀施設。一般コース12,100円、プレミアムなオーパコース16,500円で選択可能。女性8,800円、子供6,600円の優遇料金あり。マダイ・青物が釣り放題で初心者も安心。</description>
+      <title>【三重県】相差海釣センター｜1万円以下！鳥羽随一のコスパと安心のボウズ保証</title>
+      <link>http://localhost:50243/mie/ousatsu-sea-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/ousatsu-sea-fishing-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀に行きたいけど、1万円以上はちょっと高い…」&lt;/strong&gt;&#xA;&lt;strong&gt;「もし1匹も釣れなかったら、お金の無駄になりそう」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【和歌山県】釣堀紀州｜アクセス良好・ボウズ保証付き完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/turibori-kisyu/</link>
-      <pubDate>Sun, 20 Jul 2025 10:58:25 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/turibori-kisyu/</guid>
-      <description>釣堀紀州は和歌山県有田郡にある海上釣り堀で、大阪市内から1時間30分の好アクセス。ボウズ保証（マダイ2匹）付きで初心者も安心。マダイ・ブリ・カンパチなど高級魚が狙え、手ぶらOKの貸竿セット3,200円も充実。男性13,750円、女性10,450円の釣り放題で、リピーター向けポイント制度あり。</description>
-    </item>
-    <item>
-      <title>【広島県】海上釣堀 大漁丸 | 瀬戸内の絶景と高級魚釣り放題・ボウズ保証付きの離島釣り堀</title>
-      <link>http://localhost:1313/posts/chugoku/tairyoumaru-hiroshima/</link>
-      <pubDate>Mon, 14 Jul 2025 04:59:24 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chugoku/tairyoumaru-hiroshima/</guid>
-      <description>広島県大竹市の離島・阿多田島に位置する「海上釣堀 大漁丸」は、フェリーと渡船を乗り継いで行く本格派の海上釣り堀。ブリ、ヒラマサ、広島レモンサーモン、マダイなどの高級魚が釣り放題で楽しめ、ボウズ保証付きなので初心者も安心です。料金は大人男性11,000円、女性・中学生8,000円と良心的。釣った魚は全て持ち帰り可能で、レンタル竿も利用できます。瀬戸内海の絶景を眺めながらの筏釣りは、日常を忘れさせる贅</description>
-    </item>
-    <item>
-      <title>【広島県】海上釣り堀 海遊 | 瀬戸内海の離島で14種類の高級魚釣り放題・ボウズ知らずの本格釣り体験</title>
-      <link>http://localhost:1313/posts/chugoku/seto-kaiyuu/</link>
-      <pubDate>Mon, 14 Jul 2025 04:56:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chugoku/seto-kaiyuu/</guid>
-      <description>広島県大竹市の阿多田島に位置する「海上釣り堀 海遊」は、マダイ、ブリ、ヒラマサからクエまで14種類もの高級魚が釣り放題で楽しめる本格派の海上釣り堀。料金は大人男性12,000円、女性・中学生9,000円で、釣った魚は全て持ち帰り可能。ボウズ保証（マダイ1匹）付きで初心者も安心です。12時からは活きエサも使用でき、より本格的な釣りが楽しめます。瀬戸内海の絶景を眺めながらの筏釣りは、釣り好きなら一度は</description>
+      <link>http://localhost:50243/wakayama/tsuribori-kishu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/wakayama/tsuribori-kishu/</guid>
+      <description>&lt;p&gt;関西圏から手軽にアクセスできる本格海上釣り堀として人気の「釣堀紀州」。ボウズ保証や充実したレンタルサービスで初心者から上級者まで安心して楽しめる施設です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,307 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>初心者向け on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/</link>
-    <description>Recent content in 初心者向け on Kaijyo Fishing</description>
+    <title>初心者向け on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/</link>
+    <description>Recent content in 初心者向け on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>マダイ釣りのコツと仕掛け｜海上釣り堀で確実に釣果を上げる5つのテクニック【2025年版】</title>
-      <link>http://localhost:1313/posts/madai-fishing-tips-2025/</link>
-      <pubDate>Thu, 23 Oct 2025 10:07:59 +0900</pubDate>
-      <guid>http://localhost:1313/posts/madai-fishing-tips-2025/</guid>
-      <description>海上釣り堀でマダイを釣るための仕掛け・エサ・棚・放流タイミングを徹底解説。初心者でも確実に釣果を上げる5つのテクニックを紹介した2025年最新版。</description>
+      <title>【熊本県】海上釣堀・釣りイカダ 釣り一｜3時間制・マダイ2匹保証・団体割引でお得な天草の海上釣り堀</title>
+      <link>http://localhost:50243/kumamoto/kaijo-tsuribori-tsuriichi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/kumamoto/kaijo-tsuribori-tsuriichi/</guid>
+      <description>&lt;p&gt;「本格的な海釣りはしたいけど、丸一日潰れるのはちょっと…」&lt;/p&gt;</description>
     </item>
     <item>
-      <title>海上釣り堀の料金比較【関東・関西・九州】コスパ最強施設ランキング2025</title>
-      <link>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%AE%E6%96%99%E9%87%91%E6%AF%94%E8%BC%83%E9%96%A2%E6%9D%B1%E9%96%A2%E8%A5%BF%E4%B9%9D%E5%B7%9E%E3%82%B3%E3%82%B9/</link>
-      <pubDate>Fri, 10 Oct 2025 03:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%AE%E6%96%99%E9%87%91%E6%AF%94%E8%BC%83%E9%96%A2%E6%9D%B1%E9%96%A2%E8%A5%BF%E4%B9%9D%E5%B7%9E%E3%82%B3%E3%82%B9/</guid>
-      <description>海上釣り堀の料金は地域やサービス内容で大きく異なります。この記事では、関東・関西・九州を中心に全国の海上釣り堀を比較し、2025年版のコスパ最強施設ランキングTOP10を紹介。放流量・サポート・アクセスなど“料金以上に満足できる”施設選びのポイントも詳しく解説します。</description>
+      <title>【三重県】あなたに逢い鯛。釣り堀｜完全予約制・少人数限定の贅沢海上釣り堀体験</title>
+      <link>http://localhost:50243/mie/anatani-aitai-fishing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/anatani-aitai-fishing/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「隣の人とオマツリするのが怖い」「混雑した釣り場は苦手」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>海上釣り堀完全初心者ガイド【2025年版】知識ゼロから始める安心マニュアル</title>
-      <link>http://localhost:1313/posts/beginner-guide-2025/</link>
-      <pubDate>Thu, 09 Oct 2025 05:04:09 +0900</pubDate>
-      <guid>http://localhost:1313/posts/beginner-guide-2025/</guid>
-      <description>初めて海上釣り堀を体験する人のための安心マニュアル。料金、準備、釣り方、安全対策までを丁寧に解説した2025年最新版です。</description>
+      <title>【三重県】はさま浦釣り堀センター｜マダイ1匹保証＆宿泊パックが最強！初心者に優しい老舗</title>
+      <link>http://localhost:50243/mie/hasamaura-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/hasamaura-fishing-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「初めての釣り堀でボウズ（0匹）だったらどうしよう…」&lt;/strong&gt;&#xA;&lt;strong&gt;「朝が早いから移動が大変そうだな…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>手ぶらで海上釣り堀はOK？レンタルできる道具と揃えておきたいもの</title>
-      <link>http://localhost:1313/posts/tebura-kaijyi-itemprice-matome/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/tebura-kaijyi-itemprice-matome/</guid>
-      <description>海上釣り堀は手ぶらでも楽しめます！全国の約90%の施設で釣り竿・リール・仕掛けなどの基本道具をレンタル可能。料金相場は竿1,000～2,000円、仕掛け300～500円程度。ただし日焼け止め・飲み物・タオルは必須の持参品です。初心者向けのおすすめ施設10選と、レンタルvs持参のメリット比較も紹介。事前予約で道具を確保し、適切な服装で海上釣り堀デビューを成功させましょう。</description>
+      <title>【三重県】海上釣堀モンキー｜3時間から遊べる！BBQも楽しめる鳥羽の手ぶら釣り堀</title>
+      <link>http://localhost:50243/mie/kaijo-tsuribori-monkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/kaijo-tsuribori-monkey/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀って朝早くて夕方まで…ちょっと長すぎる」&lt;/strong&gt;&#xA;&lt;strong&gt;「釣った魚、家で捌けないからその場で食べたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>大分県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-      <link>http://localhost:1313/posts/kyusyu/ooita-kaijyo-matome-sitasyori/</link>
-      <pubDate>Tue, 16 Sep 2025 23:45:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/ooita-kaijyo-matome-sitasyori/</guid>
-      <description>大分県佐伯市の「かまえ海上釣り堀 釣っちゃ王」は九州最高級クラスの海上釣り堀。料金は男性12,500円+渡船料500円で、カンパチ・ブリ・ヒラマサなど青物7種類が狙える。マダイ2匹保証付きで全国の愛好者が集まる聖地的存在。下処理サービス詳細は要事前確認。大型魚対応の準備と十分な保冷対策が必要。</description>
+      <title>【三重県】相差海釣センター｜1万円以下！鳥羽随一のコスパと安心のボウズ保証</title>
+      <link>http://localhost:50243/mie/ousatsu-sea-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/ousatsu-sea-fishing-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀に行きたいけど、1万円以上はちょっと高い…」&lt;/strong&gt;&#xA;&lt;strong&gt;「もし1匹も釣れなかったら、お金の無駄になりそう」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>和歌山県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-      <link>http://localhost:1313/posts/kansai/wakayama-kaijyo-matome-sitasyori/</link>
-      <pubDate>Tue, 16 Sep 2025 23:44:58 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/wakayama-kaijyo-matome-sitasyori/</guid>
-      <description>和歌山県の海上釣り堀6施設の魚の下処理サービスを徹底比較。和歌山マリーナシティではBBQ場での現地調理が可能で、テーマパーク観光とセットで楽しめる。釣堀紀州は完全予約制の本格派向け。カタタの釣り堀は南紀白浜温泉との組み合わせが人気。関西他県と比べて観光地連携の調理サービスが充実しており、釣り・観光・グルメの三拍子揃った体験が魅力。初心者から上級者まで目的に応じた施設選びが可能。</description>
+      <title>【静岡県】いかだ釣りの東海｜初心者に最適・短時間で気軽に釣り体験・アクセス情報</title>
+      <link>http://localhost:50243/shizuoka/ikadatsuri-tokai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/shizuoka/ikadatsuri-tokai/</guid>
+      <description>&lt;p&gt;静岡県熱海市、網代港の穏やかな海に浮かぶ「いかだ釣りの東海」は、観光の合間にふらっと立ち寄れる手軽さが魅力の海上釣り堀です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>福岡県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-      <link>http://localhost:1313/posts/kyusyu/fukuoka-kaijyo-fish-sitasyori/</link>
-      <pubDate>Mon, 15 Sep 2025 17:06:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/fukuoka-kaijyo-fish-sitasyori/</guid>
-      <description>福岡県の海上釣り堀4施設の魚下処理サービスを徹底比較。うみんぐ大島は1匹から下処理に対応しつつ調理体験可能。福岡県にある施設は、都市部アクセス良好で初心者向け。施設選びのポイントと料金相場、他県との違いも解説。</description>
+      <title>【静岡県】フィッシングパーク土肥｜リーズナブルな価格で初心者も楽しめる釣り場・アクセス情報</title>
+      <link>http://localhost:50243/shizuoka/fishing-park-toi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/shizuoka/fishing-park-toi/</guid>
+      <description>&lt;p&gt;静岡県伊豆市土肥にある「フィッシングパーク土肥」は、駿河湾の美しい景色を眺めながら手軽に海釣りを楽しめる人気スポットです。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>熊本県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-      <link>http://localhost:1313/posts/kyusyu/kumamoto-kaijyo-matome-sitasyori/</link>
-      <pubDate>Mon, 15 Sep 2025 16:50:44 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/kumamoto-kaijyo-matome-sitasyori/</guid>
-      <description>熊本県の海上釣り堀3施設（天草釣堀レジャーランド、釣り一、楽つり）の魚下処理サービスを比較。天草エリア中心で観光連携が魅力。料金は3,000円～11,000円と幅広く、時間制システムやドルフィンクルーズとのセットプランが特徴。下処理サービス詳細は施設により異なるため事前確認必須。クーラーボックスや氷の準備も重要。</description>
+      <title>【石川県】のとじま臨海公園「海づりセンター」｜水族館の隣で釣りデビュー！手ぶらで楽しむファミリーフィッシング</title>
+      <link>http://localhost:50243/ishikawa/notojima-sea-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/ishikawa/notojima-sea-fishing-center/</guid>
+      <description>&lt;p&gt;「水族館で魚を見た後、その隣で実際に魚を釣ってみる」&#xA;そんなユニークな体験ができるのが、石川県能登島にある**「のとじま臨海公園 海づりセンター」**です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>兵庫県の海上釣り堀まとめ｜魚下処理サービス・料金・対応施設一覧</title>
-      <link>http://localhost:1313/posts/kansai/hyogo-kaijyo-matome-sitasyori/</link>
-      <pubDate>Mon, 15 Sep 2025 02:52:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/hyogo-kaijyo-matome-sitasyori/</guid>
-      <description>兵庫県の海上釣り堀における魚の下処理サービスを徹底調査。釣り堀水宝では300円～800円で3枚おろしまで対応し、淡路じゃのひれでは調理体験も可能。家島諸島や淡路島を中心とした6施設の料金体系とサービス内容を比較。有料サービスが主流だが技術レベルが高く、特に大型魚や高級魚の処理品質は日本最高峰。初心者向けアドバイスや他県比較も掲載し、安心して釣果を持ち帰るための完全ガイド。</description>
+      <title>【徳島県】ファミリー釣り堀 釣ってみんでフィッシング｜初心者・家族連れ向け屋内型海上釣り堀完全ガイド</title>
+      <link>http://localhost:50243/tokushima/family-tsuribori-tsutteminde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/tokushima/family-tsuribori-tsutteminde/</guid>
+      <description>&lt;p&gt;「せっかくの休日なのに雨…」「子供を釣りに連れて行きたいけど、海は危ないし日焼けも気になる…」&#xA;そんな悩みを一発で解決してくれるのが、徳島市にある**「ファミリー釣り堀 釣ってみんでフィッシング」**です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【兵庫県】海上釣り堀あっとしー（@sea）｜駅チカで大物狙いができる良施設</title>
-      <link>http://localhost:1313/posts/kansai/akasi-atsea/</link>
-      <pubDate>Mon, 15 Sep 2025 02:47:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/akasi-atsea/</guid>
-      <description>兵庫県明石市の海上釣り堀「あっとしー（@sea）」は、明石駅から徒歩15分の陸続きで安全な施設です。2025年5月より男性13,200円、女性・子ども8,800円。1日4回の計画的放流でマダイ、シマアジ、ハマチを狙えます。完全予約制で初心者から上級者まで楽しめ、明石観光と組み合わせた釣り旅行に最適。ウロコ処理サービスや各種レンタルも充実しています。</description>
+      <title>【徳島県】浜部渡船 海上釣り堀｜格安30分3,000円！5匹まで釣り放題の超効率プラン</title>
+      <link>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
+      <description>&lt;p&gt;徳島県南部、海陽町（かいようちょう）。黒潮の恵み豊かなこの地に、知る人ぞ知る**「超・短時間決戦型」&lt;strong&gt;の海上釣り堀があります。それが&lt;/strong&gt;「浜部渡船（はまべとせん） 海上釣り堀」**です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>海上釣り堀で季節によって釣れる魚は変わるのか？養殖魚の活性と放流の秘密を解説</title>
-      <link>http://localhost:1313/posts/season-fishselect/</link>
-      <pubDate>Mon, 15 Sep 2025 02:29:10 +0900</pubDate>
-      <guid>http://localhost:1313/posts/season-fishselect/</guid>
-      <description>海上釣り堀は養殖魚を使用するため季節による魚種変化は少ないが、魚の活性は大きく変わります。春・秋は活性が高く初心者におすすめ、夏は早朝・夕方が狙い目、冬は低活性ながら大物チャンス。施設側も季節に応じて放流戦略を調整しており、通年でマダイ・ブリ・カンパチなどが楽しめます。季節の特性を理解した釣り方で安定した釣果を。</description>
-    </item>
-    <item>
-      <title>海上釣り堀はバリアフリー対応？車椅子利用者のためのチェックリスト</title>
-      <link>http://localhost:1313/posts/kaijyo-barifree/</link>
-      <pubDate>Sun, 14 Sep 2025 10:15:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kaijyo-barifree/</guid>
-      <description>&lt;p&gt;海上釣り堀は、初心者でも高級魚や青物を手軽に釣ることができる人気のレジャー施設です。休日の家族旅行や仲間とのレクリエーションにも最適で、手ぶらで行っても釣具やエサをレンタルできる利便性があります。多くの施設がトイレや休憩所を完備しており、女性や子供連れでも安心して利用できるのが魅力です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海上釣り堀タックルを買うかレンタルで済ませるか？費用対効果を徹底比較</title>
-      <link>http://localhost:1313/posts/item-pricecheck/</link>
-      <pubDate>Sat, 13 Sep 2025 10:07:58 +0900</pubDate>
-      <guid>http://localhost:1313/posts/item-pricecheck/</guid>
-      <description>&lt;p&gt;海上釣り堀は、初心者からベテランまで楽しめる人気のレジャーです。釣り竿やリールを持っていなくても、現地のレンタルを利用すれば気軽に挑戦できます。しかし「毎回レンタルしていると高くつくのでは？」「思い切って専用モデルを買った方が得なのでは？」と考える人も少なくありません。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>釣り業界の救世主は海上釣り堀！衰退する釣り文化を管理釣り場が変える理由</title>
-      <link>http://localhost:1313/posts/colum-turibunkasaikou/</link>
-      <pubDate>Fri, 12 Sep 2025 03:14:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/colum-turibunkasaikou/</guid>
-      <description>&lt;p&gt;海上釣り堀情報サイトのさししです。本記事では、釣り業界が直面している深刻な現状と、その解決策として注目される海上釣り堀の可能性について詳しく解説します。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>シマアジ釣りで差がつく！海上釣り堀プロが教える確実に釣る5つの裏技</title>
-      <link>http://localhost:1313/posts/simaaji-turidesawotuke/</link>
-      <pubDate>Sun, 07 Sep 2025 03:19:33 +0900</pubDate>
-      <guid>http://localhost:1313/posts/simaaji-turidesawotuke/</guid>
-      <description>&lt;p&gt;一般的なシマアジ釣りをマスターした方へ。今度は周りの釣り人と圧倒的な差をつける時です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海上釣り堀シマアジ釣り：ボウズ回避率100%の完全マニュアル</title>
-      <link>http://localhost:1313/posts/shimaaji-bouzukaihi/</link>
-      <pubDate>Sat, 06 Sep 2025 17:20:08 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shimaaji-bouzukaihi/</guid>
-      <description>&lt;p&gt;「シマアジが全然釣れない…」そんな悩みを抱えていませんか？&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>なぜあの人だけシマアジが釣れる？海上釣り堀の隠れた攻略ポイント大公開</title>
-      <link>http://localhost:1313/posts/simaaji-nazetureru/</link>
-      <pubDate>Sat, 06 Sep 2025 16:13:45 +0900</pubDate>
-      <guid>http://localhost:1313/posts/simaaji-nazetureru/</guid>
-      <description>&lt;p&gt;海上釣り堀で隣の釣り人だけがシマアジを連発している光景を見たことはありませんか？同じ場所、同じ時間なのに、なぜこんなにも差が生まれるのでしょうか。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海上釣り堀で「釣れなかったらどうしよう」という不安を完全解消する方法</title>
-      <link>http://localhost:1313/posts/kaijyo-turenainayami/</link>
-      <pubDate>Tue, 19 Aug 2025 04:26:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kaijyo-turenainayami/</guid>
-      <description>&lt;p&gt;海上釣り堀に初めて挑戦する時、多くの人が抱く心配事があります。それは「高いお金を払ったのに、1匹も釣れなかったらどうしよう」という不安です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海上釣り堀の料金はいくら？初心者向け完全ガイド｜基本料金から追加費用まで</title>
-      <link>http://localhost:1313/posts/howto-syosin-ryoukinset/</link>
-      <pubDate>Sat, 16 Aug 2025 10:32:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/howto-syosin-ryoukinset/</guid>
-      <description>&lt;p&gt;本記事はそこそこ長いので、気が早い人に向けた要約です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海上釣り堀で予想外の高額請求？釣り放題と買取方式の料金システムを完全解説</title>
-      <link>http://localhost:1313/posts/turiborihowto-kougakuseikyu/</link>
-      <pubDate>Thu, 14 Aug 2025 10:10:20 +0900</pubDate>
-      <guid>http://localhost:1313/posts/turiborihowto-kougakuseikyu/</guid>
-      <description>&lt;p&gt;海上釣り堀を初めて利用する際、「釣り放題」と「買取方式」の違いがわからず困っていませんか？実は、この料金システムを理解せずに利用すると、&lt;strong&gt;想定していた予算を大幅に超える請求が来る可能性&lt;/strong&gt;があります。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【福岡県】脇田海釣り桟橋｜北九州市の手ぶらOK・料金格安・初心者安心の海釣り施設</title>
-      <link>http://localhost:1313/posts/kyusyu/wakitaturisanbashi-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:59:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/wakitaturisanbashi-kyusyu/</guid>
-      <description>脇田海釣り桟橋は北九州市若松区の格安海釣り施設。大人1,000円、釣具一式800円の破格料金で手ぶらOK。クロダイ・ヒラメ・シーバス・アジなど多彩な魚種。小倉駅から40分の好アクセス。料金・釣果・アクセス情報を詳しく解説。</description>
-    </item>
-    <item>
-      <title>【福岡県】福岡市海づり公園｜都市部からアクセス便利・手ぶらOK・初心者向け完全ガイド</title>
-      <link>http://localhost:1313/posts/kyusyu/umiduripark-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:56:46 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/umiduripark-kyusyu/</guid>
-      <description>福岡市海づり公園は都市部から30分の好立地で、釣具レンタル充実の初心者向け海釣り施設。4時間1,000円の手頃な料金でアジ・クロダイ・シーバスなど多彩な魚種が狙える。真鯛釣堀併設で確実な釣果も期待可能。アクセス・料金・設備を詳しく解説。</description>
-    </item>
-    <item>
-      <title>【鹿児島県】鴨池海づり公園｜格安で深場釣りが楽しめる・アクセス・料金完全ガイド</title>
-      <link>http://localhost:1313/posts/kyusyu/kamoiketuripark-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:46:59 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/kamoiketuripark-kyusyu/</guid>
-      <description>鹿児島市の鴨池海づり公園は大人600円（4時間）で深場釣りが楽しめる格安海釣り施設。水深20～25mでマダイやカンパチも狙える本格環境。年中無休営業で貸竿300円、手ぶらOK。鹿児島中央駅から車15分の好立地。初心者から上級者まで対応の高コスパ釣り場。</description>
-    </item>
-    <item>
-      <title>【大分県】かまえ海上釣り堀 釣っちゃ王｜初心者安心・大物確約・手ぶらOK完全ガイド</title>
-      <link>http://localhost:1313/posts/kyusyu/kamaetuttyaou-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:38:49 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/kamaetuttyaou-kyusyu/</guid>
-      <description>大分県佐伯市「かまえ海上釣り堀 釣っちゃ王」は九州屈指の海上釣り堀。カンパチ・ブリ・ヒラマサなど大型青物が釣れ、釣れなくてもマダイ2匹保証で安心。手ぶらOKのレンタル釣具完備、家族連れから上級者まで楽しめる。完全予約制で2ヶ月前から受付。営業時間8:00-13:00、大人12,500円＋渡船料500円。九州各地からアクセス良好な人気施設の料金・釣果・予約方法を詳しく解説。</description>
-    </item>
-    <item>
-      <title>【長崎県】ジャンボフィッシング村｜リリース可能な珍しい海上釣り堀・料金完全ガイド</title>
-      <link>http://localhost:1313/posts/kyusyu/jumbfishvill-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:33:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/jumbfishvill-kyusyu/</guid>
-      <description>長崎県佐世保市のジャンボフィッシング村は、全国でも珍しいリリース可能な海上釣り堀です。予約不要で気軽に利用でき、A・B・Cの3コース制で2,000円から選択可能。マダイ・ヒラマサなど8種類の魚種が狙え、環境保護を重視した新しいスタイルの釣り体験を提供する革新的施設です。</description>
-    </item>
-    <item>
-      <title>【長崎県】釣り堀ハマカツ｜九州屈指の海上釣り堀で大物狙い・完全ガイド</title>
-      <link>http://localhost:1313/posts/kyusyu/turihamakatu-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:32:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/turihamakatu-kyusyu/</guid>
-      <description>長崎県松浦市の釣り堀ハマカツは、ブリ・マダイなど13種類の魚種が狙える九州屈指の海上釣り堀です。完全予約制で質の高いサービス、レンタル釣具充実で初心者も安心。男性11,000円、女性7,700円の釣り放題で、福岡から2時間のアクセス良好。貸切プランも人気の本格施設です。</description>
-    </item>
-    <item>
-      <title>【静岡県】熱海港海釣り施設 | リーズナブルな料金で地元民にも観光客にも人気の釣りスポット</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/atamikouumidu-shizoka/</link>
-      <pubDate>Sun, 20 Jul 2025 15:01:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/atamikouumidu-shizoka/</guid>
-      <description>静岡県熱海市の「熱海港海釣り施設」は、入場料大人500円・小中学生300円という手頃な価格で利用できる海釣り施設です。4〜10月は6:00から、11〜3月は7:00から日没まで営業。貸竿セットは1本2時間2,200円でレンタル可能で、マダイ、クロダイ、シロギス、メジナ、アオリイカ、イワシなど季節によって様々な魚種が狙えます。JR熱海駅から徒歩約30分またはタクシーで約10分というアクセスの良さも魅</description>
-    </item>
-    <item>
-      <title>【静岡県】新居弁天海釣公園 | 24時間営業で浜名湖を満喫できる釣りスポット・料金・アクセス情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/araibentenumi-shizuoka/</link>
-      <pubDate>Sun, 20 Jul 2025 14:58:03 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/araibentenumi-shizuoka/</guid>
-      <description>静岡県湖西市の浜名湖に面した「新居弁天海釣公園」は、24時間営業で駐車料金1日400円（30分以内無料）のみで利用できるリーズナブルな海釣り施設です。海上に張り出したT字型堤防が特徴で、足元に仕掛けを落とすだけで多様な魚種が狙えます。クロダイ、メジナ、キス、アジ、カレイ、タコなど季節によって様々な魚が釣れ、静岡県だけでなく愛知県からも多くの釣り客が訪れる人気スポット。釣具レンタルも充実しており、フ</description>
-    </item>
-    <item>
-      <title>【大阪府】南港魚つり園護岸｜無料で本格海釣り・初心者レクチャー・子供体験学習ガイド</title>
-      <link>http://localhost:1313/posts/kansai/minamikouturi-osaka/</link>
-      <pubDate>Sun, 20 Jul 2025 11:33:52 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/minamikouturi-osaka/</guid>
-      <description>大阪市住之江区の南港魚つり園護岸は完全無料の海釣り施設。クロダイ・シーバス・ブリなど多彩な魚種が狙え、初心者向けスタッフレクチャーあり。釣具レンタル1,800円で手ぶらOK。大阪市内からアクセス抜群の人気スポット。</description>
-    </item>
-    <item>
-      <title>【兵庫県】尼崎市立魚つり公園|エビ撒き釣り講習会・大物賞イベント充実の海釣り施設完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/amazakipark-hyogo/</link>
-      <pubDate>Sun, 20 Jul 2025 11:27:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/amazakipark-hyogo/</guid>
-      <description>尼崎市立魚つり公園は大阪湾奥部の公営海釣り施設で、わずか830円の格安料金が魅力です。関西伝統のエビ撒き釣り講習会開催、月間・年間大物賞イベント充実。クロダイ・シーバス・アジなど6魚種対応、夏場は5:00～20:00の長時間営業。エサ釣り専門で安全重視、初心者・家族連れに最適。大阪・神戸から電車バス利用可能、尼崎市民の日は無料。関西圏屈指のコスパ抜群海釣りスポット。</description>
-    </item>
-    <item>
-      <title>【兵庫県】淡路じゃのひれフィッシングパーク|大物釣りとマダイ体験コース・アクセス情報完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/hyogo-nojuyahire/</link>
-      <pubDate>Sun, 20 Jul 2025 11:10:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/hyogo-nojuyahire/</guid>
-      <description>淡路島南部にある淡路じゃのひれフィッシングパークは、関西圏から約2時間でアクセス可能な本格海上釣り堀です。初心者向けマダイコース3,800円から大物釣り一般コース12,000円まで幅広く対応。マダイ・ブリ・カンパチなど9魚種が狙え、1日3回の放流で安定釣果を実現。手ぶらOK、家族連れ歓迎、淡路島観光と組み合わせた旅行プランに最適な兵庫県屈指の海上釣り堀施設。</description>
-    </item>
-    <item>
-      <title>【大阪府】海上釣堀 岬｜初心者OK・手ぶら対応・大物釣り放題ガイド</title>
-      <link>http://localhost:1313/posts/kansai/kaijyo-misaki/</link>
-      <pubDate>Sun, 20 Jul 2025 11:09:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/kaijyo-misaki/</guid>
-      <description>大阪府泉南郡岬町の海上釣堀 岬は、関西圏から2時間でアクセス可能な本格的な海上釣堀施設。マダイ・ブリ・カンパチなど高級魚が釣り放題で、初心者向けレンタル釣具完備。一日コース11,000円から、手ぶら参加OK。早朝6:30受付で確実な釣果が期待できる人気スポット。</description>
-    </item>
-    <item>
-      <title>【福井県】ブルーパーク阿納|円形桟橋で多彩な魚種が狙える！海釣り公園完全ガイド</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/fukuibluepak-ano/</link>
-      <pubDate>Thu, 17 Jul 2025 09:04:32 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/fukuibluepak-ano/</guid>
-      <description>ブルーパーク阿納は石川県能登半島の輪島市にある海釣り施設です。トイレや休憩所などの設備が整った桟橋で、アジ、メバル、クロダイなどが年間を通して釣れます。特に夏から秋にかけてのアジ釣りが人気で、初心者からファミリーまで安心して楽しめるスポット。釣具レンタルもあり手ぶらでも釣りが可能。美しい能登の海を眺めながら、手軽に本格的な海釣りが体験できる隠れた名所です。</description>
-    </item>
-    <item>
-      <title>【福井県】シーパーク丹生｜初心者も家族連れも楽しめる！多彩なコース・料金体系・釣果情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/seapark-niu/</link>
-      <pubDate>Thu, 17 Jul 2025 09:02:26 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/seapark-niu/</guid>
-      <description>シーパーク丹生は福井県美浜町の海上釣り堀で、小物釣り・中物釣り・波止釣りの3コースを提供しています。料金は3,000円～5,000円程度で、タイ・メジナ・カワハギなど多様な魚種が釣れます。釣具レンタルも充実し、特にファミリーコースは竿2本とエサがセットで初心者や家族連れに最適。4月下旬から12月初旬までの営業で、魚種によって最適な時期が異なるのも魅力です。</description>
-    </item>
-    <item>
-      <title>【青森県】浅虫海釣り公園｜手軽な料金・四季の魚種・初心者も安心の海釣り体験</title>
-      <link>http://localhost:1313/posts/tohoku/asamushi-tsuri/</link>
-      <pubDate>Wed, 16 Jul 2025 10:18:27 +0900</pubDate>
-      <guid>http://localhost:1313/posts/tohoku/asamushi-tsuri/</guid>
-      <description>青森県青森市の浅虫温泉地区に位置する海釣り施設です。陸奥湾に面した釣りスポットで、サビキ釣りでアジやイワシが狙えるほか、季節によってはヒラメやソイなども釣れます。温泉地に近接しており、釣りと入浴を組み合わせた観光も可能。手軽な釣り体験を提供する施設で、初心者から家族連れまで幅広い層に人気があります。トイレや休憩所も完備されており、アクセスも便利です。再試行Claudeは間違えることがあります。回答</description>
-    </item>
-    <item>
-      <title>【山形県】由良海洋釣堀｜東北唯一の海上釣り堀・手ぶらOK・おすすめ釣り情報</title>
-      <link>http://localhost:1313/posts/tohoku/yura-kaiyo/</link>
-      <pubDate>Wed, 16 Jul 2025 10:17:03 +0900</pubDate>
-      <guid>http://localhost:1313/posts/tohoku/yura-kaiyo/</guid>
-      <description>東北地方で唯一の海上釣り堀として知られる「由良海洋釣堀」は、山形県鶴岡市の白山島遊魚センター内に位置しています。地元の定置網で捕れた旬の魚が放流される管理釣り場で、初心者から家族連れまで幅広い層に人気のスポットです。</description>
-    </item>
-    <item>
-      <title>【高知県】海上釣り堀 幸丸 | 高級魚狙いの釣り放題と初心者向けトライアルコースが選べる！</title>
-      <link>http://localhost:1313/posts/shikoku/kaijyo-sachimaru/</link>
-      <pubDate>Mon, 14 Jul 2025 05:39:34 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/kaijyo-sachimaru/</guid>
-      <description>高知県須崎市の美しい浦ノ内湾に位置する「海上釣り堀 幸丸」は、マダイ・シマアジ・ブリ・カンパチなどの高級魚が釣れる本格的な海上釣り堀です。4時間釣り放題の通常コース（13,000円）と、初心者や時間が限られている方向けの「トライアルコース」（5,000円・大物1匹確定）の2種類から選べるのが特徴。土佐ICからわずか20分という好アクセスで、朝7時からの営業なので無理なく訪れることができる、高知の海</description>
-    </item>
-    <item>
-      <title>【徳島県】ファミリー釣り堀 釣ってみんでフィッシング | 初心者・家族連れ向け屋内型海上釣り堀完全ガイド</title>
-      <link>http://localhost:1313/posts/shikoku/familuturi-ttuteminde/</link>
-      <pubDate>Mon, 14 Jul 2025 05:36:08 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/familuturi-ttuteminde/</guid>
-      <description>徳島県東沖洲の「ファミリー釣り堀 釣ってみんでフィッシング」は、屋内型で天候に左右されない家族向け海上釣り堀です。入場料600円で手ぶら利用可能、マダイ・カンパチ・シマアジなど高級魚が狙えます。釣った魚は買取制（1匹2,750円）のため釣りすぎ注意ですが、調理サービスもあり初心者や子連れファミリーに最適な施設です。</description>
-    </item>
-    <item>
-      <title>【広島県】しまなみ海道 つり堀公園 | 瀬戸内海を一望できる手ぶらOK・初心者向け海上釣り堀</title>
-      <link>http://localhost:1313/posts/chugoku/shimanami-turibori/</link>
-      <pubDate>Mon, 14 Jul 2025 04:58:21 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chugoku/shimanami-turibori/</guid>
-      <description>瀬戸内海を一望できる絶景ポイント「しまなみ海道 つり堀公園」は、初心者から上級者まで楽しめる海上釣り堀です。料金2,500円で貸竿とエサが付いた手ぶらOKの施設で、マダイやクロダイなどの高級魚が釣れます。時間無制限で釣りを楽しめるうえ、珍しいことにボラを釣ると100円がもらえるユニークなシステムも魅力。釣った魚は追加料金（200円/100g）で持ち帰りも可能です。しまなみ海道サイクリングとの組み合</description>
-    </item>
-    <item>
-      <title>【千葉県】太海フラワー磯釣りセンター｜手ぶらOK・初心者向け完全ガイド</title>
-      <link>http://localhost:1313/posts/kanto/taikai-flower/</link>
-      <pubDate>Mon, 14 Jul 2025 04:38:17 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kanto/taikai-flower/</guid>
-      <description>千葉県鴨川市の太海フラワー磯釣りセンターは手ぶらOKの海上釣り堀。1,500円で貸竿・エサ一式、キャッチ&amp;amp;リリース方式で初心者安心。イサキ・シマアジ・イシダイなど多彩な魚種が楽しめ、東京から約2時間、太海駅から徒歩10分の好アクセス。年中無休で鴨川観光にも最適。</description>
-    </item>
-    <item>
-      <title>【千葉県】オリジナルメーカー海づり公園｜格安料金・釣りレッスン完全ガイド</title>
-      <link>http://localhost:1313/posts/kanto/origi-umiduri/</link>
-      <pubDate>Mon, 14 Jul 2025 04:37:08 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kanto/origi-umiduri/</guid>
-      <description>千葉県市原市のオリジナルメーカー海づり公園は一般920円の格安料金で本格海釣りが楽しめる施設。アジ・シーバス・カレイなど東京湾の多彩な魚種を狙え、釣りレッスン完備で初心者安心。五井駅からバス15分、夏季無休営業で関東屈指のコスパ抜群海釣りスポット。</description>
-    </item>
-    <item>
-      <title>【神奈川県】城ヶ島J&#39;sFishing｜時間制・家族連れ向け完全ガイド</title>
-      <link>http://localhost:1313/posts/kanto/jyougashima-js/</link>
-      <pubDate>Mon, 14 Jul 2025 04:33:10 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kanto/jyougashima-js/</guid>
-      <description>神奈川県城ヶ島のJ&amp;rsquo;sFishingは革新的な時間制海上釣り堀。1～3時間選択可能、家族連れ向け料金体系で小学生以下無料。マダイ・カンパチ・ブリが釣れ、お土産保証付き。堤防から徒歩アクセス、竿レンタル無料で初心者安心。城ヶ島観光と合わせて最適。</description>
+      <title>【兵庫県】海上釣り堀あっとしー（@sea）｜明石駅から徒歩15分！船に乗らない都市型釣り堀</title>
+      <link>http://localhost:50243/hyogo/kaijo-tsuribori-at-sea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/hyogo/kaijo-tsuribori-at-sea/</guid>
+      <description>&lt;p&gt;「海上釣り堀に行ってみたいけど、船に乗るのは怖いし、遠いのはちょっと…」&#xA;「買い物のついでに、ちょっとだけ釣りがしたい」&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

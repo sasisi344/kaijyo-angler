@@ -1,153 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>釣り放題 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E6%94%BE%E9%A1%8C/</link>
-    <description>Recent content in 釣り放題 on Kaijyo Fishing</description>
+    <title>釣り放題 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E9%87%A3%E3%82%8A%E6%94%BE%E9%A1%8C/</link>
+    <description>Recent content in 釣り放題 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E6%94%BE%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E9%87%A3%E3%82%8A%E6%94%BE%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>海上釣り堀で予想外の高額請求？釣り放題と買取方式の料金システムを完全解説</title>
-      <link>http://localhost:1313/posts/turiborihowto-kougakuseikyu/</link>
-      <pubDate>Thu, 14 Aug 2025 10:10:20 +0900</pubDate>
-      <guid>http://localhost:1313/posts/turiborihowto-kougakuseikyu/</guid>
-      <description>&lt;p&gt;海上釣り堀を初めて利用する際、「釣り放題」と「買取方式」の違いがわからず困っていませんか？実は、この料金システムを理解せずに利用すると、&lt;strong&gt;想定していた予算を大幅に超える請求が来る可能性&lt;/strong&gt;があります。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【愛知県】爆釣 美浜フィッシングパーク | 高級魚が狙える知多半島の釣り堀・料金・アクセス情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/mihamafishpark-aichi/</link>
-      <pubDate>Sun, 20 Jul 2025 15:09:28 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/mihamafishpark-aichi/</guid>
-      <description>愛知県知多郡美浜町にある「爆釣 美浜フィッシングパーク」は、マダイ、ブリ、カンパチ、ヒラマサなどの高級魚が釣れる人気施設です。営業時間は7:00〜16:00（受付6:30〜）で月曜定休（祝日は営業、翌平日代休）。料金は一般利用では大人6,000円〜12,000円、女性・子供5,000円〜8,800円、貸切利用（10人まで）は50,000円〜73,000円で地引網体験やすくい取り体験も楽しめます。貸</description>
-    </item>
-    <item>
-      <title>【三重県】釣り堀 正徳丸 | 高級魚が釣れる海上釣り堀・料金・アクセス情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/syoutokumaru-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 14:46:25 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/syoutokumaru-mie/</guid>
-      <description>三重県北牟婁郡紀北町にある「釣り堀 正徳丸」は、マダイ、シマアジ、カンパチ、ブリ、クエ、イシダイなどの高級魚が釣れる海上釣り堀です。営業時間は7:00〜14:00で月曜定休（荒天時中止の可能性あり）。料金は2025年4月1日から改定され、大人男性12,500円、大人女性10,500円、中学生8,500円、小学生5,500円で、貸切は小枠6名まで75,000円、大枠10名まで125,000円。貸竿2</description>
-    </item>
-    <item>
-      <title>【静岡県】海上釣り堀まるや | 高級魚が釣れる人気スポット・料金・アクセス情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/kaijyomaruya-shizuoka/</link>
-      <pubDate>Sun, 20 Jul 2025 14:11:38 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/kaijyomaruya-shizuoka/</guid>
-      <description>静岡県沼津市の足保漁港内にある「海上釣り堀まるや」は、マダイやブリなどの高級魚を釣り放題で楽しめる人気スポット。料金は大人13,700円（午後便11,200円）で、釣った魚はすべて持ち帰り可能。1日1回の放流があり、特に土日祝は予約が必須。釣具のレンタルもあるため初心者でも安心して利用できるが、針は1本針のみ使用可能でルアーや疑似餌は禁止。富士山と駿河湾の絶景を眺めながら釣りを楽しめる、静岡県を代</description>
-    </item>
-    <item>
-      <title>【静岡県】いかだ釣りの東海 | 初心者に最適・短時間で気軽に釣り体験・アクセス情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/ikadatoukai-shizuoka/</link>
-      <pubDate>Sun, 20 Jul 2025 13:58:14 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/ikadatoukai-shizuoka/</guid>
-      <description>静岡県熱海市の網代港内にある「いかだ釣りの東海」は、短時間から利用できる手軽な海上釣り堀。30分釣り放題3,000円/竿1本、1時間釣り放題5,200円/竿1本のプランがあり、釣具の貸出しとエサは無料で手ぶらでも楽しめます。マダイやアジをはじめ、イサキ、シマアジ、イシダイ、メジナなど多様な魚種が狙え、釣った魚はその場で調理してもらうことも可能。JR伊東線「網代駅」から徒歩約10分という好立地で、熱</description>
-    </item>
-    <item>
-      <title>【和歌山県】海上釣堀 湯浅｜駅近アクセス良好・1日3回放流で釣果抜群完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/yuasa-wakayama/</link>
-      <pubDate>Sun, 20 Jul 2025 11:22:48 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/yuasa-wakayama/</guid>
-      <description>海上釣堀 湯浅は和歌山県有田郡にあるJR湯浅駅から徒歩10分の好立地海上釣り堀。男性11,000円、女性7,500円の手頃な料金で10魚種が狙える。1日3回放流システムで常に新鮮な魚を投入。マダイ・カンパチ・クエ・マハタなど高級魚も豊富。電車アクセス可能な貴重な海上釣り堀。</description>
-    </item>
-    <item>
-      <title>【大阪府】海釣ぽーと田尻｜橋下で雨よけ完備・1日4回放流・高級魚釣り放題ガイド</title>
-      <link>http://localhost:1313/posts/kansai/porttajiri-oosaka/</link>
-      <pubDate>Sun, 20 Jul 2025 11:20:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/porttajiri-oosaka/</guid>
-      <description>大阪府田尻町の海釣ぽーと田尻は橋下で雨よけ完備の海上釣堀施設。1日4回放流で15種類の高級魚が釣り放題。関空から10分、大人11,000円から利用可能。冷凍エサ持ち込み自由でコスパ良好。天候に左右されない快適な釣り体験。</description>
-    </item>
-    <item>
-      <title>【大阪府】大阪海上釣り堀サザン｜関空近く・ナイター営業・高級魚釣り放題ガイド</title>
-      <link>http://localhost:1313/posts/kansai/kaijyo-sazan/</link>
-      <pubDate>Sun, 20 Jul 2025 11:17:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/kaijyo-sazan/</guid>
-      <description>大阪府泉南市の大阪海上釣り堀サザンは関空から15分の好立地で14種類の高級魚が釣り放題。男性12,100円、女性7,700円で利用可能。夏期ナイター営業あり。ライフジャケット着用で安全、貸切プランも充実した本格海上釣堀施設。</description>
-    </item>
-    <item>
-      <title>【大阪府】海上釣り堀オーパ｜ボウズ保証あり・プレミアムコース・大物釣り放題ガイド</title>
-      <link>http://localhost:1313/posts/kansai/oska-oopa/</link>
-      <pubDate>Sun, 20 Jul 2025 11:12:48 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/oska-oopa/</guid>
-      <description>大阪府岬町の海上釣り堀オーパは安心のボウズ保証付き海上釣堀施設。一般コース12,100円、プレミアムなオーパコース16,500円で選択可能。女性8,800円、子供6,600円の優遇料金あり。マダイ・青物が釣り放題で初心者も安心。</description>
-    </item>
-    <item>
-      <title>【大阪府】海上釣堀 岬｜初心者OK・手ぶら対応・大物釣り放題ガイド</title>
-      <link>http://localhost:1313/posts/kansai/kaijyo-misaki/</link>
-      <pubDate>Sun, 20 Jul 2025 11:09:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/kaijyo-misaki/</guid>
-      <description>大阪府泉南郡岬町の海上釣堀 岬は、関西圏から2時間でアクセス可能な本格的な海上釣堀施設。マダイ・ブリ・カンパチなど高級魚が釣り放題で、初心者向けレンタル釣具完備。一日コース11,000円から、手ぶら参加OK。早朝6:30受付で確実な釣果が期待できる人気スポット。</description>
-    </item>
-    <item>
-      <title>【大阪府】海洋釣り堀小島養漁場｜ルアー釣り対応・ナイター営業・多彩な時間制プランガイド</title>
-      <link>http://localhost:1313/posts/kansai/kojima-yougyo/</link>
-      <pubDate>Sun, 20 Jul 2025 11:07:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/kojima-yougyo/</guid>
-      <description>大阪府岬町の海洋釣り堀小島養漁場はルアー釣り対応の革新的海上釣堀。一日券7,000円、ナイター券2,500円の時間制プラン。マダイ・ブリ・トラウトサーモンが釣り放題。年中無休営業で金土日祝は夜釣りも楽しめる。</description>
-    </item>
-    <item>
-      <title>【福井県】海上釣堀フィッシングレインボー|団体・貸切に最適!バリアフリー対応の大物釣り堀</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/fishing-rainbow/</link>
-      <pubDate>Thu, 17 Jul 2025 08:57:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/fishing-rainbow/</guid>
-      <description>【福井県美浜町】海上釣堀フィッシングレインボーは、マダイやブリなどの大物釣りが楽しめる陸続きの海上釣り堀。男性13,000円、女性10,000円で釣り放題制。特に団体・貸切プランが充実しており、平日5名から、土日7名から貸切可能。10名以上の団体は1人6,500円とお得。バリアフリー対応で車椅子でも利用可能。竿のレンタルもあり初心者も安心して楽しめる施設。</description>
-    </item>
-    <item>
-      <title>【福井県】フィッシングランド日向|大型魚も狙える!コース別攻略・料金ガイド</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/hiruga-fishiland/</link>
-      <pubDate>Thu, 17 Jul 2025 08:53:07 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/hiruga-fishiland/</guid>
-      <description>【福井県美浜町】フィッシングランド日向は陸続きの海上釣堀で、マダイやブリなど10kg級の大物が狙える人気施設。バリアフリー対応で車いすでも利用可能。マニアコース(6,000円～)や上級コース(12,000円～)など釣り経験に合わせたコース設定があり、10名以上なら団体割引も。釣具レンタルもあるため手ぶらでOK。グループ・貸切利用に最適な福井の海釣りスポット。</description>
-    </item>
-    <item>
-      <title>【山形県】由良海洋釣堀｜東北唯一の海上釣り堀・手ぶらOK・おすすめ釣り情報</title>
-      <link>http://localhost:1313/posts/tohoku/yura-kaiyo/</link>
-      <pubDate>Wed, 16 Jul 2025 10:17:03 +0900</pubDate>
-      <guid>http://localhost:1313/posts/tohoku/yura-kaiyo/</guid>
-      <description>東北地方で唯一の海上釣り堀として知られる「由良海洋釣堀」は、山形県鶴岡市の白山島遊魚センター内に位置しています。地元の定置網で捕れた旬の魚が放流される管理釣り場で、初心者から家族連れまで幅広い層に人気のスポットです。</description>
-    </item>
-    <item>
-      <title>【香川県】ソルトレイクひけた 安戸池 | 12,000円釣り放題！珍しいルアーコーナー完備の本格海上釣り堀</title>
-      <link>http://localhost:1313/posts/shikoku/salilake-hiketa/</link>
-      <pubDate>Mon, 14 Jul 2025 05:41:14 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/salilake-hiketa/</guid>
-      <description>香川県東かがわ市の「ソルトレイクひけた 安戸池」は、広大な汽水湖に設けられた本格海上釣り堀。最大の特徴は、養殖ハマチのイケスで釣りができることと珍しいルアーコーナーが完備されていること。12,000円で釣り放題、女性・小学生は8,000円と割引あり。ブリ、カンパチ、ヒラマサなどの青物から高級魚まで多彩な魚種が狙える釣り愛好家必見のスポットです。</description>
-    </item>
-    <item>
-      <title>【高知県】海上釣り堀 幸丸 | 高級魚狙いの釣り放題と初心者向けトライアルコースが選べる！</title>
-      <link>http://localhost:1313/posts/shikoku/kaijyo-sachimaru/</link>
-      <pubDate>Mon, 14 Jul 2025 05:39:34 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/kaijyo-sachimaru/</guid>
-      <description>高知県須崎市の美しい浦ノ内湾に位置する「海上釣り堀 幸丸」は、マダイ・シマアジ・ブリ・カンパチなどの高級魚が釣れる本格的な海上釣り堀です。4時間釣り放題の通常コース（13,000円）と、初心者や時間が限られている方向けの「トライアルコース」（5,000円・大物1匹確定）の2種類から選べるのが特徴。土佐ICからわずか20分という好アクセスで、朝7時からの営業なので無理なく訪れることができる、高知の海</description>
-    </item>
-    <item>
-      <title>【沖縄県】糸満イカダ（つりぐのぞうさん）| 南国の海で手軽に大物を狙える地元愛用の釣りスポット</title>
-      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/itoman-ikada/</link>
-      <pubDate>Mon, 14 Jul 2025 05:06:34 +0900</pubDate>
-      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/itoman-ikada/</guid>
-      <description>沖縄県糸満市にある「糸満イカダ（つりぐのぞうさん）」は、南国ならではの大物狙いが可能な人気の海上釣り堀。チヌやタマン、ミーバイなど沖縄特有の魚種が釣れる。料金は大人2,800円で釣り放題制。釣具レンタルは要予約。屋根付きトイレ完備のイカダへは渡船で行き、帰りは定時便を利用。魚は本州より強いため太めの道具がおすすめ。公式サイトで過去10年の釣果も確認可能。観光客でも手ぶらで楽しめる沖縄の海釣り体験ス</description>
-    </item>
-    <item>
-      <title>中国地方の海上釣り堀・海釣り施設 完全ガイド【2025年最新版】</title>
-      <link>http://localhost:1313/posts/chugoku/chugoku-matome/</link>
-      <pubDate>Mon, 14 Jul 2025 05:04:41 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chugoku/chugoku-matome/</guid>
-      <description>瀬戸内海に面する中国地方の海上釣り堀・海釣り施設6箇所を徹底比較。広島県の離島釣り堀では14種類の高級魚が釣り放題で楽しめ、山口県の海釣り施設は家族連れに最適。料金は海上釣り堀平均8,500円、海釣り施設平均820円。ボウズ保証や充実したレンタル設備で初心者も安心。主要都市からのアクセス情報や宿泊施設データも完備し、釣り旅行の計画に最適な完全ガイドです。</description>
-    </item>
-    <item>
-      <title>【広島県】海上釣堀 大漁丸 | 瀬戸内の絶景と高級魚釣り放題・ボウズ保証付きの離島釣り堀</title>
-      <link>http://localhost:1313/posts/chugoku/tairyoumaru-hiroshima/</link>
-      <pubDate>Mon, 14 Jul 2025 04:59:24 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chugoku/tairyoumaru-hiroshima/</guid>
-      <description>広島県大竹市の離島・阿多田島に位置する「海上釣堀 大漁丸」は、フェリーと渡船を乗り継いで行く本格派の海上釣り堀。ブリ、ヒラマサ、広島レモンサーモン、マダイなどの高級魚が釣り放題で楽しめ、ボウズ保証付きなので初心者も安心です。料金は大人男性11,000円、女性・中学生8,000円と良心的。釣った魚は全て持ち帰り可能で、レンタル竿も利用できます。瀬戸内海の絶景を眺めながらの筏釣りは、日常を忘れさせる贅</description>
-    </item>
-    <item>
-      <title>【広島県】海上釣り堀 海遊 | 瀬戸内海の離島で14種類の高級魚釣り放題・ボウズ知らずの本格釣り体験</title>
-      <link>http://localhost:1313/posts/chugoku/seto-kaiyuu/</link>
-      <pubDate>Mon, 14 Jul 2025 04:56:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chugoku/seto-kaiyuu/</guid>
-      <description>広島県大竹市の阿多田島に位置する「海上釣り堀 海遊」は、マダイ、ブリ、ヒラマサからクエまで14種類もの高級魚が釣り放題で楽しめる本格派の海上釣り堀。料金は大人男性12,000円、女性・中学生9,000円で、釣った魚は全て持ち帰り可能。ボウズ保証（マダイ1匹）付きで初心者も安心です。12時からは活きエサも使用でき、より本格的な釣りが楽しめます。瀬戸内海の絶景を眺めながらの筏釣りは、釣り好きなら一度は</description>
+      <title>【三重県】海上釣堀和光｜ブリ・カンパチ・シマアジが乱舞！南伊勢の高級魚パラダイス</title>
+      <link>http://localhost:50243/mie/kaijo-tsuribori-wako/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/kaijo-tsuribori-wako/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「マダイだけじゃ物足りない。もっと色々な高級魚を釣りたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族で行きたいけど、釣り堀って意外と高い…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

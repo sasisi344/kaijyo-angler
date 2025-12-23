@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>徳島県 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E5%BE%B3%E5%B3%B6%E7%9C%8C/</link>
-    <description>Recent content in 徳島県 on Kaijyo Fishing</description>
+    <title>徳島県 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E5%BE%B3%E5%B3%B6%E7%9C%8C/</link>
+    <description>Recent content in 徳島県 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%BE%B3%E5%B3%B6%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E5%BE%B3%E5%B3%B6%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【徳島県】浜部渡船 海上釣り堀 | 格安30分5匹釣り放題！初心者向け短時間プラン</title>
-      <link>http://localhost:1313/posts/shikoku/hamabe-tosen/</link>
-      <pubDate>Mon, 14 Jul 2025 05:37:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/hamabe-tosen/</guid>
-      <description>徳島県海陽町の「浜部渡船 海上釣り堀」は、渡船業をメインとする老舗が運営する釣り堀施設です。たった3,000円で30分間に5匹までの制限はありますが、コスパ抜群のプランが魅力。海上釣り堀初心者や、気軽に釣りを体験したい方、短時間で釣果を確実に得たい方におすすめです。マダイやブリなどの高級魚が手軽に釣れるだけでなく、現金以外にもd払いやPayPayに対応しているのも珍しい特徴。海の見える絶好のロケー</description>
+      <title>【徳島県】ファミリー釣り堀 釣ってみんでフィッシング｜初心者・家族連れ向け屋内型海上釣り堀完全ガイド</title>
+      <link>http://localhost:50243/tokushima/family-tsuribori-tsutteminde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/tokushima/family-tsuribori-tsutteminde/</guid>
+      <description>&lt;p&gt;「せっかくの休日なのに雨…」「子供を釣りに連れて行きたいけど、海は危ないし日焼けも気になる…」&#xA;そんな悩みを一発で解決してくれるのが、徳島市にある**「ファミリー釣り堀 釣ってみんでフィッシング」**です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【徳島県】ファミリー釣り堀 釣ってみんでフィッシング | 初心者・家族連れ向け屋内型海上釣り堀完全ガイド</title>
-      <link>http://localhost:1313/posts/shikoku/familuturi-ttuteminde/</link>
-      <pubDate>Mon, 14 Jul 2025 05:36:08 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/familuturi-ttuteminde/</guid>
-      <description>徳島県東沖洲の「ファミリー釣り堀 釣ってみんでフィッシング」は、屋内型で天候に左右されない家族向け海上釣り堀です。入場料600円で手ぶら利用可能、マダイ・カンパチ・シマアジなど高級魚が狙えます。釣った魚は買取制（1匹2,750円）のため釣りすぎ注意ですが、調理サービスもあり初心者や子連れファミリーに最適な施設です。</description>
+      <title>【徳島県】浜部渡船 海上釣り堀｜格安30分3,000円！5匹まで釣り放題の超効率プラン</title>
+      <link>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
+      <description>&lt;p&gt;徳島県南部、海陽町（かいようちょう）。黒潮の恵み豊かなこの地に、知る人ぞ知る**「超・短時間決戦型」&lt;strong&gt;の海上釣り堀があります。それが&lt;/strong&gt;「浜部渡船（はまべとせん） 海上釣り堀」**です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

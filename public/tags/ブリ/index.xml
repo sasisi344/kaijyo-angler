@@ -1,27 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ブリ on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E3%83%96%E3%83%AA/</link>
-    <description>Recent content in ブリ on Kaijyo Fishing</description>
+    <title>ブリ on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E3%83%96%E3%83%AA/</link>
+    <description>Recent content in ブリ on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 08:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E3%83%96%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【関西・中部編】青物ラストチャンス！11月に狙うブリ・ヒラマサの釣り堀ガイド</title>
-      <link>http://localhost:1313/posts/season-post/11/kansai-chubu-november-bluefin-guide/</link>
-      <pubDate>Sat, 01 Nov 2025 08:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/season-post/11/kansai-chubu-november-bluefin-guide/</guid>
-      <description>&lt;p&gt;関西～中部の海上釣り堀は、11月が青物シーズンの締めくくり。ブリやヒラマサが最も脂を蓄えるこの時期、放流イベントや釣果上位施設を狙えば、大物ヒットの可能性が高まります。&lt;/p&gt;</description>
+      <title>【静岡県】海上釣り堀 太公望｜網代港の釣り体験と食事が楽しめる人気スポット</title>
+      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</guid>
+      <description>&lt;p&gt;熱海の温泉街からほど近い網代（あじろ）港。「海上釣り堀 太公望（たいこうぼう）」は、ただ魚を釣るだけでなく、**「釣った魚をその場で美味しく食べる」**ことにとことんこだわった施設です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>海上釣り堀での青物（ブリ・ヒラマサ）釣り完全攻略法</title>
-      <link>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</link>
-      <pubDate>Mon, 08 Sep 2025 17:30:26 +0900</pubDate>
-      <guid>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</guid>
-      <description>海上釣り堀で青物を狙う際の泳がせ釣り・脈釣りのコツ、タックル選択、強烈な引きへの対処法を初心者向けに詳しく解説</description>
+      <title>【静岡県】海上釣り堀まるや｜高級魚が釣れる人気スポット・料金・アクセス情報</title>
+      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-maruya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-maruya/</guid>
+      <description>&lt;p&gt;沼津市・西浦（にしうら）の静かな入り江にある「海上釣り堀まるや」は、釣り人なら一度は訪れたい憧れのフィールドです。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【徳島県】浜部渡船 海上釣り堀｜格安30分3,000円！5匹まで釣り放題の超効率プラン</title>
+      <link>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
+      <description>&lt;p&gt;徳島県南部、海陽町（かいようちょう）。黒潮の恵み豊かなこの地に、知る人ぞ知る**「超・短時間決戦型」&lt;strong&gt;の海上釣り堀があります。それが&lt;/strong&gt;「浜部渡船（はまべとせん） 海上釣り堀」**です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【和歌山県】釣堀紀州｜アクセス良好・ボウズ保証付き完全ガイド</title>
+      <link>http://localhost:50243/wakayama/tsuribori-kishu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/wakayama/tsuribori-kishu/</guid>
+      <description>&lt;p&gt;関西圏から手軽にアクセスできる本格海上釣り堀として人気の「釣堀紀州」。ボウズ保証や充実したレンタルサービスで初心者から上級者まで安心して楽しめる施設です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

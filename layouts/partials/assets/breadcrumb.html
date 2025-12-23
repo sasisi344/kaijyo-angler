@@ -1,0 +1,94 @@
+{{/*
+Custom Breadcrumb for Kaijyo Fishing
+Logic: TOP > Region (from Data/Params) > Prefecture (from Params) > Page
+*/}}
+
+{{ $breakpoint := partial "utilities/GetBreakpoint.html" . }}
+{{ $regions := site.Data.regions }}
+{{ $currentPref := .Params.prefecture }}
+{{ $currentRegion := "" }}
+{{ $regionName := "" }}
+
+{{/* Derive Region from Prefecture if available in Data */}}
+{{ range $key, $data := $regions }}
+{{ if in $data.prefectures $currentPref }}
+{{ $currentRegion = $key }}
+{{ $regionName = $data.name }}
+{{ end }}
+{{ end }}
+
+{{/* Fallback to Frontmatter Region if not found in Data or if Pref is missing */}}
+{{ if and (not $currentRegion) .Params.region }}
+{{ $currentRegion = .Params.region }}
+{{/* Try to find name in regions using region key directly */}}
+{{ with index $regions $currentRegion }}
+{{ $regionName = .name }}
+{{ else }}
+{{ $regionName = $currentRegion | humanize }}
+{{ end }}
+{{ end }}
+
+{{/* If still no Region Name but we have category, use category as Region substitute (since user asked for Region) */}}
+{{ if and (not $regionName) .Params.category }}
+{{ $regionName = .Params.category }}
+{{/* Assume category slug matches or is available, but for now just link to category */}}
+{{ $currentRegion = .Params.category }}
+{{ end }}
+
+<nav aria-label="breadcrumb" class="d-none d-{{ $breakpoint.prev }}-block">
+    <ol class="breadcrumb">
+        {{/* Home */}}
+        <li class="breadcrumb-item"><a href="{{ site.Home.RelPermalink }}">TOP</a></li>
+
+        {{/* Region */}}
+        {{ if $regionName }}
+        {{/* Check if region is a valid category path */}}
+        {{ $regionPath := printf "/categories/%s" ($currentRegion | urlize) }}
+        <li class="breadcrumb-item">
+            <a href="{{ relURL $regionPath }}">{{ $regionName }}</a>
+        </li>
+        {{ end }}
+
+        {{/* Prefecture */}}
+        {{ if $currentPref }}
+        {{/* Try to get title from tag page or section */}}
+        {{ $prefName := $currentPref }}
+        {{/* Lookup simplified standard map if needed, or rely on Page Title */}}
+        {{ $prefPage := site.GetPage (printf "/tags/%s" ($currentPref | urlize)) }}
+        {{ if $prefPage }}
+        {{ $prefName = $prefPage.Title }}
+        {{ else }}
+        {{/* Fallback: You might want a data file for Pref Names if Tags don't exist yet */}}
+        {{ end }}
+
+        <li class="breadcrumb-item">
+            <a href="{{ relURL (printf " /tags/%s" ($currentPref | urlize)) }}">{{ $prefName }}</a>
+        </li>
+        {{ end }}
+
+        {{/* Current Page */}}
+        <li class="breadcrumb-item active" aria-current="page">
+            {{ .LinkTitle | default .Title }}
+        </li>
+    </ol>
+</nav>
+
+{{/* Mobile View - simplified or same? Hinode usually hides breadcrumb on mobile or shows "Back" */}}
+<nav aria-label="breadcrumb" class="d-{{ $breakpoint.prev }}-none">
+    <ol class="breadcrumb">
+        {{/* Simply Back to Prefecture or Region if available */}}
+        {{ if $currentPref }}
+        <li class="breadcrumb-item">
+            <a href="{{ relURL (printf " /tags/%s" ($currentPref | urlize)) }}">
+                {{ partial "assets/icon.html" (dict "icon" "fas angle-left") }}&nbsp;{{ T "back" | default "Back" }}
+            </a>
+        </li>
+        {{ else }}
+        <li class="breadcrumb-item">
+            <a href="{{ site.Home.RelPermalink }}">
+                {{ partial "assets/icon.html" (dict "icon" "fas angle-left") }}&nbsp;TOP
+            </a>
+        </li>
+        {{ end }}
+    </ol>
+</nav>

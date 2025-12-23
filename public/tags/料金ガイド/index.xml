@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>料金ガイド on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E6%96%99%E9%87%91%E3%82%AC%E3%82%A4%E3%83%89/</link>
-    <description>Recent content in 料金ガイド on Kaijyo Fishing</description>
+    <title>料金ガイド on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>https://example.org/tags/%E6%96%99%E9%87%91%E3%82%AC%E3%82%A4%E3%83%89/</link>
+    <description>Recent content in 料金ガイド on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%96%99%E9%87%91%E3%82%AC%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Aug 2025 10:32:51 +0900</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E6%96%99%E9%87%91%E3%82%AC%E3%82%A4%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>海上釣り堀の料金はいくら？初心者向け完全ガイド｜基本料金から追加費用まで</title>
-      <link>http://localhost:1313/posts/howto-syosin-ryoukinset/</link>
+      <link>https://example.org/posts/%E7%90%86%E8%AB%96-%E5%9F%BA%E7%A4%8E/howto-syosin-ryoukinset/</link>
       <pubDate>Sat, 16 Aug 2025 10:32:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/howto-syosin-ryoukinset/</guid>
+      <guid>https://example.org/posts/%E7%90%86%E8%AB%96-%E5%9F%BA%E7%A4%8E/howto-syosin-ryoukinset/</guid>
       <description>&lt;p&gt;本記事はそこそこ長いので、気が早い人に向けた要約です。&lt;/p&gt;</description>
     </item>
   </channel>

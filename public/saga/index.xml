@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sagas on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/saga/</link>
+    <description>Recent content in Sagas on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
+    <atom:link href="http://localhost:50243/saga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>仮屋湾遊漁センター</title>
+      <link>http://localhost:50243/saga/kariyawan-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/saga/kariyawan-fishing-center/</guid>
+      <description>&lt;p&gt;仮屋湾遊漁センターは、佐賀県東松浦郡玄海町にある海上釣り堀施設で、天然魚と養殖魚の両方が楽しめる珍しい施設です。A～Dまでの4つのコースから予算と目的に応じて選択でき、2時間3,000円から本格的な海上釣り堀体験が可能です。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

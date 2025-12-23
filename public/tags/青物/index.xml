@@ -1,20 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>青物 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E9%9D%92%E7%89%A9/</link>
-    <description>Recent content in 青物 on Kaijyo Fishing</description>
+    <title>青物 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E9%9D%92%E7%89%A9/</link>
+    <description>Recent content in 青物 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 17:30:26 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%9D%92%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E9%9D%92%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>海上釣り堀での青物（ブリ・ヒラマサ）釣り完全攻略法</title>
-      <link>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</link>
-      <pubDate>Mon, 08 Sep 2025 17:30:26 +0900</pubDate>
-      <guid>http://localhost:1313/posts/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80%E3%81%A7%E3%81%AE%E9%9D%92%E7%89%A9%E3%83%96%E3%83%AA%E3%83%92%E3%83%A9%E3%83%9E%E3%82%B5%E9%87%A3%E3%82%8A%E5%AE%8C%E5%85%A8/</guid>
-      <description>海上釣り堀で青物を狙う際の泳がせ釣り・脈釣りのコツ、タックル選択、強烈な引きへの対処法を初心者向けに詳しく解説</description>
+      <title>【香川県】ソルトレイクひけた安戸池｜世界初のハマチ養殖発祥地で挑む！ルアーOKのド迫力釣り堀</title>
+      <link>http://localhost:50243/kagawa/saltlake-hiketa-adoike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/kagawa/saltlake-hiketa-adoike/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀＝狭いイケス」だと思っていませんか？&lt;/strong&gt;&#xA;その常識を覆すのが、香川県東かがわ市にある**「ソルトレイクひけた 安戸池（あどいけ）」**です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【三重県】つり堀傳八屋｜13種以上の魚種＆イベント満載！南伊勢の海上釣り堀</title>
+      <link>http://localhost:50243/mie/tsuribori-denpachiya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/tsuribori-denpachiya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「今日は何が釣れるかな？」というワクワク感を極限まで高めてくれる釣り堀。&lt;/strong&gt;&#xA;それが三重県南伊勢町を代表する老舗、**「つり堀傳八屋」**です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【三重県】海上釣り堀福寿丸｜活きアジで青物狙い！会員制度がお得な南伊勢の本格派</title>
+      <link>http://localhost:50243/mie/kaijo-tsuribori-fukujumaru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/kaijo-tsuribori-fukujumaru/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「ブリやヒラマサの強烈な引きを味わいたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「せっかく通うなら、お得な特典があるほうがいい」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【新潟県】新潟東港第2東防波堤管理釣り場｜サワラ・ブリが狙える！ルアーマンの聖地</title>
+      <link>http://localhost:50243/niigata/niigata-east-port-2nd-east-breakwater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/niigata/niigata-east-port-2nd-east-breakwater/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「陸から手軽に青物を釣りたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「管理された安全な場所で、思いっきりルアーを投げたい」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【大阪府】とっとパーク小島｜絶景の海釣り公園！青物・マダイが狙える関西屈指の人気釣り場</title>
+      <link>http://localhost:50243/osaka/totto-park-koshima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/osaka/totto-park-koshima/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「船に乗らなくても、船釣りと同じような大物を釣りたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族で安全に、でも本格的な釣りを楽しみたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

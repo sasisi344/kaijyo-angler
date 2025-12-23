@@ -1,62 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>筏釣り on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E7%AD%8F%E9%87%A3%E3%82%8A/</link>
-    <description>Recent content in 筏釣り on Kaijyo Fishing</description>
+    <title>筏釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E7%AD%8F%E9%87%A3%E3%82%8A/</link>
+    <description>Recent content in 筏釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E7%AD%8F%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E7%AD%8F%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【三重県】鵜方浜釣センター | 紀州釣りの聖地で本格的な筏・カセ釣りが楽しめる志摩の老舗渡船</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/ugatahama-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 15:17:52 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/ugatahama-mie/</guid>
-      <description>鵜方浜釣センター要約文三重県志摩市の「鵜方浜釣センター」は、英虞湾の筏・カセで本格的な筏釣りを楽しめる渡船です。渡船料金4,000円でクロダイの紀州釣りをメインに、カレイ、キス、アジ、シーバスなど天然魚を狙えます。筏・カセには屋根とトイレ完備で快適。BBQ道具貸し出しで釣った魚をその場で味わえます。近鉄鵜方駅から徒歩15分、名古屋から2時間半とアクセス良好。志摩半島観光と組み合わせ可能な、天然魚と</description>
+      <title>【高知県】つり筏 深浦｜3,000円でトイレ・屋根・コーヒー付き！快適すぎる筏釣りパラダイス</title>
+      <link>http://localhost:50243/kochi/tsuri-ikada-fukaura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/kochi/tsuri-ikada-fukaura/</guid>
+      <description>&lt;p&gt;筏（いかだ）釣りといえば、「トイレがない」「日差しが暑い」「過酷」…そんなイメージを持っていませんか？&#xA;高知県須崎市にある**「つり筏 深浦」&lt;strong&gt;は、そんな常識を覆す&lt;/strong&gt;「超・快適」**な釣り施設です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【三重県】内瀬釣りセンター（ないぜ） | 南伊勢の美しい海域で楽しむ本格筏釣り・多彩な釣法に対応した老舗渡船</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/naizeturicenter-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 15:10:55 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/naizeturicenter-mie/</guid>
-      <description>三重県南伊勢町の「内瀬釣りセンター」は、大人1日4,000円、子供2,500円の格安料金で本格筏釣りを楽しめる老舗渡船です。クロダイの紀州釣り・フカセ釣りをメインに、サビキ釣りなど多彩な釣法に対応。南伊勢の透明度の高い美しい海域で天然魚を狙えます。内瀬港と下津港の2拠点から渡船し、状況に応じて最適なポイントを選択可能。家族連れにも優しい子供料金設定で、名古屋から2時間半の立地。南伊勢観光と組み合わ</description>
+      <title>【高知県】筏釣り 高橋渡船｜11時間遊んで4,000円！海上BBQもできる欲張り釣りスポット</title>
+      <link>http://localhost:50243/kochi/raft-fishing-takahashi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/kochi/raft-fishing-takahashi/</guid>
+      <description>&lt;p&gt;「丸一日、時間を気にせず釣りに没頭したい！」&#xA;「釣りの合間に肉も焼いて食べたい！」&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【三重県】マルスイ海産 | 尾鷲の豊かな海域で楽しむ本格チヌ筏釣り・熟練者向けの天然魚勝負</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/marusuikaisan-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 15:05:20 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/marusuikaisan-mie/</guid>
-      <description>三重県尾鷲市の「マルスイ海産」は、大人4,500円、子供2,250円の格安料金でチヌ筏釣りを楽しめる熟練者向け渡船です。尾鷲の豊かな海域に設置された複数の筏で、水深や魚種に応じた戦略的な釣りが可能。チヌ、マダイ、カワハギなど天然魚を狙えます。営業時間は日の出から日の入りまでで季節変動あり。荒天時休業。海上釣り堀ではない本格筏釣りのため、ある程度の経験と技術が必要。熊野古道観光と組み合わせ可能な、コ</description>
+      <title>【三重県】マルスイ海産｜1日4,500円！尾鷲の秘境で挑む天然魚との真剣勝負</title>
+      <link>http://localhost:50243/mie/marusui-kaisan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/marusui-kaisan/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀の魚では満足できない」&lt;/strong&gt;&#xA;&lt;strong&gt;「自分の技術がどこまで通用するか試したい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【三重県】光栄丸（筏釣り） | チヌ狙いの本格筏釣りとお得なポイントカードが魅力の南伊勢渡船</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/koueimaruikada-mie/</link>
-      <pubDate>Sun, 20 Jul 2025 15:03:09 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/koueimaruikada-mie/</guid>
-      <description>三重県南伊勢町の「光栄丸」は、チヌ（クロダイ）狙いの本格筏釣り専門渡船です。大人・子供ともに5,000円の良心的料金で、クロダイ、マダイ、カワハギなど天然魚を狙えます。10回利用で1回無料になるポイントカード制度がリピーターに人気。冬季は練炭レンタル1,000円で快適な釣りが可能。受付時間は月別変動（4:30～6:00）のため予約カレンダー要確認。基本無休で年間利用可能。海上釣り堀とは違う天然魚と</description>
+      <title>【三重県】鵜方浜釣センター｜チヌ師の聖地！屋根・トイレ完備の快適筏で「年無し」に挑む</title>
+      <link>http://localhost:50243/mie/ugata-hamatsuri-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/ugata-hamatsuri-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀の養殖魚じゃ満足できない」&lt;/strong&gt;&#xA;&lt;strong&gt;「自分の腕で、警戒心の強い野生のクロダイを仕留めたい」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【三重県】光栄丸｜10回で1回無料！5,000円で楽しめる南伊勢の筏釣りパラダイス</title>
+      <link>http://localhost:50243/mie/koueimaru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/koueimaru/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「毎週でも釣りに行きたいけど、お財布が…」&lt;/strong&gt;&#xA;&lt;strong&gt;「冬の筏釣りは寒さとの戦いで辛い…」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【三重県】相差海釣センター｜1万円以下！鳥羽随一のコスパと安心のボウズ保証</title>
+      <link>http://localhost:50243/mie/ousatsu-sea-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/ousatsu-sea-fishing-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「釣り堀に行きたいけど、1万円以上はちょっと高い…」&lt;/strong&gt;&#xA;&lt;strong&gt;「もし1匹も釣れなかったら、お金の無駄になりそう」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【三重県】内瀬釣りセンター｜2つの港で攻略！紀州釣りからサビキまで楽しめる筏のデパート</title>
+      <link>http://localhost:50243/mie/naize-fishing-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/mie/naize-fishing-center/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「今日はチヌをストイックにだんごで狙いたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族でアジを釣ってお土産にしたい」&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【福井県】小浜市漁協・釣り筏｜若狭湾のチヌ聖地！絶景の中で楽しむ本格筏釣り</title>
+      <link>http://localhost:50243/fukui/obama-city-fishing-coop-raft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/fukui/obama-city-fishing-coop-raft/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;「堤防の喧騒を離れて、静かに海と向き合いたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「自分の腕一本で、警戒心の強いチヌを仕留めたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「揺れる筏の上で、波の音をBGMに一日を過ごす…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【和歌山県】由良海つり公園｜海上釣り堀と筏釣り両方楽しめる複合釣り施設完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/yurapark-wakayama/</link>
-      <pubDate>Sun, 20 Jul 2025 11:25:11 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/yurapark-wakayama/</guid>
-      <description>由良海つり公園は和歌山県由良町にある海上釣り堀と筏釣りが同時に楽しめる複合釣り施設。釣堀12,000円で確実な釣果、筏釣り2,000円で天然フィールド体験が可能。マダイ・ブリ・クロダイ・アオリイカなど豊富な魚種。予算と経験に応じて選べる2つの釣りスタイルが魅力。</description>
-    </item>
-    <item>
-      <title>【高知県】筏釣り 高橋渡船 | 4,000円で一日楽しめる！屋根付き筏もある本格海釣りスポット</title>
-      <link>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</link>
-      <pubDate>Mon, 14 Jul 2025 05:29:10 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/ikada-takahashitosen/</guid>
-      <description>高知県須崎市の浦ノ内湾に位置する「筏釣り 高橋渡船」は、1日4,000円という手頃な料金で本格的な筏釣りが楽しめる施設です。海上に浮かぶ筏（いかだ）から、クロダイ、マダイ、キス、アオリイカなど様々な魚種を狙うことができます。特筆すべきは屋根付きの筏があり、真夏の強い日差しも気にせず釣りに集中できる点。また水上バーベキューも可能で、釣りと食事を一度に楽しめるユニークなレジャースポットです。</description>
-    </item>
-    <item>
-      <title>【高知県】つり筏 深浦 | 3,000円で快適釣り！屋根・トイレ完備&amp;amp;コーヒーサービスつき</title>
-      <link>http://localhost:1313/posts/shikoku/turiikada-fukaura/</link>
-      <pubDate>Mon, 14 Jul 2025 05:26:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/turiikada-fukaura/</guid>
-      <description>高知県須崎市の浦ノ内湾に位置する「つり筏 深浦」は、大人3,000円という手頃な料金で利用できる、快適性にこだわった筏釣り施設です。海上に浮かぶ筏（いかだ）はすべて屋根付きでトイレも完備しており、雨や日差しを気にせず、長時間集中して釣りを楽しめます。クロダイ、マダイ、アジ、サバなど様々な魚種が狙え、うれしいコーヒーのサービスも。渡船時間も予約日内で応相談と融通が利き、BBQコンロの貸出もある一日中</description>
+      <link>http://localhost:50243/wakayama/yura-sea-fishing-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/wakayama/yura-sea-fishing-park/</guid>
+      <description>&lt;p&gt;和歌山県由良町にある「由良海つり公園」は、本格的な海上釣り堀と天然フィールドでの筏釣りを同一施設で楽しめる全国でも珍しい複合釣り施設です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

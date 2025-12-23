@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>愛媛県 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E6%84%9B%E5%AA%9B%E7%9C%8C/</link>
-    <description>Recent content in 愛媛県 on Kaijyo Fishing</description>
+    <title>愛媛県 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E6%84%9B%E5%AA%9B%E7%9C%8C/</link>
+    <description>Recent content in 愛媛県 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%84%9B%E5%AA%9B%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/%E6%84%9B%E5%AA%9B%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【愛媛県】おさかな牧場「シーロード八幡浜」| 週末営業！600円で楽しめるバリアフリー対応の本格海釣りスポット</title>
-      <link>http://localhost:1313/posts/shikoku/searoad-yawatahama/</link>
-      <pubDate>Mon, 14 Jul 2025 05:34:18 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/searoad-yawatahama/</guid>
-      <description>愛媛県八幡浜市にある「おさかな牧場 シーロード八幡浜」は、美しい瀬戸内海に張り出した桟橋で本格的な海釣りが楽しめる施設です。入場料はわずか大人600円、子供300円という手頃な価格設定ながら、クロダイやシーバス、アジなど多彩な魚種を狙うことができます。バリアフリー対応の施設で、土日祝日のみの営業という特徴があります。釣具やエサの販売はないため事前準備が必要です。</description>
+      <title>【愛媛県】おさかな牧場「シーロード八幡浜」｜週末営業！600円で楽しめるバリアフリー対応の本格海釣りスポット</title>
+      <link>http://localhost:50243/ehime/searoad-yawatahama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/ehime/searoad-yawatahama/</guid>
+      <description>&lt;p&gt;愛媛県八幡浜市にある「おさかな牧場 シーロード八幡浜」は、美しい瀬戸内海に張り出した桟橋で本格的な海釣りが楽しめる施設です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【愛媛県】フィッシングパーク大三島 | 釣り桟橋と釣り堀が選べる！しまなみ海道の海釣り体験スポット</title>
-      <link>http://localhost:1313/posts/shikoku/fishing-omishima/</link>
-      <pubDate>Mon, 14 Jul 2025 05:15:23 +0900</pubDate>
-      <guid>http://localhost:1313/posts/shikoku/fishing-omishima/</guid>
-      <description>しまなみ海道の大三島にある「フィッシングパーク大三島」は、海釣り桟橋と釣り堀の両方を楽しめる珍しい施設です。釣り桟橋は大人1,000円、子供500円で利用でき、自然の海で様々な魚を狙う本格的な釣りが体験できます。一方、釣り堀は3,500円で竿のレンタル代も含まれており、アジやタイなど確実に釣果が得られるのが魅力。釣りの経験や気分に合わせて選べるので、初心者からベテランまで満足できる施設です。</description>
+      <title>【愛媛県】フィッシングパーク大三島｜釣り桟橋と釣り堀が選べる！しまなみ海道の海釣り体験スポット</title>
+      <link>http://localhost:50243/ehime/fishing-park-omishima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/ehime/fishing-park-omishima/</guid>
+      <description>&lt;p&gt;しまなみ海道の大三島にある「フィッシングパーク大三島」は、海釣り桟橋と釣り堀の両方を楽しめる珍しい施設です。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

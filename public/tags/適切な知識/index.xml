@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>適切な知識 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E9%81%A9%E5%88%87%E3%81%AA%E7%9F%A5%E8%AD%98/</link>
-    <description>Recent content in 適切な知識 on Kaijyo Fishing</description>
+    <title>適切な知識 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>https://example.org/tags/%E9%81%A9%E5%88%87%E3%81%AA%E7%9F%A5%E8%AD%98/</link>
+    <description>Recent content in 適切な知識 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%81%A9%E5%88%87%E3%81%AA%E7%9F%A5%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Aug 2025 04:26:31 +0900</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E9%81%A9%E5%88%87%E3%81%AA%E7%9F%A5%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>海上釣り堀で「釣れなかったらどうしよう」という不安を完全解消する方法</title>
-      <link>http://localhost:1313/posts/kaijyo-turenainayami/</link>
+      <link>https://example.org/posts/%E5%AD%A6%E7%BF%92-%E6%80%9D%E8%80%83/kaijyo-turenainayami/</link>
       <pubDate>Tue, 19 Aug 2025 04:26:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kaijyo-turenainayami/</guid>
+      <guid>https://example.org/posts/%E5%AD%A6%E7%BF%92-%E6%80%9D%E8%80%83/kaijyo-turenainayami/</guid>
       <description>&lt;p&gt;海上釣り堀に初めて挑戦する時、多くの人が抱く心配事があります。それは「高いお金を払ったのに、1匹も釣れなかったらどうしよう」という不安です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>海上釣り堀の料金はいくら？初心者向け完全ガイド｜基本料金から追加費用まで</title>
-      <link>http://localhost:1313/posts/howto-syosin-ryoukinset/</link>
+      <link>https://example.org/posts/%E7%90%86%E8%AB%96-%E5%9F%BA%E7%A4%8E/howto-syosin-ryoukinset/</link>
       <pubDate>Sat, 16 Aug 2025 10:32:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/howto-syosin-ryoukinset/</guid>
+      <guid>https://example.org/posts/%E7%90%86%E8%AB%96-%E5%9F%BA%E7%A4%8E/howto-syosin-ryoukinset/</guid>
       <description>&lt;p&gt;本記事はそこそこ長いので、気が早い人に向けた要約です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>海上釣り堀で予想外の高額請求？釣り放題と買取方式の料金システムを完全解説</title>
-      <link>http://localhost:1313/posts/turiborihowto-kougakuseikyu/</link>
+      <link>https://example.org/posts/%E5%AD%A6%E7%BF%92-%E6%80%9D%E8%80%83/turiborihowto-kougakuseikyu/</link>
       <pubDate>Thu, 14 Aug 2025 10:10:20 +0900</pubDate>
-      <guid>http://localhost:1313/posts/turiborihowto-kougakuseikyu/</guid>
+      <guid>https://example.org/posts/%E5%AD%A6%E7%BF%92-%E6%80%9D%E8%80%83/turiborihowto-kougakuseikyu/</guid>
       <description>&lt;p&gt;海上釣り堀を初めて利用する際、「釣り放題」と「買取方式」の違いがわからず困っていませんか？実は、この料金システムを理解せずに利用すると、&lt;strong&gt;想定していた予算を大幅に超える請求が来る可能性&lt;/strong&gt;があります。&lt;/p&gt;</description>
     </item>
   </channel>

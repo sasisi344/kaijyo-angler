@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>予約不要 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/</link>
-    <description>Recent content in 予約不要 on Kaijyo Fishing</description>
+    <title>予約不要 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/</link>
+    <description>Recent content in 予約不要 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>【長崎県】ジャンボフィッシング村｜リリース可能な珍しい海上釣り堀・料金完全ガイド</title>
-      <link>http://localhost:1313/posts/kyusyu/jumbfishvill-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:33:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/jumbfishvill-kyusyu/</guid>
-      <description>長崎県佐世保市のジャンボフィッシング村は、全国でも珍しいリリース可能な海上釣り堀です。予約不要で気軽に利用でき、A・B・Cの3コース制で2,000円から選択可能。マダイ・ヒラマサなど8種類の魚種が狙え、環境保護を重視した新しいスタイルの釣り体験を提供する革新的施設です。</description>
-    </item>
+    <atom:link href="http://localhost:50243/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【熊本県】天草釣堀レジャーランド｜時間制料金・キープシステム・予約不要で気軽に海上釣堀体験</title>
-      <link>http://localhost:1313/posts/kyusyu/amakusarejya-kyusyu/</link>
-      <pubDate>Mon, 21 Jul 2025 01:28:36 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kyusyu/amakusarejya-kyusyu/</guid>
-      <description>熊本県上天草市「天草釣堀レジャーランド」は予約不要で気軽に楽しめる海上釣り堀。1時間2,000円からの時間制料金で短時間利用も可能。全国珍しいキープシステム導入で釣りすぎても安心。マダイ・ブリ・カンパチ・ヒラメなど豊富な魚種が釣れる。レンタル竿500円（棚調整済み）で手ぶらOK。営業時間8:00-16:00、入場料大人500円。天草観光と組み合わせ最適、熊本市内から1時間20分の好アクセス。</description>
+      <link>http://localhost:50243/kumamoto/amakusa-leisure-land/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/kumamoto/amakusa-leisure-land/</guid>
+      <description>&lt;p&gt;「今日は天気がいいから、海釣りでも行こうか」&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

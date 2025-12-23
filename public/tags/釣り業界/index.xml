@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>釣り業界 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E6%A5%AD%E7%95%8C/</link>
-    <description>Recent content in 釣り業界 on Kaijyo Fishing</description>
+    <title>釣り業界 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>https://example.org/tags/%E9%87%A3%E3%82%8A%E6%A5%AD%E7%95%8C/</link>
+    <description>Recent content in 釣り業界 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%87%A3%E3%82%8A%E6%A5%AD%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Sep 2025 03:14:01 +0900</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E9%87%A3%E3%82%8A%E6%A5%AD%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>釣り業界の救世主は海上釣り堀！衰退する釣り文化を管理釣り場が変える理由</title>
-      <link>http://localhost:1313/posts/colum-turibunkasaikou/</link>
+      <link>https://example.org/posts/%E5%AD%A6%E7%BF%92-%E6%80%9D%E8%80%83/colum-turibunkasaikou/</link>
       <pubDate>Fri, 12 Sep 2025 03:14:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/colum-turibunkasaikou/</guid>
+      <guid>https://example.org/posts/%E5%AD%A6%E7%BF%92-%E6%80%9D%E8%80%83/colum-turibunkasaikou/</guid>
       <description>&lt;p&gt;海上釣り堀情報サイトのさししです。本記事では、釣り業界が直面している深刻な現状と、その解決策として注目される海上釣り堀の可能性について詳しく解説します。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>夜釣り可能 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E5%A4%9C%E9%87%A3%E3%82%8A%E5%8F%AF%E8%83%BD/</link>
-    <description>Recent content in 夜釣り可能 on Kaijyo Fishing</description>
+    <title>夜釣り可能 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>https://example.org/tags/%E5%A4%9C%E9%87%A3%E3%82%8A%E5%8F%AF%E8%83%BD/</link>
+    <description>Recent content in 夜釣り可能 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
     <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%A4%9C%E9%87%A3%E3%82%8A%E5%8F%AF%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>【兵庫県】姫路市立遊漁センター|格安830円・夜釣り対応・団体割引充実の海釣り施設完全ガイド</title>
-      <link>http://localhost:1313/posts/kansai/himejiyuugi-hyogo/</link>
-      <pubDate>Sun, 20 Jul 2025 11:29:02 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/himejiyuugi-hyogo/</guid>
-      <description>姫路市立遊漁センターは播磨灘に面した公営海釣り施設で、基本料金830円という格安設定が魅力です。夏場は6:00～21:00の15時間営業で夜釣りも対応。クロダイ・シーバス・メバルなど5魚種が狙え、回数券・団体割引・姫路市共済割引など充実した割引制度あり。姫路城から車で30分の好立地で観光と釣りを同時に楽しめる。桟橋構造で安全、関西圏屈指のコスパ抜群海釣りスポット。</description>
-    </item>
-    <item>
-      <title>【大阪府】海洋釣り堀小島養漁場｜ルアー釣り対応・ナイター営業・多彩な時間制プランガイド</title>
-      <link>http://localhost:1313/posts/kansai/kojima-yougyo/</link>
-      <pubDate>Sun, 20 Jul 2025 11:07:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kansai/kojima-yougyo/</guid>
-      <description>大阪府岬町の海洋釣り堀小島養漁場はルアー釣り対応の革新的海上釣堀。一日券7,000円、ナイター券2,500円の時間制プラン。マダイ・ブリ・トラウトサーモンが釣り放題。年中無休営業で金土日祝は夜釣りも楽しめる。</description>
-    </item>
+    <atom:link href="https://example.org/tags/%E5%A4%9C%E9%87%A3%E3%82%8A%E5%8F%AF%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>沖縄県の海上釣り堀・海釣り施設完全ガイド｜2施設の特徴・料金・マリンアクティビティ情報</title>
-      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
+      <link>https://example.org/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
       <pubDate>Mon, 14 Jul 2025 05:08:44 +0900</pubDate>
-      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
+      <guid>https://example.org/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
       <description>沖縄県の海釣り施設2選を徹底比較。本土とは異なるイカダ釣りで南国魚種との出会いを楽しめる。本部釣りイカダ海生活は手ぶらパック8,910円でBBQ・カヌーとのセット体験が魅力。糸満イカダは2,800円のシンプル料金でタマン・ミーバイ狙い。年中温暖な気候で通年営業、夜釣りプランも選択可能。観光との組み合わせに最適な2泊3日モデルプラン、予算計画まで完全ガイド。</description>
     </item>
     <item>
       <title>【沖縄県】本部釣りイカダ 海生活 | 沖縄の青い海で天然魚釣り体験とBBQが楽しめる総合マリンスポット</title>
-      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/motobe-ikada/</link>
+      <link>https://example.org/posts/okinawa/sea-fishing-facility/motobe-ikada/</link>
       <pubDate>Mon, 14 Jul 2025 05:07:49 +0900</pubDate>
-      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/motobe-ikada/</guid>
+      <guid>https://example.org/posts/okinawa/sea-fishing-facility/motobe-ikada/</guid>
       <description>沖縄県本部町にある「本部釣りイカダ 海生活」は、釣りとBBQが同時に楽しめる総合マリンレジャースポット。沖に浮かぶイカダで天然魚釣りが体験でき、タマンやグルクンなど沖縄ならではの魚種が釣れる。料金は居住地により異なり、沖縄県在住者は3,630円から、国内在住者は3,960円から、海外からは4,800円から。イカダにはトイレと屋根が完備され、釣り以外にもカヌーやシュノーケルなどのアクティビティも提供</description>
     </item>
   </channel>

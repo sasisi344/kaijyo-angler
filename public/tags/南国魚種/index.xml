@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>南国魚種 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/%E5%8D%97%E5%9B%BD%E9%AD%9A%E7%A8%AE/</link>
-    <description>Recent content in 南国魚種 on Kaijyo Fishing</description>
+    <title>南国魚種 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>https://example.org/tags/%E5%8D%97%E5%9B%BD%E9%AD%9A%E7%A8%AE/</link>
+    <description>Recent content in 南国魚種 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
     <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%8D%97%E5%9B%BD%E9%AD%9A%E7%A8%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/%E5%8D%97%E5%9B%BD%E9%AD%9A%E7%A8%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>沖縄県の海上釣り堀・海釣り施設完全ガイド｜2施設の特徴・料金・マリンアクティビティ情報</title>
-      <link>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
+      <link>https://example.org/posts/okinawa/sea-fishing-facility/okinawa-matome/</link>
       <pubDate>Mon, 14 Jul 2025 05:08:44 +0900</pubDate>
-      <guid>http://localhost:1313/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
+      <guid>https://example.org/posts/okinawa/sea-fishing-facility/okinawa-matome/</guid>
       <description>沖縄県の海釣り施設2選を徹底比較。本土とは異なるイカダ釣りで南国魚種との出会いを楽しめる。本部釣りイカダ海生活は手ぶらパック8,910円でBBQ・カヌーとのセット体験が魅力。糸満イカダは2,800円のシンプル料金でタマン・ミーバイ狙い。年中温暖な気候で通年営業、夜釣りプランも選択可能。観光との組み合わせに最適な2泊3日モデルプラン、予算計画まで完全ガイド。</description>
     </item>
   </channel>

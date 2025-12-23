@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>24時間営業 on Kaijyo Fishing</title>
-    <link>http://localhost:1313/tags/24%E6%99%82%E9%96%93%E5%96%B6%E6%A5%AD/</link>
-    <description>Recent content in 24時間営業 on Kaijyo Fishing</description>
+    <title>24時間営業 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
+    <link>http://localhost:50243/tags/24%E6%99%82%E9%96%93%E5%96%B6%E6%A5%AD/</link>
+    <description>Recent content in 24時間営業 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <lastBuildDate>Tue, 11 Nov 2025 22:09:04 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/24%E6%99%82%E9%96%93%E5%96%B6%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50243/tags/24%E6%99%82%E9%96%93%E5%96%B6%E6%A5%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【愛知県】豊浜海釣り公園（豊浜釣り桟橋） | 24時間無料で楽しめる知多半島の人気釣りスポット</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/toyohamaturi-aichi/</link>
-      <pubDate>Sun, 20 Jul 2025 15:16:15 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/toyohamaturi-aichi/</guid>
-      <description>愛知県知多郡南知多町豊浜にある「豊浜海釣り公園（豊浜釣り桟橋）」は、24時間年中無休で完全無料で利用できる海釣り施設です。地元漁協の好意で開放されており、海に張り出した桟橋からクロダイ、メジナ、キス、ハゼ、シーバス、アジ、サバなど多彩な魚種を狙えます。釣具レンタルはないため各自持参が必要で、桟橋上は鉄網（グレーチング）のためレジャーシートを持参すると快適です。漁港内にあるため操業者の妨げにならない</description>
-    </item>
-    <item>
-      <title>【静岡県】新居弁天海釣公園 | 24時間営業で浜名湖を満喫できる釣りスポット・料金・アクセス情報</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/araibentenumi-shizuoka/</link>
-      <pubDate>Sun, 20 Jul 2025 14:58:03 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/araibentenumi-shizuoka/</guid>
-      <description>静岡県湖西市の浜名湖に面した「新居弁天海釣公園」は、24時間営業で駐車料金1日400円（30分以内無料）のみで利用できるリーズナブルな海釣り施設です。海上に張り出したT字型堤防が特徴で、足元に仕掛けを落とすだけで多様な魚種が狙えます。クロダイ、メジナ、キス、アジ、カレイ、タコなど季節によって様々な魚が釣れ、静岡県だけでなく愛知県からも多くの釣り客が訪れる人気スポット。釣具レンタルも充実しており、フ</description>
-    </item>
-    <item>
-      <title>【石川県】フィッシングブリッジ赤崎|能登半島24時間無料の釣り桟橋・磯釣り絶好ポイント</title>
-      <link>http://localhost:1313/posts/chubu-taiheiyou/fishbridge-akasaki/</link>
-      <pubDate>Thu, 17 Jul 2025 09:07:19 +0900</pubDate>
-      <guid>http://localhost:1313/posts/chubu-taiheiyou/fishbridge-akasaki/</guid>
-      <description>フィッシングブリッジ赤崎は石川県能登町にある24時間無料で利用できる釣り桟橋です。比那漁港の南側に位置し、沖合の平島へと伸びる桟橋は岩礁帯が豊富で磯釣りに最適。クロダイ、メバル、カサゴなどの魚種に加え、春から夏はタコやイカの好ポイントとしても知られています。施設はないため釣具やエサは持参必須です。地元の釣り愛好家から観光客まで幅広く楽しめる隠れた名所です。</description>
+      <title>【静岡県】新居弁天海釣公園｜24時間営業で浜名湖を満喫できる釣りスポット・料金・アクセス情報</title>
+      <link>http://localhost:50243/shizuoka/araibenten-sea-fishing-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50243/shizuoka/araibenten-sea-fishing-park/</guid>
+      <description>&lt;p&gt;静岡県と愛知県の県境に位置する巨大な汽水湖・浜名湖。そのさらに海への入り口付近（今切口）にある「新居弁天（あらいべんてん）海釣公園」は、潮通しの良さと魚影の濃さで知られる東海地方屈指の釣りスポットです。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
