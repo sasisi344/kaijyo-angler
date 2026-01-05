@@ -674,6 +674,9 @@
     <loc>http://localhost:1313/tags/%E6%B5%B7%E4%B8%8Abbq/</loc>
     <lastmod>2025-12-23T14:15:14+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-23T14:15:14+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E6%B5%B7%E4%B8%8A%E9%87%A3%E3%82%8A%E5%A0%80/</loc>
     <lastmod>2025-12-23T14:15:14+09:00</lastmod>
   </url><url>
@@ -831,9 +834,6 @@
     <lastmod>2025-12-23T14:15:14+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%BF%97%E6%91%A9%E5%B8%82/</loc>
-    <lastmod>2025-12-23T14:15:14+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-23T14:15:14+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%B3%B8%E6%BA%80%E5%B8%82/</loc>

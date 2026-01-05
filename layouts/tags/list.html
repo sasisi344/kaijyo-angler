@@ -1,0 +1,122 @@
+{{ define "main" }}
+{{- $page := . -}}
+{{- $layout := $page.Params.layout -}}
+{{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+{{- $hasSidebar := site.Params.navigation.sidebar | default true -}}
+{{- $pageTitle := .Page.Title }}
+{{ if and site.Params.main.titleCase (not .Page.Params.exact) }}{{ $pageTitle = title $pageTitle }}{{ end }}
+
+{{/* Prefecture order from Hokkaido to Okinawa */}}
+{{- $prefectureOrder := slice
+"hokkaido" "aomori" "iwate" "miyagi" "akita" "yamagata" "fukushima"
+"ibaraki" "tochigi" "gunma" "saitama" "chiba" "tokyo" "kanagawa"
+"niigata" "toyama" "ishikawa" "fukui" "yamanashi" "nagano"
+"gifu" "shizuoka" "aichi" "mie"
+"shiga" "kyoto" "osaka" "hyogo" "nara" "wakayama"
+"tottori" "shimane" "okayama" "hiroshima" "yamaguchi"
+"tokushima" "kagawa" "ehime" "kochi"
+"fukuoka" "saga" "nagasaki" "kumamoto" "oita" "miyazaki" "kagoshima" "okinawa"
+"other"
+-}}
+
+{{/* Japanese prefecture names */}}
+{{- $prefectureNames := dict
+"hokkaido" "北海道" "aomori" "青森県" "iwate" "岩手県" "miyagi" "宮城県" "akita" "秋田県" "yamagata" "山形県" "fukushima" "福島県"
+"ibaraki" "茨城県" "tochigi" "栃木県" "gunma" "群馬県" "saitama" "埼玉県" "chiba" "千葉県" "tokyo" "東京都" "kanagawa" "神奈川県"
+"niigata" "新潟県" "toyama" "富山県" "ishikawa" "石川県" "fukui" "福井県" "yamanashi" "山梨県" "nagano" "長野県"
+"gifu" "岐阜県" "shizuoka" "静岡県" "aichi" "愛知県" "mie" "三重県"
+"shiga" "滋賀県" "kyoto" "京都府" "osaka" "大阪府" "hyogo" "兵庫県" "nara" "奈良県" "wakayama" "和歌山県"
+"tottori" "鳥取県" "shimane" "島根県" "okayama" "岡山県" "hiroshima" "広島県" "yamaguchi" "山口県"
+"tokushima" "徳島県" "kagawa" "香川県" "ehime" "愛媛県" "kochi" "高知県"
+"fukuoka" "福岡県" "saga" "佐賀県" "nagasaki" "長崎県" "kumamoto" "熊本県" "oita" "大分県" "miyazaki" "宮崎県" "kagoshima" "鹿児島県"
+"okinawa" "沖縄県"
+"other" "その他"
+-}}
+
+<div class="container-xxl flex-fill p-4 px-xxl-0">
+    <div class="row row-cols-1 row-cols-{{ $breakpoint.prev }}-{{ if $hasSidebar }}3{{ else }}2{{ end }}">
+        {{ if $hasSidebar }}<div class="col col-{{ $breakpoint.current }}-2 d-none d-{{ $breakpoint.current }}-block">
+        </div>{{ end }}
+        <div class="col col-{{ $breakpoint.prev }}-12 col-{{ $breakpoint.current }}-8">
+            {{- if ne $layout "featured" -}}
+            {{ if and (not $page.IsHome) site.Params.navigation.breadcrumb }}
+            <div>{{ partial "assets/breadcrumb.html" (dict "page" $page) }}</div>
+            {{ end -}}
+            {{- end -}}
+
+            <p class="display-4 mt-5 text-center">{{ $pageTitle }}</p>
+
+            {{ if eq .Kind "taxonomy" }}
+            {{/* Original taxonomy list */}}
+            <div class="row mt-5"></div>
+            {{ range $.Site.Taxonomies.tags.ByCount }}
+            {{- $title := .Page.Title }}
+            {{ if and site.Params.main.titleCase (not $.Page.Params.exact) }}{{ $title = title $title }}{{ end }}
+            <div class="row mt-2">
+                <div class="col-3 mt-auto text-right">
+                    {{ .Count }} {{ if gt .Count 1 }} {{ T "articles" }} {{ else }} {{ T "article" }} {{ end }}
+                </div>
+                <div class="col-9">
+                    <a href="{{ .Page.RelPermalink }}">{{ $title | .Page.RenderString }}</a>
+                </div>
+            </div>
+            {{ end }}
+            {{ else }}
+            {{/* Prefecture-based accordion */}}
+            <div class="prefecture-accordion" id="prefectureAccordion">
+                {{/* Pre-initialize all prefectures with empty slices */}}
+                {{ range $prefectureOrder }}
+                {{ $.Scratch.Set (printf "pref_%s" .) slice }}
+                {{ end }}
+
+                {{/* Group pages by prefecture */}}
+                {{ range .Pages }}
+                {{- $pref := .Params.prefecture | default "other" -}}
+                {{- $key := printf "pref_%s" $pref -}}
+                {{- $.Scratch.Add $key (slice .) -}}
+                {{ end }}
+
+                {{/* Render prefectures in order */}}
+                {{ range $index, $prefCode := $prefectureOrder }}
+                {{- $key := printf "pref_%s" $prefCode -}}
+                {{- $pages := $.Scratch.Get $key -}}
+                {{ if $pages }}
+                {{- $prefName := index $prefectureNames $prefCode | default $prefCode -}}
+                {{- $collapseId := printf "collapse-%s" $prefCode -}}
+                {{- $headingId := printf "heading-%s" $prefCode -}}
+
+                <div class="accordion-item prefecture-item">
+                    <h2 class="accordion-header" id="{{ $headingId }}">
+                        <button class="accordion-button collapsed prefecture-header" type="button"
+                            data-bs-toggle="collapse" data-bs-target="#{{ $collapseId }}" aria-expanded="false"
+                            aria-controls="{{ $collapseId }}">
+                            <span class="prefecture-name">{{ $prefName }}</span>
+                            <span class="prefecture-count">{{ len $pages }} 施設</span>
+                        </button>
+                    </h2>
+                    <div id="{{ $collapseId }}" class="accordion-collapse collapse" aria-labelledby="{{ $headingId }}"
+                        data-bs-parent="#prefectureAccordion">
+                        <div class="accordion-body">
+                            <ul class="article-list">
+                                {{ range $pages }}
+                                {{- $title := .Title -}}
+                                {{ if gt (len $title) 40 }}
+                                {{- $title = printf "%s..." (substr $title 0 40) -}}
+                                {{ end }}
+                                <li>
+                                    <a href="{{ .RelPermalink }}">{{ $title }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+        <div class="col col-{{ $breakpoint.current }}-2 d-none d-{{ $breakpoint.current }}-block"></div>
+    </div>
+</div>
+{{ end }}
