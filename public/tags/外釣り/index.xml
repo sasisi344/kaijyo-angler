@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>外釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E5%A4%96%E9%87%A3%E3%82%8A/</link>
+    <link>http://localhost:1313/tags/%E5%A4%96%E9%87%A3%E3%82%8A/</link>
     <description>Recent content in 外釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E5%A4%96%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%A4%96%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】釣り公園佐助屋｜2時間4,000円〜！伊勢志摩で一番「自由」な複合型釣り施設</title>
-      <link>http://localhost:50243/mie/fishing-park-sasukeya/</link>
+      <link>http://localhost:1313/mie/fishing-park-sasukeya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/fishing-park-sasukeya/</guid>
+      <guid>http://localhost:1313/mie/fishing-park-sasukeya/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀でマダイを釣りたいけど、丸一日は体力が持つか不安…」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族で行くから、予算を抑えつつ楽しみたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「いやいや、朝から晩までガッツリ大物と勝負したい！」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

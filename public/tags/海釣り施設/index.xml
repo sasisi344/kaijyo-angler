@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>海釣り施設 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/</link>
+    <link>http://localhost:1313/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/</link>
     <description>Recent content in 海釣り施設 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%B5%B7%E9%87%A3%E3%82%8A%E6%96%BD%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【愛知県】新舞子マリンパーク魚釣り施設｜無料で700mの広大な釣り場が楽しめる知多半島の人気スポット</title>
-      <link>http://localhost:50243/aichi/shinmaiko-marine-park-fishing/</link>
+      <link>http://localhost:1313/aichi/shinmaiko-marine-park-fishing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/aichi/shinmaiko-marine-park-fishing/</guid>
+      <guid>http://localhost:1313/aichi/shinmaiko-marine-park-fishing/</guid>
       <description>&lt;p&gt;愛知県知多市に位置する「新舞子マリンパーク魚釣り施設」は、利用料無料で楽しめる全長700m以上の広大な釣り場です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【熊本県】海釣りランド｜格安700円・手ぶらセット2,000円・橋型桟橋で本格波止釣り体験</title>
-      <link>http://localhost:50243/kumamoto/sea-fishing-land/</link>
+      <link>http://localhost:1313/kumamoto/sea-fishing-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kumamoto/sea-fishing-land/</guid>
+      <guid>http://localhost:1313/kumamoto/sea-fishing-land/</guid>
       <description>&lt;p&gt;「とにかく安く、でも本格的に釣りたい！」&lt;/p&gt;&#xA;&lt;p&gt;そんな欲張りな願いを叶えてくれるのが、熊本県芦北町にある「&lt;strong&gt;海釣りランド&lt;/strong&gt;」です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【熊本県】湯の児フィッシングパーク｜格安料金600円・レンタル充実・家族連れに優しい海釣り施設</title>
-      <link>http://localhost:50243/kumamoto/yunoko-fishing-park/</link>
+      <link>http://localhost:1313/kumamoto/yunoko-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kumamoto/yunoko-fishing-park/</guid>
+      <guid>http://localhost:1313/kumamoto/yunoko-fishing-park/</guid>
       <description>&lt;p&gt;「たった600円で、これほど楽しめるのか？」&lt;/p&gt;</description>
     </item>
     <item>
       <title>【山口県】下関フィッシングパーク｜家族で安心の海釣り施設完全ガイド</title>
-      <link>http://localhost:50243/yamaguchi/shimonoseki-fishing-park/</link>
+      <link>http://localhost:1313/yamaguchi/shimonoseki-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/yamaguchi/shimonoseki-fishing-park/</guid>
+      <guid>http://localhost:1313/yamaguchi/shimonoseki-fishing-park/</guid>
       <description>&lt;p&gt;響灘の潮風を感じながら、足元に広がるのは魚影の濃い海。ここ「下関フィッシングパーク」は、子供たちの「釣れたー！」という歓声が響き渡る、まさにファミリーフィッシングの楽園です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【静岡県】熱海港海釣り施設｜リーズナブルな料金で地元民にも観光客にも人気の釣りスポット</title>
-      <link>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</link>
+      <link>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</guid>
+      <guid>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</guid>
       <description>&lt;p&gt;日本有数の温泉リゾート・熱海。その玄関口である熱海港の防波堤を利用した「熱海港海釣り施設」は、観光客から地元ベテラン勢までが集う賑やかな釣りスポットです。&lt;/p&gt;</description>
     </item>
   </channel>

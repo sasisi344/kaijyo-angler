@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>予約不要 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/</link>
+    <link>http://localhost:1313/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/</link>
     <description>Recent content in 予約不要 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E4%BA%88%E7%B4%84%E4%B8%8D%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【熊本県】天草釣堀レジャーランド｜時間制料金・キープシステム・予約不要で気軽に海上釣堀体験</title>
-      <link>http://localhost:50243/kumamoto/amakusa-leisure-land/</link>
+      <link>http://localhost:1313/kumamoto/amakusa-leisure-land/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kumamoto/amakusa-leisure-land/</guid>
+      <guid>http://localhost:1313/kumamoto/amakusa-leisure-land/</guid>
       <description>&lt;p&gt;「今日は天気がいいから、海釣りでも行こうか」&lt;/p&gt;</description>
     </item>
   </channel>

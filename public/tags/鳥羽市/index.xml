@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>鳥羽市 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E9%B3%A5%E7%BE%BD%E5%B8%82/</link>
+    <link>http://localhost:1313/tags/%E9%B3%A5%E7%BE%BD%E5%B8%82/</link>
     <description>Recent content in 鳥羽市 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E9%B3%A5%E7%BE%BD%E5%B8%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%B3%A5%E7%BE%BD%E5%B8%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】海上釣堀モンキー｜3時間から遊べる！BBQも楽しめる鳥羽の手ぶら釣り堀</title>
-      <link>http://localhost:50243/mie/kaijo-tsuribori-monkey/</link>
+      <link>http://localhost:1313/mie/kaijo-tsuribori-monkey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/kaijo-tsuribori-monkey/</guid>
+      <guid>http://localhost:1313/mie/kaijo-tsuribori-monkey/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀って朝早くて夕方まで…ちょっと長すぎる」&lt;/strong&gt;&#xA;&lt;strong&gt;「釣った魚、家で捌けないからその場で食べたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【三重県】相差海釣センター｜1万円以下！鳥羽随一のコスパと安心のボウズ保証</title>
-      <link>http://localhost:50243/mie/ousatsu-sea-fishing-center/</link>
+      <link>http://localhost:1313/mie/ousatsu-sea-fishing-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/ousatsu-sea-fishing-center/</guid>
+      <guid>http://localhost:1313/mie/ousatsu-sea-fishing-center/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀に行きたいけど、1万円以上はちょっと高い…」&lt;/strong&gt;&#xA;&lt;strong&gt;「もし1匹も釣れなかったら、お金の無駄になりそう」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

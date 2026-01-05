@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shizuokas on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/shizuoka/</link>
+    <link>http://localhost:1313/shizuoka/</link>
     <description>Recent content in Shizuokas on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/shizuoka/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/shizuoka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/shizuoka/kaijo-tsuribori-taikoubou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shizuoka/kaijo-tsuribori-taikoubou/</guid>
+      <description>&lt;h2 id=&#34;featureimage-coverjpg&#34; class=&#34;heading &#34;&gt;﻿&amp;mdash;&#xA;title: &amp;ldquo;【静岡県】海上釣り堀 太公望｜網代港の釣り体験と食事が楽しめる人気スポット&amp;rdquo;&#xA;slug: &amp;ldquo;kaijo-tsuribori-taikoubou&amp;rdquo;&#xA;description: &amp;ldquo;静岡県熱海市網代にある「海上釣り堀 太公望」は、釣りと食事がセットで楽しめる人気施設です。ファミリーコースなら竿・エサ込みで手軽にマダイやアジをゲット！釣った魚は併設の市場食堂で調理してもらい、その場で味わうことができます。初心者からマニアまで満足できるプラン詳細とアクセスを解説。&amp;rdquo;&#xA;draft: false&#xA;category: &amp;ldquo;海上釣り堀&amp;rdquo;&#xA;tags: [&amp;ldquo;静岡県&amp;rdquo;, &amp;ldquo;熱海&amp;rdquo;, &amp;ldquo;網代&amp;rdquo;, &amp;ldquo;海上釣り堀&amp;rdquo;, &amp;ldquo;釣って食べる&amp;rdquo;, &amp;ldquo;ファミリー&amp;rdquo;, &amp;ldquo;マダイ&amp;rdquo;, &amp;ldquo;ブリ&amp;rdquo;]&#xA;created: &amp;ldquo;2025-12-21T13:34:00+09:00&amp;rdquo;&#xA;updated: &amp;ldquo;2025-12-21T13:34:00+09:00&amp;rdquo;&#xA;featureimage: &amp;ldquo;cover.jpg&amp;rdquo;&lt;a href=&#34;#featureimage-coverjpg&#34; aria-labelledby=&#34;featureimage-coverjpg&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;!-- &lt;i class=&#34;fas fa-link anchor&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-link anchor&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;use href=&#34;#fas-link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;&#xA;    &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;熱海の温泉街からほど近い網代（あじろ）港。「海上釣り堀 太公望（たいこうぼう）」は、ただ魚を釣るだけでなく、**「釣った魚をその場で美味しく食べる」**ことにとことんこだわった施設です。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【静岡県】いかだ釣りの東海｜初心者に最適・短時間で気軽に釣り体験・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/ikadatsuri-tokai/</link>
+      <link>http://localhost:1313/shizuoka/ikadatsuri-tokai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/ikadatsuri-tokai/</guid>
+      <guid>http://localhost:1313/shizuoka/ikadatsuri-tokai/</guid>
       <description>&lt;p&gt;静岡県熱海市、網代港の穏やかな海に浮かぶ「いかだ釣りの東海」は、観光の合間にふらっと立ち寄れる手軽さが魅力の海上釣り堀です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【静岡県】フィッシングパーク土肥｜リーズナブルな価格で初心者も楽しめる釣り場・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/fishing-park-toi/</link>
+      <link>http://localhost:1313/shizuoka/fishing-park-toi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/fishing-park-toi/</guid>
+      <guid>http://localhost:1313/shizuoka/fishing-park-toi/</guid>
       <description>&lt;p&gt;静岡県伊豆市土肥にある「フィッシングパーク土肥」は、駿河湾の美しい景色を眺めながら手軽に海釣りを楽しめる人気スポットです。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【静岡県】海上釣り堀 太公望｜網代港の釣り体験と食事が楽しめる人気スポット</title>
-      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</guid>
-      <description>&lt;p&gt;熱海の温泉街からほど近い網代（あじろ）港。「海上釣り堀 太公望（たいこうぼう）」は、ただ魚を釣るだけでなく、**「釣った魚をその場で美味しく食べる」**ことにとことんこだわった施設です。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>【静岡県】海上釣り堀まるや｜高級魚が釣れる人気スポット・料金・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-maruya/</link>
+      <link>http://localhost:1313/shizuoka/kaijo-tsuribori-maruya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-maruya/</guid>
+      <guid>http://localhost:1313/shizuoka/kaijo-tsuribori-maruya/</guid>
       <description>&lt;p&gt;沼津市・西浦（にしうら）の静かな入り江にある「海上釣り堀まるや」は、釣り人なら一度は訪れたい憧れのフィールドです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【静岡県】新居弁天海釣公園｜24時間営業で浜名湖を満喫できる釣りスポット・料金・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/araibenten-sea-fishing-park/</link>
+      <link>http://localhost:1313/shizuoka/araibenten-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/araibenten-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/shizuoka/araibenten-sea-fishing-park/</guid>
       <description>&lt;p&gt;静岡県と愛知県の県境に位置する巨大な汽水湖・浜名湖。そのさらに海への入り口付近（今切口）にある「新居弁天（あらいべんてん）海釣公園」は、潮通しの良さと魚影の濃さで知られる東海地方屈指の釣りスポットです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【静岡県】熱海港海釣り施設｜リーズナブルな料金で地元民にも観光客にも人気の釣りスポット</title>
-      <link>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</link>
+      <link>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</guid>
+      <guid>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</guid>
       <description>&lt;p&gt;日本有数の温泉リゾート・熱海。その玄関口である熱海港の防波堤を利用した「熱海港海釣り施設」は、観光客から地元ベテラン勢までが集う賑やかな釣りスポットです。&lt;/p&gt;</description>
     </item>
   </channel>

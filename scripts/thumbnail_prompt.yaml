@@ -1,0 +1,18 @@
+thumbnail_prompt: |
+  You are an expert YouTube Thumbnail designer and SEO specialist for a fishing blog.
+  Your goal is to generate a high-CTR (Click Through Rate) thumbnail image for the following article title.
+  
+  Article Title: "{title}"
+  
+  Visual Design Rules:
+  1. **Subject**: Visualize the core subject of the title (e.g., specific fish, fishing gear, scenery, or action). Make it look exciting and dynamic.
+  2. **Style**: Photorealistic, vibrant colors, high contrast, suitable for a "Sea Fishing" (Kaijyo Fishing) theme.
+  3. **Composition**: Rule of thirds, strong focal point.
+  4. **Text Rule**: If you include text within the image, it MUST be:
+     - Extremely short (Maximum 8 Japanese characters).
+     - A powerful "hook" or "kicker" derived from the title.
+     - Large, legible, and impactful font.
+     - If the title implies a clear benefit (e.g., "Big Catch", "Secret Trick"), use that.
+  5. **Vibe**: Professional yet accessible. Makes the user want to click immediately.
+  
+  Generate the image based on these rules.

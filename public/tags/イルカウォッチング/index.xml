@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>イルカウォッチング on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%82%A4%E3%83%AB%E3%82%AB%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0/</link>
+    <link>http://localhost:1313/tags/%E3%82%A4%E3%83%AB%E3%82%AB%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in イルカウォッチング on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%82%A4%E3%83%AB%E3%82%AB%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%82%A4%E3%83%AB%E3%82%AB%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【熊本県】天草観光海上釣り堀 楽つり｜1時間完結・手ぶらOK・観光ついでに気軽体験</title>
-      <link>http://localhost:50243/kumamoto/amakusa-rakutsuri/</link>
+      <link>http://localhost:1313/kumamoto/amakusa-rakutsuri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kumamoto/amakusa-rakutsuri/</guid>
+      <guid>http://localhost:1313/kumamoto/amakusa-rakutsuri/</guid>
       <description>&lt;p&gt;「天草の海に来たなら、釣りもしたい。でも時間はかけられない…」&lt;/p&gt;</description>
     </item>
   </channel>

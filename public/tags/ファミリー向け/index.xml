@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ファミリー向け on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/</link>
+    <link>http://localhost:1313/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/</link>
     <description>Recent content in ファミリー向け on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E5%90%91%E3%81%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【福井県】あかぐり海釣公園｜入場料1,000円！円形桟橋でアジから大物まで狙える楽園</title>
-      <link>http://localhost:50243/fukui/akaguri-sea-fishing-park/</link>
+      <link>http://localhost:1313/fukui/akaguri-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/fukui/akaguri-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/fukui/akaguri-sea-fishing-park/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「家族みんなで安く1日遊びたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「子供には釣りを、自分は本格的な大物狙いを…」&lt;/strong&gt;&#xA;&lt;strong&gt;「釣った魚ですぐにバーベキューができたら最高なのに」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

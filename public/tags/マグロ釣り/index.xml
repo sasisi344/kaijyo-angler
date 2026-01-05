@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マグロ釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%9E%E3%82%B0%E3%83%AD%E9%87%A3%E3%82%8A/</link>
+    <link>http://localhost:1313/tags/%E3%83%9E%E3%82%B0%E3%83%AD%E9%87%A3%E3%82%8A/</link>
     <description>Recent content in マグロ釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%9E%E3%82%B0%E3%83%AD%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%9E%E3%82%B0%E3%83%AD%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【兵庫県】海の釣り堀 海恵｜4つの港からアクセスOK！マグロもクエも狙える家島諸島の釣りパラダイス</title>
-      <link>http://localhost:50243/hyogo/sea-fishing-pond-kaikei/</link>
+      <link>http://localhost:1313/hyogo/sea-fishing-pond-kaikei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/hyogo/sea-fishing-pond-kaikei/</guid>
+      <guid>http://localhost:1313/hyogo/sea-fishing-pond-kaikei/</guid>
       <description>&lt;p&gt;家島諸島の豊かな海に浮かぶ「&lt;strong&gt;海の釣り堀 海恵（かいえい）&lt;/strong&gt;」。&#xA;ここは関西の釣り人にとって、**「一番行きやすい離島」&lt;strong&gt;であり、同時に&lt;/strong&gt;「一番大きな夢が見られる場所」**です。&lt;/p&gt;</description>
     </item>
   </channel>

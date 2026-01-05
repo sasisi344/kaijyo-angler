@@ -1,0 +1,41 @@
+{{- /* Pinterest-style article tile partial */ -}}
+{{- $page := . -}}
+{{- $title := $page.Title | default $page.File.BaseFileName -}}
+{{- $summary := $page.Summary | plainify | truncate 80 "..." -}}
+{{- $thumbnail := $page.Params.thumbnail | default ($page.Resources.GetMatch "cover.*") -}}
+{{- $category := "" -}}
+{{- with $page.Params.categories -}}
+  {{- $category = index . 0 -}}
+{{- end -}}
+{{- with $page.Params.tags -}}
+  {{- if not $category -}}
+    {{- $category = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+
+<article class="post-tile">
+  <a href="{{ $page.RelPermalink }}" class="tile-link">
+    <div class="tile-thumb">
+      {{- if $thumbnail -}}
+        {{- if reflect.IsMap $thumbnail -}}
+          <img src="{{ $thumbnail.RelPermalink }}" alt="{{ $title }}" loading="lazy">
+        {{- else -}}
+          <img src="{{ $thumbnail }}" alt="{{ $title }}" loading="lazy">
+        {{- end -}}
+      {{- else -}}
+        <div class="tile-thumb-placeholder">
+          <span>🎣</span>
+        </div>
+      {{- end -}}
+    </div>
+    <div class="tile-overlay">
+      {{- if $category -}}
+        <span class="tile-category">{{ $category }}</span>
+      {{- end -}}
+      <h2 class="tile-title">{{ $title }}</h2>
+    </div>
+    <div class="tile-summary">
+      <p>{{ $summary }}</p>
+    </div>
+  </a>
+</article>

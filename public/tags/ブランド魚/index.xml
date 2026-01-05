@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ブランド魚 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%AD%9A/</link>
+    <link>http://localhost:1313/tags/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%AD%9A/</link>
     <description>Recent content in ブランド魚 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%AD%9A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%AD%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【兵庫県】水宝釣り堀｜19種以上の魚種＆白鷺サーモン！姫路港発の超大型海上釣り堀</title>
-      <link>http://localhost:50243/hyogo/suihou-fishing-pond/</link>
+      <link>http://localhost:1313/hyogo/suihou-fishing-pond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/hyogo/suihou-fishing-pond/</guid>
+      <guid>http://localhost:1313/hyogo/suihou-fishing-pond/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀の常識を超えた、西日本最大級のエンターテインメント」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

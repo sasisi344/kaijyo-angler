@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>サビキ釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/</link>
+    <link>http://localhost:1313/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/</link>
     <description>Recent content in サビキ釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%82%B5%E3%83%93%E3%82%AD%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【宮城県】仙台港中央公園（海の広場）｜仙台駅から25分！入場無料で楽しめるファミリー釣り公園</title>
-      <link>http://localhost:50243/miyagi/sendai-port-central-park-sea-square/</link>
+      <link>http://localhost:1313/miyagi/sendai-port-central-park-sea-square/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/miyagi/sendai-port-central-park-sea-square/</guid>
+      <guid>http://localhost:1313/miyagi/sendai-port-central-park-sea-square/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「今週末、子供と釣りに行きたいけど、遠出はちょっと…」&lt;/strong&gt;&#xA;&lt;strong&gt;「お金をかけずに、安全な場所で海釣りを楽しみたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【静岡県】新居弁天海釣公園｜24時間営業で浜名湖を満喫できる釣りスポット・料金・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/araibenten-sea-fishing-park/</link>
+      <link>http://localhost:1313/shizuoka/araibenten-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/araibenten-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/shizuoka/araibenten-sea-fishing-park/</guid>
       <description>&lt;p&gt;静岡県と愛知県の県境に位置する巨大な汽水湖・浜名湖。そのさらに海への入り口付近（今切口）にある「新居弁天（あらいべんてん）海釣公園」は、潮通しの良さと魚影の濃さで知られる東海地方屈指の釣りスポットです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【福井県】敦賀市海釣り公園｜入場無料！柵あり・トイレ完備のファミリー天国</title>
-      <link>http://localhost:50243/fukui/tsuruga-city-sea-fishing-park/</link>
+      <link>http://localhost:1313/fukui/tsuruga-city-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/fukui/tsuruga-city-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/fukui/tsuruga-city-sea-fishing-park/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「子供に海釣りをさせてあげたいけど、テトラポットは危ないし…」&lt;/strong&gt;&#xA;&lt;strong&gt;「トイレがない釣り場だと、妻や娘が行きたがらない…」&lt;/strong&gt;&#xA;&lt;strong&gt;「でも、高い入場料を払う釣り堀はちょっと…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

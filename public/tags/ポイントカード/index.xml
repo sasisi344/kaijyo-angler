@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ポイントカード on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/</link>
+    <link>http://localhost:1313/tags/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/</link>
     <description>Recent content in ポイントカード on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】光栄丸｜10回で1回無料！5,000円で楽しめる南伊勢の筏釣りパラダイス</title>
-      <link>http://localhost:50243/mie/koueimaru/</link>
+      <link>http://localhost:1313/mie/koueimaru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/koueimaru/</guid>
+      <guid>http://localhost:1313/mie/koueimaru/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「毎週でも釣りに行きたいけど、お財布が…」&lt;/strong&gt;&#xA;&lt;strong&gt;「冬の筏釣りは寒さとの戦いで辛い…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

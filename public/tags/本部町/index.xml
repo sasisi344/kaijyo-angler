@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>本部町 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E6%9C%AC%E9%83%A8%E7%94%BA/</link>
+    <link>http://localhost:1313/tags/%E6%9C%AC%E9%83%A8%E7%94%BA/</link>
     <description>Recent content in 本部町 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E6%9C%AC%E9%83%A8%E7%94%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%9C%AC%E9%83%A8%E7%94%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【沖縄県】本部釣りイカダ 海生活｜美ら海水族館すぐ！釣りにBBQに遊び尽くす「海上の楽園」</title>
-      <link>http://localhost:50243/okinawa/motobu-fishing-ikada-umiseikatsu/</link>
+      <link>http://localhost:1313/okinawa/motobu-fishing-ikada-umiseikatsu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/okinawa/motobu-fishing-ikada-umiseikatsu/</guid>
+      <guid>http://localhost:1313/okinawa/motobu-fishing-ikada-umiseikatsu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「沖縄の青い海で、映画みたいな休日を過ごしたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「釣った魚をその場で食べて、BBQも楽しみたい！」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>明石市 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E6%98%8E%E7%9F%B3%E5%B8%82/</link>
+    <link>http://localhost:1313/tags/%E6%98%8E%E7%9F%B3%E5%B8%82/</link>
     <description>Recent content in 明石市 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E6%98%8E%E7%9F%B3%E5%B8%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%98%8E%E7%9F%B3%E5%B8%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【兵庫県】海上釣り堀あっとしー（@sea）｜明石駅から徒歩15分！船に乗らない都市型釣り堀</title>
-      <link>http://localhost:50243/hyogo/kaijo-tsuribori-at-sea/</link>
+      <link>http://localhost:1313/hyogo/kaijo-tsuribori-at-sea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/hyogo/kaijo-tsuribori-at-sea/</guid>
+      <guid>http://localhost:1313/hyogo/kaijo-tsuribori-at-sea/</guid>
       <description>&lt;p&gt;「海上釣り堀に行ってみたいけど、船に乗るのは怖いし、遠いのはちょっと…」&#xA;「買い物のついでに、ちょっとだけ釣りがしたい」&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,4 @@
+google-generativeai
+python-frontmatter
+python-dotenv
+Pillow

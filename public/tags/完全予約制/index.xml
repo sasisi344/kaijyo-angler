@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>完全予約制 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E5%AE%8C%E5%85%A8%E4%BA%88%E7%B4%84%E5%88%B6/</link>
+    <link>http://localhost:1313/tags/%E5%AE%8C%E5%85%A8%E4%BA%88%E7%B4%84%E5%88%B6/</link>
     <description>Recent content in 完全予約制 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E5%AE%8C%E5%85%A8%E4%BA%88%E7%B4%84%E5%88%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%AE%8C%E5%85%A8%E4%BA%88%E7%B4%84%E5%88%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】あなたに逢い鯛。釣り堀｜完全予約制・少人数限定の贅沢海上釣り堀体験</title>
-      <link>http://localhost:50243/mie/anatani-aitai-fishing/</link>
+      <link>http://localhost:1313/mie/anatani-aitai-fishing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/anatani-aitai-fishing/</guid>
+      <guid>http://localhost:1313/mie/anatani-aitai-fishing/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「隣の人とオマツリするのが怖い」「混雑した釣り場は苦手」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【三重県】松名瀬フィッシングパーク｜ヒラメにマダイ！陸の上で高級魚が釣れるバリアフリー釣り堀</title>
-      <link>http://localhost:50243/mie/matsunase-fishing-park/</link>
+      <link>http://localhost:1313/mie/matsunase-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/matsunase-fishing-park/</guid>
+      <guid>http://localhost:1313/mie/matsunase-fishing-park/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「船に乗るのは怖いけど、大きな魚を釣ってみたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「足腰に不安があるけど、久しぶりに釣りをしたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【福井県】フィッシングランド日向｜マニアも唸る「魚の質」！美しいヒラマサ・シマアジに逢える場所</title>
-      <link>http://localhost:50243/fukui/fishing-land-hyuga/</link>
+      <link>http://localhost:1313/fukui/fishing-land-hyuga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/fukui/fishing-land-hyuga/</guid>
+      <guid>http://localhost:1313/fukui/fishing-land-hyuga/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「養殖魚は引きが弱い？ それはここの魚を知らないだけだ」&lt;/strong&gt;&#xA;&lt;strong&gt;「本当に旨い魚を釣って、家族を驚かせたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

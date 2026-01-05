@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中部 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/categories/%E4%B8%AD%E9%83%A8/</link>
+    <link>http://localhost:1313/categories/%E4%B8%AD%E9%83%A8/</link>
     <description>Recent content in 中部 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:50243/categories/%E4%B8%AD%E9%83%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E4%B8%AD%E9%83%A8/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

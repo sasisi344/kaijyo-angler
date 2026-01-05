@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>愛知県 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E6%84%9B%E7%9F%A5%E7%9C%8C/</link>
+    <link>http://localhost:1313/tags/%E6%84%9B%E7%9F%A5%E7%9C%8C/</link>
     <description>Recent content in 愛知県 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E6%84%9B%E7%9F%A5%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%84%9B%E7%9F%A5%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【愛知県】篠島釣り天国｜離島で楽しむ海釣り体験・アクセス・料金情報</title>
-      <link>http://localhost:50243/aichi/shinojima-tsuri-tengoku/</link>
+      <link>http://localhost:1313/aichi/shinojima-tsuri-tengoku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/aichi/shinojima-tsuri-tengoku/</guid>
+      <guid>http://localhost:1313/aichi/shinojima-tsuri-tengoku/</guid>
       <description>&lt;p&gt;愛知県の離島・篠島に位置する「篠島釣り天国」は、澄んだ海に囲まれた環境で本格的な海釣りを手軽に楽しめる人気スポットです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【愛知県】新舞子マリンパーク魚釣り施設｜無料で700mの広大な釣り場が楽しめる知多半島の人気スポット</title>
-      <link>http://localhost:50243/aichi/shinmaiko-marine-park-fishing/</link>
+      <link>http://localhost:1313/aichi/shinmaiko-marine-park-fishing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/aichi/shinmaiko-marine-park-fishing/</guid>
+      <guid>http://localhost:1313/aichi/shinmaiko-marine-park-fishing/</guid>
       <description>&lt;p&gt;愛知県知多市に位置する「新舞子マリンパーク魚釣り施設」は、利用料無料で楽しめる全長700m以上の広大な釣り場です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【愛知県】爆釣 美浜フィッシングパーク｜高級魚が狙える知多半島の釣り堀・料金・アクセス情報</title>
-      <link>http://localhost:50243/aichi/bakucho-mihama-fishing-park/</link>
+      <link>http://localhost:1313/aichi/bakucho-mihama-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/aichi/bakucho-mihama-fishing-park/</guid>
+      <guid>http://localhost:1313/aichi/bakucho-mihama-fishing-park/</guid>
       <description>&lt;p&gt;愛知県知多半島の美浜町に位置する「爆釣 美浜フィッシングパーク」は、その名の通り豊富な釣果が期待できる人気の釣り堀です。&lt;/p&gt;</description>
     </item>
   </channel>

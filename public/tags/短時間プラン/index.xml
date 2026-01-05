@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>短時間プラン on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E7%9F%AD%E6%99%82%E9%96%93%E3%83%97%E3%83%A9%E3%83%B3/</link>
+    <link>http://localhost:1313/tags/%E7%9F%AD%E6%99%82%E9%96%93%E3%83%97%E3%83%A9%E3%83%B3/</link>
     <description>Recent content in 短時間プラン on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E7%9F%AD%E6%99%82%E9%96%93%E3%83%97%E3%83%A9%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%9F%AD%E6%99%82%E9%96%93%E3%83%97%E3%83%A9%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【静岡県】いかだ釣りの東海｜初心者に最適・短時間で気軽に釣り体験・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/ikadatsuri-tokai/</link>
+      <link>http://localhost:1313/shizuoka/ikadatsuri-tokai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/ikadatsuri-tokai/</guid>
+      <guid>http://localhost:1313/shizuoka/ikadatsuri-tokai/</guid>
       <description>&lt;p&gt;静岡県熱海市、網代港の穏やかな海に浮かぶ「いかだ釣りの東海」は、観光の合間にふらっと立ち寄れる手軽さが魅力の海上釣り堀です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【徳島県】浜部渡船 海上釣り堀｜格安30分3,000円！5匹まで釣り放題の超効率プラン</title>
-      <link>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
+      <link>http://localhost:1313/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
+      <guid>http://localhost:1313/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
       <description>&lt;p&gt;徳島県南部、海陽町（かいようちょう）。黒潮の恵み豊かなこの地に、知る人ぞ知る**「超・短時間決戦型」&lt;strong&gt;の海上釣り堀があります。それが&lt;/strong&gt;「浜部渡船（はまべとせん） 海上釣り堀」**です。&lt;/p&gt;</description>
     </item>
   </channel>

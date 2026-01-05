@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>石川県 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E7%9F%B3%E5%B7%9D%E7%9C%8C/</link>
+    <link>http://localhost:1313/tags/%E7%9F%B3%E5%B7%9D%E7%9C%8C/</link>
     <description>Recent content in 石川県 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E7%9F%B3%E5%B7%9D%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%9F%B3%E5%B7%9D%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【石川県】のとじま臨海公園「海づりセンター」｜水族館の隣で釣りデビュー！手ぶらで楽しむファミリーフィッシング</title>
-      <link>http://localhost:50243/ishikawa/notojima-sea-fishing-center/</link>
+      <link>http://localhost:1313/ishikawa/notojima-sea-fishing-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/ishikawa/notojima-sea-fishing-center/</guid>
+      <guid>http://localhost:1313/ishikawa/notojima-sea-fishing-center/</guid>
       <description>&lt;p&gt;「水族館で魚を見た後、その隣で実際に魚を釣ってみる」&#xA;そんなユニークな体験ができるのが、石川県能登島にある**「のとじま臨海公園 海づりセンター」**です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【石川県】フィッシングブリッジ赤崎｜24時間無料！能登の磯を手軽に攻める釣り桟橋</title>
-      <link>http://localhost:50243/ishikawa/fishing-bridge-akasaki/</link>
+      <link>http://localhost:1313/ishikawa/fishing-bridge-akasaki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/ishikawa/fishing-bridge-akasaki/</guid>
+      <guid>http://localhost:1313/ishikawa/fishing-bridge-akasaki/</guid>
       <description>&lt;p&gt;能登半島の豊かな海を、もっと手軽に、もっと自由に楽しみたい。&#xA;そんな釣り人の願いを叶えてくれるのが、能登町にある**「フィッシングブリッジ赤崎」**です。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>シーロード八幡浜 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E5%85%AB%E5%B9%A1%E6%B5%9C/</link>
+    <link>http://localhost:1313/tags/%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E5%85%AB%E5%B9%A1%E6%B5%9C/</link>
     <description>Recent content in シーロード八幡浜 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E5%85%AB%E5%B9%A1%E6%B5%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E5%85%AB%E5%B9%A1%E6%B5%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【愛媛県】おさかな牧場「シーロード八幡浜」｜週末営業！600円で楽しめるバリアフリー対応の本格海釣りスポット</title>
-      <link>http://localhost:50243/ehime/searoad-yawatahama/</link>
+      <link>http://localhost:1313/ehime/searoad-yawatahama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/ehime/searoad-yawatahama/</guid>
+      <guid>http://localhost:1313/ehime/searoad-yawatahama/</guid>
       <description>&lt;p&gt;愛媛県八幡浜市にある「おさかな牧場 シーロード八幡浜」は、美しい瀬戸内海に張り出した桟橋で本格的な海釣りが楽しめる施設です。&lt;/p&gt;</description>
     </item>
   </channel>

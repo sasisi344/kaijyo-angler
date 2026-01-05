@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ブリ on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%96%E3%83%AA/</link>
+    <link>http://localhost:1313/tags/%E3%83%96%E3%83%AA/</link>
     <description>Recent content in ブリ on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%96%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>【静岡県】海上釣り堀 太公望｜網代港の釣り体験と食事が楽しめる人気スポット</title>
-      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</guid>
-      <description>&lt;p&gt;熱海の温泉街からほど近い網代（あじろ）港。「海上釣り堀 太公望（たいこうぼう）」は、ただ魚を釣るだけでなく、**「釣った魚をその場で美味しく食べる」**ことにとことんこだわった施設です。&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【静岡県】海上釣り堀まるや｜高級魚が釣れる人気スポット・料金・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-maruya/</link>
+      <link>http://localhost:1313/shizuoka/kaijo-tsuribori-maruya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-maruya/</guid>
+      <guid>http://localhost:1313/shizuoka/kaijo-tsuribori-maruya/</guid>
       <description>&lt;p&gt;沼津市・西浦（にしうら）の静かな入り江にある「海上釣り堀まるや」は、釣り人なら一度は訪れたい憧れのフィールドです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【徳島県】浜部渡船 海上釣り堀｜格安30分3,000円！5匹まで釣り放題の超効率プラン</title>
-      <link>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
+      <link>http://localhost:1313/tokushima/hamabe-tosen-kaijo-tsuribori/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
+      <guid>http://localhost:1313/tokushima/hamabe-tosen-kaijo-tsuribori/</guid>
       <description>&lt;p&gt;徳島県南部、海陽町（かいようちょう）。黒潮の恵み豊かなこの地に、知る人ぞ知る**「超・短時間決戦型」&lt;strong&gt;の海上釣り堀があります。それが&lt;/strong&gt;「浜部渡船（はまべとせん） 海上釣り堀」**です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【和歌山県】釣堀紀州｜アクセス良好・ボウズ保証付き完全ガイド</title>
-      <link>http://localhost:50243/wakayama/tsuribori-kishu/</link>
+      <link>http://localhost:1313/wakayama/tsuribori-kishu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/wakayama/tsuribori-kishu/</guid>
+      <guid>http://localhost:1313/wakayama/tsuribori-kishu/</guid>
       <description>&lt;p&gt;関西圏から手軽にアクセスできる本格海上釣り堀として人気の「釣堀紀州」。ボウズ保証や充実したレンタルサービスで初心者から上級者まで安心して楽しめる施設です。&lt;/p&gt;</description>
     </item>
   </channel>

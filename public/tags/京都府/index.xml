@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>京都府 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/</link>
+    <link>http://localhost:1313/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/</link>
     <description>Recent content in 京都府 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E4%BA%AC%E9%83%BD%E5%BA%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【京都府】宮津市海洋つり場｜絶景の宮津湾で楽しむ！格安1,100円の本格海釣り施設</title>
-      <link>http://localhost:50243/kyoto/miyazu-city-marine-fishing-park/</link>
+      <link>http://localhost:1313/kyoto/miyazu-city-marine-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kyoto/miyazu-city-marine-fishing-park/</guid>
+      <guid>http://localhost:1313/kyoto/miyazu-city-marine-fishing-park/</guid>
       <description>&lt;p&gt;日本三景「天橋立」のほど近く、美しい宮津湾に浮かぶ釣り桟橋。&#xA;それが**「宮津市海洋つり場」**です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【京都府】舞鶴親海公園｜入場無料！365日楽しめる舞鶴湾のファミリー釣り場</title>
-      <link>http://localhost:50243/kyoto/maizuru-shinkai-park/</link>
+      <link>http://localhost:1313/kyoto/maizuru-shinkai-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kyoto/maizuru-shinkai-park/</guid>
+      <guid>http://localhost:1313/kyoto/maizuru-shinkai-park/</guid>
       <description>&lt;p&gt;「無料」で「365日」楽しめる。&#xA;釣り人にとってこれほど嬉しい条件が揃った施設は、関西でも数えるほどしかありません。&#xA;京都府舞鶴市にある**「舞鶴親海公園」**は、その名の通り、海と親しむために開放された楽園です。&lt;/p&gt;</description>
     </item>
   </channel>

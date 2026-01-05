@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>直島 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E7%9B%B4%E5%B3%B6/</link>
+    <link>http://localhost:1313/tags/%E7%9B%B4%E5%B3%B6/</link>
     <description>Recent content in 直島 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E7%9B%B4%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%9B%B4%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【香川県】直島つり公園｜入園料わずか100円！アート島で味わう本格海釣り体験</title>
-      <link>http://localhost:50243/kagawa/naoshima-fishing-park/</link>
+      <link>http://localhost:1313/kagawa/naoshima-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kagawa/naoshima-fishing-park/</guid>
+      <guid>http://localhost:1313/kagawa/naoshima-fishing-park/</guid>
       <description>&lt;p&gt;アートの聖地として世界的に有名な香川県・直島。その一角にある**「直島つり公園」&lt;strong&gt;は、なんと&lt;/strong&gt;入園料100円**という衝撃的な価格で本格的な海釣りが楽しめる穴場スポットです。&lt;/p&gt;</description>
     </item>
   </channel>

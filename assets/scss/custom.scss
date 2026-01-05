@@ -1,0 +1,318 @@
+/* =====================================================
+   Pinterest-Style Post Grid - Kaijyo Fishing
+   Sea Theme: Soft Blue & Wave Motifs
+   ===================================================== */
+
+/* --- Variables --- */
+:root {
+  --sea-primary: #5b9bd5;
+  --sea-light: #a0c4e3;
+  --sea-lighter: #e0f7fa;
+  --sea-dark: #3a6ea5;
+  --sea-accent: #b3e5fc;
+  --wave-overlay: linear-gradient(180deg, transparent 60%, rgba(91, 155, 213, 0.85) 100%);
+  --tile-radius: 16px;
+  --tile-shadow: 0 4px 16px rgba(58, 110, 165, 0.15);
+  --tile-shadow-hover: 0 8px 32px rgba(58, 110, 165, 0.25);
+}
+
+/* --- Post Grid Container --- */
+.post-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+/* Mobile: 1 column */
+@media (max-width: 767px) {
+  .post-grid {
+    grid-template-columns: 1fr !important;
+    gap: 1rem;
+  }
+}
+
+/* Tablet: 2 columns */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .post-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Desktop: 3 columns */
+@media (min-width: 1200px) {
+  .post-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .post-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* --- Post Tile --- */
+.post-tile {
+  position: relative;
+  border-radius: var(--tile-radius);
+  overflow: hidden;
+  background: var(--sea-lighter);
+  box-shadow: var(--tile-shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-tile:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: var(--tile-shadow-hover);
+}
+
+/* Mobile: active state for touch feedback */
+@media (max-width: 767px) {
+  .post-tile:active {
+    transform: scale(0.97);
+    box-shadow: 0 2px 8px rgba(58, 110, 165, 0.2);
+  }
+}
+
+/* --- Tile Link (Full clickable area) --- */
+.tile-link {
+  display: block;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  aspect-ratio: 3 / 4;
+}
+
+/* --- Thumbnail Container --- */
+.tile-thumb {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.tile-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.post-tile:hover .tile-thumb img {
+  transform: scale(1.08);
+}
+
+/* Placeholder when no image */
+.tile-thumb-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--sea-light) 0%, var(--sea-accent) 100%);
+  font-size: 4rem;
+}
+
+/* --- Overlay (Title & Category) --- */
+.tile-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1.5rem 1rem 1rem;
+  background: var(--wave-overlay);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 40%;
+  /* Wave effect using border-radius */
+  border-top-left-radius: 50% 20px;
+  border-top-right-radius: 50% 20px;
+}
+
+.tile-category {
+  display: inline-block;
+  background: var(--sea-primary);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  margin-bottom: 0.5rem;
+  width: fit-content;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tile-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+  line-height: 1.4;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* --- Summary (Hidden, shown on hover) --- */
+.tile-summary {
+  position: absolute;
+  inset: 0;
+  background: rgba(58, 110, 165, 0.92);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  text-align: center;
+}
+
+.tile-summary p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.post-tile:hover .tile-summary {
+  opacity: 1;
+}
+
+/* Mobile: Hide hover summary (no hover capability) */
+@media (max-width: 767px) {
+  .tile-summary {
+    display: none;
+  }
+}
+
+/* --- Pagination --- */
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+  margin-top: 2rem;
+  border-top: 2px solid var(--sea-light);
+}
+
+.pagination {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.pagination a,
+.pagination span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.5rem;
+  height: 2.5rem;
+  padding: 0 0.75rem;
+  border-radius: 8px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.pagination a {
+  background: var(--sea-lighter);
+  color: var(--sea-dark);
+}
+
+.pagination a:hover {
+  background: var(--sea-primary);
+  color: #fff;
+}
+
+.pagination .current {
+  background: var(--sea-primary);
+  color: #fff;
+}
+
+/* --- View More Button --- */
+.view-more-btn {
+  border-color: var(--sea-primary);
+  color: var(--sea-primary);
+  padding: 0.75rem 2rem;
+  font-weight: 600;
+  border-radius: 999px;
+  transition: all 0.3s ease;
+}
+
+.view-more-btn:hover {
+  background: var(--sea-primary);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(91, 155, 213, 0.3);
+}
+
+/* --- Hidden Articles & Load More --- */
+.article-item {
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.hidden-article {
+  display: none !important;
+}
+
+.fade-in {
+  animation: fadeInUp 0.5s ease forwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Article Counter */
+#article-counter {
+  font-size: 0.875rem;
+  color: var(--sea-dark);
+}
+
+/* --- Post Navigation (Prev/Next) --- */
+.post-navigation {
+  border-top: 1px solid var(--sea-light);
+  padding-top: 1.5rem;
+}
+
+.nav-link-custom {
+  display: inline-block;
+  color: var(--sea-dark);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+  line-height: 1.4;
+}
+
+.nav-link-custom:hover {
+  color: var(--sea-primary);
+}
+
+/* Back to Home Button */
+.back-to-home-btn {
+  background: var(--sea-lighter);
+  color: var(--sea-dark);
+  border: 2px solid var(--sea-light);
+  padding: 0.75rem 2rem;
+  font-weight: 600;
+  border-radius: 999px;
+  transition: all 0.3s ease;
+}
+
+.back-to-home-btn:hover {
+  background: var(--sea-primary);
+  color: #fff;
+  border-color: var(--sea-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(91, 155, 213, 0.3);
+}

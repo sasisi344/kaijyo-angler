@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>熱海 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E7%86%B1%E6%B5%B7/</link>
+    <link>http://localhost:1313/tags/%E7%86%B1%E6%B5%B7/</link>
     <description>Recent content in 熱海 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E7%86%B1%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%86%B1%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【静岡県】いかだ釣りの東海｜初心者に最適・短時間で気軽に釣り体験・アクセス情報</title>
-      <link>http://localhost:50243/shizuoka/ikadatsuri-tokai/</link>
+      <link>http://localhost:1313/shizuoka/ikadatsuri-tokai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/ikadatsuri-tokai/</guid>
+      <guid>http://localhost:1313/shizuoka/ikadatsuri-tokai/</guid>
       <description>&lt;p&gt;静岡県熱海市、網代港の穏やかな海に浮かぶ「いかだ釣りの東海」は、観光の合間にふらっと立ち寄れる手軽さが魅力の海上釣り堀です。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【静岡県】海上釣り堀 太公望｜網代港の釣り体験と食事が楽しめる人気スポット</title>
-      <link>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/kaijo-tsuribori-taikoubou/</guid>
-      <description>&lt;p&gt;熱海の温泉街からほど近い網代（あじろ）港。「海上釣り堀 太公望（たいこうぼう）」は、ただ魚を釣るだけでなく、**「釣った魚をその場で美味しく食べる」**ことにとことんこだわった施設です。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>【静岡県】熱海港海釣り施設｜リーズナブルな料金で地元民にも観光客にも人気の釣りスポット</title>
-      <link>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</link>
+      <link>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</guid>
+      <guid>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</guid>
       <description>&lt;p&gt;日本有数の温泉リゾート・熱海。その玄関口である熱海港の防波堤を利用した「熱海港海釣り施設」は、観光客から地元ベテラン勢までが集う賑やかな釣りスポットです。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ハネ（スズキ） on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%8F%E3%83%8D%E3%82%B9%E3%82%BA%E3%82%AD/</link>
+    <link>http://localhost:1313/tags/%E3%83%8F%E3%83%8D%E3%82%B9%E3%82%BA%E3%82%AD/</link>
     <description>Recent content in ハネ（スズキ） on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%8F%E3%83%8D%E3%82%B9%E3%82%BA%E3%82%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%8F%E3%83%8D%E3%82%B9%E3%82%BA%E3%82%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【兵庫県】尼崎市立魚つり公園｜アクセス抜群！大阪湾奥のメッカで狙うチヌ・スズキ攻略ガイド</title>
-      <link>http://localhost:50243/hyogo/amagasaki-city-sea-fishing-park/</link>
+      <link>http://localhost:1313/hyogo/amagasaki-city-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/hyogo/amagasaki-city-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/hyogo/amagasaki-city-sea-fishing-park/</guid>
       <description>&lt;p&gt;大阪市街から目と鼻の先。工場の煙突が並ぶ阪神工業地帯の一角に、関西屈指の**「チヌ・ハネ（スズキ）の聖地」**があります。&lt;/p&gt;</description>
     </item>
   </channel>

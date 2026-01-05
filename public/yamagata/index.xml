@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yamagata on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/yamagata/</link>
+    <link>http://localhost:1313/yamagata/</link>
     <description>Recent content in Yamagata on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/yamagata/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yamagata/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>由良海洋釣堀</title>
-      <link>http://localhost:50243/yamagata/yura-marine-fishing-pond/</link>
+      <link>http://localhost:1313/yamagata/yura-marine-fishing-pond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/yamagata/yura-marine-fishing-pond/</guid>
+      <guid>http://localhost:1313/yamagata/yura-marine-fishing-pond/</guid>
       <description>&lt;p&gt;東北地方で唯一の海上釣り堀として知られる「由良海洋釣堀」は、山形県鶴岡市の風光明媚な日本海沿岸に位置しています。&lt;/p&gt;</description>
     </item>
   </channel>

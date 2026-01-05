@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oita on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/oita/</link>
+    <link>http://localhost:1313/oita/</link>
     <description>Recent content in Oita on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/oita/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/oita/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【大分県】かまえ海上釣り堀 釣っちゃ王｜竿1本でシェアOK！マダイ保証付きの初心者天国</title>
-      <link>http://localhost:50243/oita/kamae-sea-fishing-tsunchaoh/</link>
+      <link>http://localhost:1313/oita/kamae-sea-fishing-tsunchaoh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/oita/kamae-sea-fishing-tsunchaoh/</guid>
+      <guid>http://localhost:1313/oita/kamae-sea-fishing-tsunchaoh/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「海上釣り堀って料金が高いし、釣れなかったら最悪…」&lt;/strong&gt;&#xA;&lt;strong&gt;「子供がすぐに飽きるかもしれないから、高いお金は出しにくい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

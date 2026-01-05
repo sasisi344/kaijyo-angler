@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>九州 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E4%B9%9D%E5%B7%9E/</link>
+    <link>http://localhost:1313/tags/%E4%B9%9D%E5%B7%9E/</link>
     <description>Recent content in 九州 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E4%B9%9D%E5%B7%9E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E4%B9%9D%E5%B7%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【鹿児島県】奄美シーランド｜世界自然遺産の海で手ぶら船釣り！90分12,000円からの贅沢体験</title>
-      <link>http://localhost:50243/kagoshima/amami-sealand/</link>
+      <link>http://localhost:1313/kagoshima/amami-sealand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kagoshima/amami-sealand/</guid>
+      <guid>http://localhost:1313/kagoshima/amami-sealand/</guid>
       <description>&lt;p&gt;世界自然遺産に登録された奇跡の島、奄美大島。&#xA;その透き通るような「アマミブルー」の海で、誰でも気軽に船長体験ができるのが**「奄美シーランド」**です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【鹿児島県】鴨池海づり公園｜水深25mの本格派！大人600円で大物狙える深場釣りスポット</title>
-      <link>http://localhost:50243/kagoshima/kamoike-sea-fishing-park/</link>
+      <link>http://localhost:1313/kagoshima/kamoike-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kagoshima/kamoike-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/kagoshima/kamoike-sea-fishing-park/</guid>
       <description>&lt;p&gt;鹿児島市街地から車ですぐ。&#xA;錦江湾（鹿児島湾）に突き出た**「鴨池海づり公園」**は、普通の釣り公園とは一味違います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【鹿児島県】桜島海づり公園｜活火山を望む絶景釣り場！フェリーで行く非日常体験</title>
-      <link>http://localhost:50243/kagoshima/sakurajima-sea-fishing-park/</link>
+      <link>http://localhost:1313/kagoshima/sakurajima-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kagoshima/sakurajima-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/kagoshima/sakurajima-sea-fishing-park/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「活火山を目の前にして釣りをする」&lt;/strong&gt;&#xA;世界中探しても、こんな体験ができる場所はそうそうありません。&lt;/p&gt;</description>
     </item>
   </channel>

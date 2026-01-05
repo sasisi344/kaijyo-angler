@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>カマス on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%82%AB%E3%83%9E%E3%82%B9/</link>
+    <link>http://localhost:1313/tags/%E3%82%AB%E3%83%9E%E3%82%B9/</link>
     <description>Recent content in カマス on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%82%AB%E3%83%9E%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%82%AB%E3%83%9E%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【静岡県】熱海港海釣り施設｜リーズナブルな料金で地元民にも観光客にも人気の釣りスポット</title>
-      <link>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</link>
+      <link>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/shizuoka/atami-port-sea-fishing-facility/</guid>
+      <guid>http://localhost:1313/shizuoka/atami-port-sea-fishing-facility/</guid>
       <description>&lt;p&gt;日本有数の温泉リゾート・熱海。その玄関口である熱海港の防波堤を利用した「熱海港海釣り施設」は、観光客から地元ベテラン勢までが集う賑やかな釣りスポットです。&lt;/p&gt;</description>
     </item>
   </channel>

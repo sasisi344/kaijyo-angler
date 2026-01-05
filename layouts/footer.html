@@ -1,0 +1,39 @@
+{{/* Custom footer.html - Truncated titles + Back to Top button */}}
+{{- $maxTitleLength := 25 -}}
+
+{{/* Render previous / next navigation */}}
+<div class="row row-cols-2 mt-5 mb-3 post-navigation">
+    <div class="col">
+        {{ with .NextInSection -}}
+        {{ if .OutputFormats.Get "html" -}}
+        {{- $title := .LinkTitle -}}
+        {{- if gt (len $title) $maxTitleLength -}}
+        {{- $title = printf "%s..." (substr $title 0 $maxTitleLength) -}}
+        {{- end -}}
+        <a class="next nav-link-custom" href="{{ .RelPermalink }}">
+            {{- partial "assets/icon.html" (dict "icon" "fas arrow-left" "spacing" false) }}&nbsp;{{ $title }}
+        </a>
+        {{- end -}}
+        {{ end -}}
+    </div>
+    <div class="col text-end">
+        {{ with .PrevInSection -}}
+        {{ if .OutputFormats.Get "html" -}}
+        {{- $title := .LinkTitle -}}
+        {{- if gt (len $title) $maxTitleLength -}}
+        {{- $title = printf "%s..." (substr $title 0 $maxTitleLength) -}}
+        {{- end -}}
+        <a class="previous nav-link-custom" href="{{ .RelPermalink }}">
+            {{ $title }}&nbsp;{{- partial "assets/icon.html" (dict "icon" "fas arrow-right" "spacing" false) }}
+        </a>
+        {{- end -}}
+        {{ end -}}
+    </div>
+</div>
+
+{{/* Back to Top Page Button */}}
+<div class="text-center mt-4 mb-5">
+    <a href="/" class="btn back-to-home-btn">
+        {{- partial "assets/icon.html" (dict "icon" "fas home" "spacing" false) }}&nbsp;トップページへ戻る
+    </a>
+</div>

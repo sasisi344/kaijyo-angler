@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yamaguchis on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/yamaguchi/</link>
+    <link>http://localhost:1313/yamaguchi/</link>
     <description>Recent content in Yamaguchis on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/yamaguchi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yamaguchi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【山口県】下関フィッシングパーク｜家族で安心の海釣り施設完全ガイド</title>
-      <link>http://localhost:50243/yamaguchi/shimonoseki-fishing-park/</link>
+      <link>http://localhost:1313/yamaguchi/shimonoseki-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/yamaguchi/shimonoseki-fishing-park/</guid>
+      <guid>http://localhost:1313/yamaguchi/shimonoseki-fishing-park/</guid>
       <description>&lt;p&gt;響灘の潮風を感じながら、足元に広がるのは魚影の濃い海。ここ「下関フィッシングパーク」は、子供たちの「釣れたー！」という歓声が響き渡る、まさにファミリーフィッシングの楽園です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>フィッシングパーク光</title>
-      <link>http://localhost:50243/yamaguchi/fishing-park-hikari/</link>
+      <link>http://localhost:1313/yamaguchi/fishing-park-hikari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/yamaguchi/fishing-park-hikari/</guid>
+      <guid>http://localhost:1313/yamaguchi/fishing-park-hikari/</guid>
       <description>&lt;p&gt;山口県光市にある「フィッシングパーク光」は、初心者からファミリーまで幅広い層に人気の海釣り施設です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>須佐湾フィッシングパーク</title>
-      <link>http://localhost:50243/yamaguchi/susawan-fishing-park/</link>
+      <link>http://localhost:1313/yamaguchi/susawan-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/yamaguchi/susawan-fishing-park/</guid>
+      <guid>http://localhost:1313/yamaguchi/susawan-fishing-park/</guid>
       <description>&lt;p&gt;山口県萩市にある「須佐湾フィッシングパーク」は、美しい須佐湾の自然を活かした特別な釣り場です。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Niigata on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/niigata/</link>
+    <link>http://localhost:1313/niigata/</link>
     <description>Recent content in Niigata on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/niigata/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/niigata/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【新潟県】新潟東港第2東防波堤管理釣り場｜サワラ・ブリが狙える！ルアーマンの聖地</title>
-      <link>http://localhost:50243/niigata/niigata-east-port-2nd-east-breakwater/</link>
+      <link>http://localhost:1313/niigata/niigata-east-port-2nd-east-breakwater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/niigata/niigata-east-port-2nd-east-breakwater/</guid>
+      <guid>http://localhost:1313/niigata/niigata-east-port-2nd-east-breakwater/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「陸から手軽に青物を釣りたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「管理された安全な場所で、思いっきりルアーを投げたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【新潟県】直江津港第3東防波堤管理釣り場｜マダイ・クロダイの大物実績多数！全国屈指の人気堤防</title>
-      <link>http://localhost:50243/niigata/naoetsu-port-3rd-east-breakwater/</link>
+      <link>http://localhost:1313/niigata/naoetsu-port-3rd-east-breakwater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/niigata/naoetsu-port-3rd-east-breakwater/</guid>
+      <guid>http://localhost:1313/niigata/naoetsu-port-3rd-east-breakwater/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「船に乗らなくても、大きなマダイを釣ってみたい…」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族を連れて行きたいけど、磯やテトラポットは危ないし…」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

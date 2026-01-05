@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>初心者歓迎 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E5%88%9D%E5%BF%83%E8%80%85%E6%AD%93%E8%BF%8E/</link>
+    <link>http://localhost:1313/tags/%E5%88%9D%E5%BF%83%E8%80%85%E6%AD%93%E8%BF%8E/</link>
     <description>Recent content in 初心者歓迎 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E5%88%9D%E5%BF%83%E8%80%85%E6%AD%93%E8%BF%8E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%88%9D%E5%BF%83%E8%80%85%E6%AD%93%E8%BF%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】釣り公園佐助屋｜2時間4,000円〜！伊勢志摩で一番「自由」な複合型釣り施設</title>
-      <link>http://localhost:50243/mie/fishing-park-sasukeya/</link>
+      <link>http://localhost:1313/mie/fishing-park-sasukeya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/fishing-park-sasukeya/</guid>
+      <guid>http://localhost:1313/mie/fishing-park-sasukeya/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀でマダイを釣りたいけど、丸一日は体力が持つか不安…」&lt;/strong&gt;&#xA;&lt;strong&gt;「家族で行くから、予算を抑えつつ楽しみたい」&lt;/strong&gt;&#xA;&lt;strong&gt;「いやいや、朝から晩までガッツリ大物と勝負したい！」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【福井県】ひるが海上釣堀｜仲間だけで高級魚を独占！波静かな日向湖で貸切釣りパーティー</title>
-      <link>http://localhost:50243/fukui/hiruga-sea-fishing-pond/</link>
+      <link>http://localhost:1313/fukui/hiruga-sea-fishing-pond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/fukui/hiruga-sea-fishing-pond/</guid>
+      <guid>http://localhost:1313/fukui/hiruga-sea-fishing-pond/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「隣の釣り人とオマツリするのが怖い…」&lt;/strong&gt;&#xA;&lt;strong&gt;「仲間だけでワイワイ騒ぎながら釣りがしたい！」&lt;/strong&gt;&#xA;&lt;strong&gt;「でも、船酔いは絶対にしたくない」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【福井県】マリンガーデン・レジャー｜優しさNo.1！「絶対に釣らせる」熱意が凄い釣り堀</title>
-      <link>http://localhost:50243/fukui/marine-garden-leisure/</link>
+      <link>http://localhost:1313/fukui/marine-garden-leisure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/fukui/marine-garden-leisure/</guid>
+      <guid>http://localhost:1313/fukui/marine-garden-leisure/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀デビューしたいけど、常連さんに怒られそう…」&lt;/strong&gt;&#xA;&lt;strong&gt;「子供に釣らせたいけど、自分も初心者だから教えられない」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

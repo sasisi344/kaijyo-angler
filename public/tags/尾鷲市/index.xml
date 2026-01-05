@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>尾鷲市 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E5%B0%BE%E9%B7%B2%E5%B8%82/</link>
+    <link>http://localhost:1313/tags/%E5%B0%BE%E9%B7%B2%E5%B8%82/</link>
     <description>Recent content in 尾鷲市 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E5%B0%BE%E9%B7%B2%E5%B8%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%B0%BE%E9%B7%B2%E5%B8%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】マルスイ海産｜1日4,500円！尾鷲の秘境で挑む天然魚との真剣勝負</title>
-      <link>http://localhost:50243/mie/marusui-kaisan/</link>
+      <link>http://localhost:1313/mie/marusui-kaisan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/marusui-kaisan/</guid>
+      <guid>http://localhost:1313/mie/marusui-kaisan/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀の魚では満足できない」&lt;/strong&gt;&#xA;&lt;strong&gt;「自分の技術がどこまで通用するか試したい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

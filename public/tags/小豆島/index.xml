@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小豆島 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E5%B0%8F%E8%B1%86%E5%B3%B6/</link>
+    <link>http://localhost:1313/tags/%E5%B0%8F%E8%B1%86%E5%B3%B6/</link>
     <description>Recent content in 小豆島 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E5%B0%8F%E8%B1%86%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%B0%8F%E8%B1%86%E5%B3%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【香川県】小豆島ふるさと村釣り桟橋｜500円で手ぶらフィッシング！オリーブの島で観光＆釣り三昧</title>
-      <link>http://localhost:50243/kagawa/shodoshima-furusatomura-fishing-pier/</link>
+      <link>http://localhost:1313/kagawa/shodoshima-furusatomura-fishing-pier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/kagawa/shodoshima-furusatomura-fishing-pier/</guid>
+      <guid>http://localhost:1313/kagawa/shodoshima-furusatomura-fishing-pier/</guid>
       <description>&lt;p&gt;「観光もしたいけど、釣りもちょっとやってみたい」&#xA;そんな欲張りな願いを叶えてくれるのが、瀬戸内海の宝石・小豆島にある**「小豆島ふるさと村 釣り桟橋」**です。&lt;/p&gt;</description>
     </item>
   </channel>

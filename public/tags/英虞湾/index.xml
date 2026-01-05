@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>英虞湾 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E8%8B%B1%E8%99%9E%E6%B9%BE/</link>
+    <link>http://localhost:1313/tags/%E8%8B%B1%E8%99%9E%E6%B9%BE/</link>
     <description>Recent content in 英虞湾 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E8%8B%B1%E8%99%9E%E6%B9%BE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E8%8B%B1%E8%99%9E%E6%B9%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【三重県】鵜方浜釣センター｜チヌ師の聖地！屋根・トイレ完備の快適筏で「年無し」に挑む</title>
-      <link>http://localhost:50243/mie/ugata-hamatsuri-center/</link>
+      <link>http://localhost:1313/mie/ugata-hamatsuri-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/mie/ugata-hamatsuri-center/</guid>
+      <guid>http://localhost:1313/mie/ugata-hamatsuri-center/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀の養殖魚じゃ満足できない」&lt;/strong&gt;&#xA;&lt;strong&gt;「自分の腕で、警戒心の強い野生のクロダイを仕留めたい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

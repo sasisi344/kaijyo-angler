@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>チョイ釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E3%83%81%E3%83%A7%E3%82%A4%E9%87%A3%E3%82%8A/</link>
+    <link>http://localhost:1313/tags/%E3%83%81%E3%83%A7%E3%82%A4%E9%87%A3%E3%82%8A/</link>
     <description>Recent content in チョイ釣り on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E3%83%81%E3%83%A7%E3%82%A4%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%83%81%E3%83%A7%E3%82%A4%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【和歌山県】雑賀崎シーパーク｜チョイ釣りも楽しめるバリアフリー海上釣り堀完全ガイド</title>
-      <link>http://localhost:50243/wakayama/saikakizaki-seapark/</link>
+      <link>http://localhost:1313/wakayama/saikakizaki-seapark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/wakayama/saikakizaki-seapark/</guid>
+      <guid>http://localhost:1313/wakayama/saikakizaki-seapark/</guid>
       <description>&lt;p&gt;和歌山市に位置する「雑賀崎シーパーク」は、本格的な海上釣り堀と気軽なチョイ釣りコースを併設した多彩な釣り体験ができる施設です。&lt;/p&gt;</description>
     </item>
   </channel>

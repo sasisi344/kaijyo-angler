@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>真鯛釣堀 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E7%9C%9F%E9%AF%9B%E9%87%A3%E5%A0%80/</link>
+    <link>http://localhost:1313/tags/%E7%9C%9F%E9%AF%9B%E9%87%A3%E5%A0%80/</link>
     <description>Recent content in 真鯛釣堀 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E7%9C%9F%E9%AF%9B%E9%87%A3%E5%A0%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%9C%9F%E9%AF%9B%E9%87%A3%E5%A0%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【福岡県】福岡市海づり公園｜都市部からアクセス便利・手ぶらOK・初心者向け完全ガイド</title>
-      <link>http://localhost:50243/fukuoka/fukuoka-city-sea-fishing-park/</link>
+      <link>http://localhost:1313/fukuoka/fukuoka-city-sea-fishing-park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/fukuoka/fukuoka-city-sea-fishing-park/</guid>
+      <guid>http://localhost:1313/fukuoka/fukuoka-city-sea-fishing-park/</guid>
       <description>&lt;p&gt;福岡市海づり公園は、福岡市西区にある海釣り施設で、都市部からわずか30分でアクセスできる便利な立地が魅力です。&lt;/p&gt;</description>
     </item>
   </channel>

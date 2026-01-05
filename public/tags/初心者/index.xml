@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>初心者 on 海上アングラー|全国の海上釣り堀施設を紹介！</title>
-    <link>http://localhost:50243/tags/%E5%88%9D%E5%BF%83%E8%80%85/</link>
+    <link>http://localhost:1313/tags/%E5%88%9D%E5%BF%83%E8%80%85/</link>
     <description>Recent content in 初心者 on 海上アングラー|全国の海上釣り堀施設を紹介！</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2025 Kaijyo Fishing.</copyright>
-    <atom:link href="http://localhost:50243/tags/%E5%88%9D%E5%BF%83%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%88%9D%E5%BF%83%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【大阪府】海上釣り堀オーパ｜ボウズ保証あり！初心者も安心の「絶対釣らせる」釣り堀</title>
-      <link>http://localhost:50243/osaka/kaijo-tsuribori-opa/</link>
+      <link>http://localhost:1313/osaka/kaijo-tsuribori-opa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/osaka/kaijo-tsuribori-opa/</guid>
+      <guid>http://localhost:1313/osaka/kaijo-tsuribori-opa/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「初めての釣り堀、もし1匹も釣れなかったらどうしよう…」&lt;/strong&gt;&#xA;&lt;strong&gt;「高いお金を払ってボウズ（0匹）なんて、絶対イヤだ！」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【大阪府】海上釣堀 岬｜深日港からすぐ！電車で行ける貴重な海上釣り堀</title>
-      <link>http://localhost:50243/osaka/kaijo-tsuribori-misaki/</link>
+      <link>http://localhost:1313/osaka/kaijo-tsuribori-misaki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/osaka/kaijo-tsuribori-misaki/</guid>
+      <guid>http://localhost:1313/osaka/kaijo-tsuribori-misaki/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「釣り堀に行きたいけど、車がない…」&lt;/strong&gt;&#xA;&lt;strong&gt;「いきなり1万円のコースはちょっと怖いから、安く体験したい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>【大分県】かまえ海上釣り堀 釣っちゃ王｜竿1本でシェアOK！マダイ保証付きの初心者天国</title>
-      <link>http://localhost:50243/oita/kamae-sea-fishing-tsunchaoh/</link>
+      <link>http://localhost:1313/oita/kamae-sea-fishing-tsunchaoh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50243/oita/kamae-sea-fishing-tsunchaoh/</guid>
+      <guid>http://localhost:1313/oita/kamae-sea-fishing-tsunchaoh/</guid>
       <description>&lt;p&gt;&lt;strong&gt;「海上釣り堀って料金が高いし、釣れなかったら最悪…」&lt;/strong&gt;&#xA;&lt;strong&gt;「子供がすぐに飽きるかもしれないから、高いお金は出しにくい」&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
