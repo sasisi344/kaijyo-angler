@@ -23,9 +23,10 @@ if sys.platform == 'win32':
 # 環境変数を読み込む
 load_dotenv()
 
+
 # 設定
 API_KEY = os.getenv("GOOGLE_API_KEY")
-MODEL_NAME = "gemini-2.5-flash-image"
+MODEL_NAME = "imagen-4.0-fast-generate-001"
 CONTENT_DIR = Path("content")
 IMAGE_FILENAME = "cover.jpg"
 PROMPT_FILE = Path("scripts/thumbnail_prompt.yaml")
@@ -89,74 +90,48 @@ def generate_thumbnail(title, output_path):
         
         print(f"  > プロンプト: {prompt[:80]}...")
         
-        # コンテンツを構築
-        contents = [
-            types.Content(
-                role="user",
-                parts=[
-                    types.Part.from_text(text=prompt),
-                ],
-            ),
-        ]
-        
-        # 画像生成の設定
-        generate_content_config = types.GenerateContentConfig(
-            response_modalities=[
-                "IMAGE",
-                "TEXT",
-            ],
-        )
-        
-        # ストリーミングで生成
-        image_generated = False
-        
-        for chunk in client.models.generate_content_stream(
-            model=MODEL_NAME,
-            contents=contents,
-            config=generate_content_config,
-        ):
-            if (
-                chunk.candidates is None
-                or chunk.candidates[0].content is None
-                or chunk.candidates[0].content.parts is None
-            ):
-                continue
-            
-            # 画像データがあるか確認
-            if (chunk.candidates[0].content.parts[0].inline_data and 
-                chunk.candidates[0].content.parts[0].inline_data.data):
+        # Imagen 3/4 API Call (generate_images)
+        try:
+             response = client.models.generate_images(
+                model=MODEL_NAME,
+                prompt=prompt,
+                config=types.GenerateImagesConfig(
+                    number_of_images=1,
+                    safety_filter_level="block_low_and_above",
+                    person_generation="allow_adult"
+                )
+            )
+             
+             if response.generated_images:
+                gen_img = response.generated_images[0]
+                # Robustly check for image data attribute
+                img_data = None
+                if hasattr(gen_img, 'image'):
+                    img_obj = gen_img.image
+                    if hasattr(img_obj, 'data'):
+                        img_data = img_obj.data
+                    elif hasattr(img_obj, 'image_bytes'):
+                         img_data = img_obj.image_bytes
+                    elif hasattr(img_obj, 'bytes'):
+                         img_data = img_obj.bytes
                 
-                inline_data = chunk.candidates[0].content.parts[0].inline_data
-                image_bytes = inline_data.data
-                
-                # 画像を保存
-                if resize_and_save_image(image_bytes, output_path):
-                    image_generated = True
-                    break
-            else:
-                # テキストレスポンスの場合
-                if hasattr(chunk, 'text') and chunk.text:
-                    print(f"  [情報] {chunk.text[:100]}...")
+                if img_data:
+                    return resize_and_save_image(img_data, output_path)
         
-        return image_generated
+        except Exception as e:
+            print(f"  [エラー] Imagen API呼び出しエラー: {e}")
+            if "NOT_FOUND" in str(e):
+                 print(f"  [警告] モデル {MODEL_NAME} が見つかりません。")
+            elif "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                 print("  [警告] クォータ超過またはレート制限です。")
+            return False
+
+        return False
         
     except Exception as e:
-        print(f"  [エラー] API呼び出しエラー: {e}")
-        
-        # クォータエラーの場合は特別なメッセージを表示
-        if "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e):
-            print("\n" + "="*60)
-            print("⚠️  クォータ超過エラー")
-            print("="*60)
-            print("このエラーは以下のいずれかが原因です：")
-            print("1. 無料プランでは画像生成機能が利用できません")
-            print("2. レート制限に達しました")
-            print("\n解決方法：")
-            print("- Google AI Studioで課金を有効にしてください")
-            print("- https://aistudio.google.com/")
-            print("="*60 + "\n")
-        
+        print(f"  [エラー] 予期せぬエラー: {e}")
         return False
+
 
 
 def process_shizuoka():
@@ -184,7 +159,7 @@ def process_shizuoka():
     for i, file_path in enumerate(files):
         try:
             # frontmatterを読み込む
-            post = frontmatter.loads(file_path.read_text(encoding='utf-8'))
+            post = frontmatter.loads(file_path.read_text(encoding='utf-8-sig'))
             
             title = post.get('title')
             

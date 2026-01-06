@@ -5,13 +5,13 @@ prefecture: "kumamoto"
 region: "kyushu-okinawa"
 slug: "kaijo-tsuribori-tsuriichi"
 tags:
-  - 九州沖縄
   - 熊本県
-  - 天草
   - 海上釣り堀
-  - 初心者向け
+  - 家族連れ
+  - 初心者歓迎
+  - 団体割引
 featureimage: "cover.jpg"
-description: "「本格的な海釣りはしたいけど、丸一日潰れるのはちょっと…」"
+description: "「3時間1本勝負」で集中して楽しむ天草の釣り堀。ボウズでもマダイ2匹のお土産保証があり、絶対に損はさせません。人数が増えるほど安くなる団体割引もあるので、グループ旅行におすすめ。"
 ---
 
 

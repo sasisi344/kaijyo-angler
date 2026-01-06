@@ -5,13 +5,13 @@ prefecture: "kumamoto"
 region: "kyushu-okinawa"
 slug: "amakusa-leisure-land"
 tags:
-  - 九州沖縄
   - 熊本県
-  - 天草
   - 海上釣り堀
   - 予約不要
+  - 家族連れ
+  - 手ぶらOK
 featureimage: "cover.jpg"
-description: "「今日は天気がいいから、海釣りでも行こうか」"
+description: "「予約なし・当日参加OK」の気軽さが魅力。1時間単位で遊べる時間制料金なので、観光の合間に最適。釣った魚を預かってくれる「キープシステム」もあり、常連から観光客まで愛される自由な釣り堀です。"
 ---
 
 

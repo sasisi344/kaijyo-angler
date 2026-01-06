@@ -1,0 +1,11 @@
+--- START DEBUG ---
+Testing model: imagen-3.0-generate-001
+FAILED: imagen-3.0-generate-001
+  Error: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/imagen-3.0-generate-001 is not found for API version v1beta, or is not supported for predict. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Testing model: imagen-4.0-fast-generate-001
+SUCCESS: imagen-4.0-fast-generate-001
+  Image data received.
+Testing model: gemini-2.5-flash-image-preview
+FAILED: gemini-2.5-flash-image-preview
+  Error: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-2.5-flash-image-preview is not found for API version v1beta, or is not supported for predict. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+--- END DEBUG ---

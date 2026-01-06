@@ -6,13 +6,12 @@ region: "shikoku"
 slug: "raft-fishing-takahashi"
 tags:
   - 高知県
-  - 筏釣り 高橋渡船
   - 筏釣り
-  - 須崎市
-  - 海上BBQ
-  - コスパ最強
+  - チヌ
+  - BBQ
+  - コスパ高め
 featureimage: "cover.jpg"
-description: "「丸一日、時間を気にせず釣りに没頭したい！」 「釣りの合間に肉も焼いて食べたい！」"
+description: "浦ノ内湾で筏釣りならココ。最大11時間遊んで4,000円という衝撃コスパに加え、なんと「海上BBQ」が可能。チヌやアオリイカを狙いながら、仲間と肉を焼く。自由すぎる大人の休日を。"
 ---
 
 

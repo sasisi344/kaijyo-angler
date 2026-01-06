@@ -5,15 +5,13 @@ prefecture: "kagawa"
 region: "shikoku"
 slug: "shodoshima-furusatomura-fishing-pier"
 tags:
-  - 四国
   - 香川県
-  - 小豆島
-  - 桟橋
-  - ファミリー
-  - 観光
-  - アオリイカ
+  - 海釣り施設
+  - 絶景
+  - 家族連れ
+  - 手ぶらOK
 featureimage: "cover.jpg"
-description: "「観光もしたいけど、釣りもちょっとやってみたい」 そんな欲張りな願いを叶えてくれるのが、瀬戸内海の宝石・小豆島にある「小豆島ふるさと村 釣り桟橋」です。"
+description: "オリーブの島・小豆島にある「小豆島ふるさと村 釣り桟橋」。入場料500円で手ぶらフィッシングが楽しめる観光釣りスポット。穏やかな内海湾で、アジやチヌ、アオリイカを狙ってみませんか？"
 ---
 
 

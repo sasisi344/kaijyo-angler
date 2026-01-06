@@ -5,13 +5,13 @@ prefecture: "kumamoto"
 region: "kyushu-okinawa"
 slug: "sea-fishing-land"
 tags:
-  - 九州沖縄
   - 熊本県
-  - 芦北町
   - 海釣り施設
   - 堤防・波止
+  - コスパ高め
+  - 家族連れ
 featureimage: "cover.jpg"
-description: "「とにかく安く、でも本格的に釣りたい！」"
+description: "入場料大人700円、手ぶらセットでも2,000円という驚異のコスパ。御立岬公園内にある橋型桟橋で、アジやチヌ、シーバスを狙えます。お財布に優しく、温泉も近くにある芦北町の人気スポット。"
 ---
 
 

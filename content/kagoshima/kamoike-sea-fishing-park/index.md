@@ -5,14 +5,13 @@ prefecture: "kagoshima"
 region: "kyushu-okinawa"
 slug: "kamoike-sea-fishing-park"
 tags:
-  - 九州
   - 鹿児島県
-  - 鹿児島市
+  - 海釣り施設
   - 深場釣り
-  - 海釣り公園
   - カンパチ
+  - コスパ高め
 featureimage: "cover.jpg"
-description: "鹿児島市街地から車ですぐ。 錦江湾（鹿児島湾）に突き出た「鴨池海づり公園」は、普通の釣り公園とは一味違います。"
+description: "鹿児島市街地から車ですぐ、桜島を望む「鴨池海づり公園」。足元の水深25mという驚異の深さが、岸からカンパチやマダイの大物を呼び寄せます。大人600円で楽しめる「安・近・短」の本格釣りスポット。"
 ---
 
 

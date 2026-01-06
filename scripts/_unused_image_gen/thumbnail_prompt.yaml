@@ -8,11 +8,7 @@ thumbnail_prompt: |
   1. **Subject**: Visualize the core subject of the title (e.g., specific fish, fishing gear, scenery, or action). Make it look exciting and dynamic.
   2. **Style**: Photorealistic, vibrant colors, high contrast, suitable for a "Sea Fishing" (Kaijyo Fishing) theme.
   3. **Composition**: Rule of thirds, strong focal point.
-  4. **Text Rule**: If you include text within the image, it MUST be:
-     - Extremely short (Maximum 8 Japanese characters).
-     - A powerful "hook" or "kicker" derived from the title.
-     - Large, legible, and impactful font.
-     - If the title implies a clear benefit (e.g., "Big Catch", "Secret Trick"), use that.
+  4. **Text Rule**: DO NOT include any text in the image. The image should be purely visual.
   5. **Vibe**: Professional yet accessible. Makes the user want to click immediately.
   
   Generate the image based on these rules.

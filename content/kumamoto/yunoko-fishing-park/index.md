@@ -5,12 +5,13 @@ prefecture: "kumamoto"
 region: "kyushu-okinawa"
 slug: "yunoko-fishing-park"
 tags:
-  - 九州沖縄
   - 熊本県
   - 海釣り施設
   - 堤防・波止
+  - コスパ高め
+  - 家族連れ
 featureimage: "cover.jpg"
-description: "「たった600円で、これほど楽しめるのか？」"
+description: "大人600円で時間無制限！水俣湾に伸びる全長200mのプロムナードは、足場が良く金網柵付きでファミリーに最適。アジやチヌ、タチウオなど魚種も豊富で、湯の児温泉とのセット観光が鉄板コースです。"
 ---
 
 

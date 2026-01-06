@@ -5,13 +5,13 @@ prefecture: "kumamoto"
 region: "kyushu-okinawa"
 slug: "amakusa-rakutsuri"
 tags:
-  - 九州沖縄
   - 熊本県
-  - 天草
   - 海上釣り堀
-  - イルカウォッチング
+  - 手ぶらOK
+  - 初心者歓迎
+  - 家族連れ
 featureimage: "cover.jpg"
-description: "「天草の海に来たなら、釣りもしたい。でも時間はかけられない…」"
+description: "「1時間1本勝負」の潔いプランが大人気。料金コミコミ、道具レンタル込みの手ぶらスタイルで、イルカウォッチングの待ち時間などにサクッとマダイ釣りが楽しめます。天草観光のスキマ時間に最適。"
 ---
 
 
