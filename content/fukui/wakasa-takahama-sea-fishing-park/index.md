@@ -6,11 +6,12 @@ region: "hokuriku"
 slug: "wakasa-takahama-sea-fishing-park"
 tags:
   - 福井県
-  - 高浜町
-  - 海釣り公園
-  - 橋上釣り場
-  - コスパ最強
+  - 海釣り施設
+  - コスパ高め
+  - 絶景
   - アオリイカ
+featureimage: "cover.jpg"
+description: "入場料200円！若狭高浜にある、本土と人工島を結ぶ「橋の上」が釣り場のお得なスポット。潮通し抜群でアジ、サヨリ、チヌ、アオリイカなど魚種豊富。足元が網目状でスリルがありますが、透明度の高い若狭湾を見下ろしながらの釣りは爽快感抜群です。"
 featureimage: "cover.jpg"
 description: "「釣り公園はお金がかかるから嫌だ」 「でも、無料の堤防は場所取りが大変だし…」"
 ---
